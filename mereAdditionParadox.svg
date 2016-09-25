@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg"  aria-describedby="desc" viewBox="0 0 812.5463 745.15077" height="210.3mm" width="229.32mm" version="1.1" role="img" aria-labelledby="title" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Parfit&apos;s Mere Addition Paradox</title>
+<desc>A modified version of Parfit&apos;s diagram on p. 419 of his book &quot;Reasons and Persons&quot;, showing how a paradox arises from three inconsistent beliefs: B is worse than A; B is better than A+; and A+ is not worse than A.</desc>
+<defs>
+<marker id="Arrow1Mstart" refY="0" refX="0" orient="auto" overflow="visible">
+<path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
+</marker>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Parfit&apos;s Mere Addition Paradox</dc:title>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<dc:date>20 September 2016</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Philosophy Ink</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:rights>
+<cc:Agent>
+<dc:title>Creative Commons Attribution-ShareAlike</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:source>Reasons and Persons, p. 419</dc:source>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>mere addition paradox population ethics</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:description>A modified version of Parfit&apos;s diagram on p. 419 of his book &quot;Reasons and Persons&quot;.</dc:description>
+<dc:language>English</dc:language>
+<dc:publisher>
+<cc:Agent>
+<dc:title>https://github.com/philosophyInk/philosophy-visualized</dc:title>
+</cc:Agent>
+</dc:publisher>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-116.7 5.9217)">
+<rect stroke-linejoin="round" fill-opacity="0" height="285.09" width="29.272" stroke="#000" y="230.72" x="263.11" stroke-width="5">
+<desc>A population in which each member has a very high quality of life</desc>
+<title>Population Block A</title>
+</rect>
+<rect stroke-linejoin="round" fill-opacity="0" height="230.51" width="64.411" stroke="#000" y="285.3" x="392.66" stroke-width="5">
+<desc>Population with twice as many people as population A, but each with a lower quality of life than each of those in A</desc>
+<title>Population Block B</title>
+</rect>
+<path d="m341.86 219.38c0 341.48 0.79677 343.15 0.79677 343.15" stroke="#000" stroke-width="1px" fill="none">
+<desc>A divider between population outcomes A and B</desc>
+<title>A-B Divider</title>
+</path>
+<path d="m504.26 219.38c0 342.36 0.79677 344.03 0.79677 344.03" stroke="#000" stroke-width="1px" fill="none">
+<desc>A divider between population outcomes B and A+</desc>
+<title>B-A+ Divider</title>
+</path>
+<path d="m725 219.38c0 339.73 0.79677 341.39 0.79677 341.39" stroke="#000" stroke-width="1px" fill="none">
+<desc>A divider between population outcomes A+ and Divided B.</desc>
+<title>A+ and Divided B Divider</title>
+</path>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="42.18544" x="298.12677" font-family="Times" fill="#000000"><desc>Parfit claims that a paradox arises from the following three beliefs: outcome B is better than outcome A+ (B &gt; A+); outcome A+ is not worse than outcome A (A+ ≥ A); outcome B is worse than outcome A (B &lt; A). The paradox arises because the first two beliefs entail that outcome B is not worse than outcome A, which contradicts the last of the three beliefs. Thus, the three beliefs are inconsistent, and at least one of the beliefs must be rejected in order to avoid the paradox. In the diagram, the three inconsistent beliefs are represented by the dashed circles. In the diagram, the beliefs represented by the two bold brown dashed circles entail the belief represented by the bold brown solid circle. In the diagram, the beliefs represented by the circles with horizontal speckles and with vertical speckles entail the belief represented by the circle with addition sign speckles.</desc><title>Parfit&apos;s Mere Addition Paradox</title><tspan y="42.18544" x="298.12677">The Mere Addition Paradox</tspan><tspan font-size="20px" line-height="125%" y="92.18544" x="298.12677" font-family="Times"/></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="72.836571" x="308.81223" font-family="Times" fill="#000000"><desc>Suggested by p. 419 in Derek Parfit&apos;s book, &quot;Reasons and Persons,&quot; published by Oxford University Press in 1984. </desc><title>Attribution</title><tspan font-size="22.5px" line-height="125%" y="72.836571" x="308.81223" font-family="Times">(based on Parfit&apos;s <tspan font-size="22.5px" font-style="italic" line-height="125%" font-family="Times">Reasons and Persons</tspan>, p. 419)</tspan></text>
+<path d="m215.63 232.09c0 282.48 0.79677 283.86 0.79677 283.86" marker-start="url(#Arrow1Mstart)" stroke="#000" stroke-width="3" fill="none">
+<desc>An upward-pointing arrow indicating the quality of life for each member of a population.</desc>
+<title>Direction Arrow</title>
+</path>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="352.52942" x="140.412" font-family="Times" fill="#000000"><desc>The height of a block indicates the amount of whatever it is, perhaps happiness, that makes lives go well.</desc><title>Quality of Life</title><tspan y="352.52942" x="140.412" font-size="20px">Quality</tspan><tspan y="377.52942" x="140.412" font-size="20px">    of</tspan><tspan y="402.52942" x="140.412" font-size="20px">   Life</tspan></text>
+<rect stroke-linejoin="round" fill-opacity="0" height="285.09" width="27.27" stroke="#000" y="230.72" x="551.7" stroke-width="5">
+<desc>A population in which each member has a very high quality of life. This population is the same as the sole population in outcome A.</desc>
+<title>First Population Block in A+</title>
+</rect>
+<rect stroke-linejoin="round" fill-opacity="0" height="117.88" width="27.27" stroke="#000" y="397.94" x="650.78" stroke-width="5">
+<desc>This block represents the population of extra people that makes outcome A+ different from outcome A. These extra people have a quality of life that is lower than the quality of life enjoyed by the first population in A+, but they still have lives that are well worth living. Also, the inequality in A+ is not due to social injustice; the two populations have no contact with each other. Parfit calls these extra people a &quot;mere addition&quot; to A, resulting in A+, because they have lives worth living and they affect no one else and their existence does not involve social injustice.</desc>
+<title>Extra People in A+</title>
+</rect>
+<rect stroke-linejoin="round" fill-opacity="0" height="230.51" width="28.364" stroke="#000" y="285.3" x="775.4" stroke-width="5">
+<desc>A population of the same size as population A, but each with a quality of life lower than those in A and equal to those in B.</desc>
+<title>First Population Block in Divided B</title>
+</rect>
+<rect stroke-linejoin="round" fill-opacity="0" height="230.51" width="29.366" stroke="#000" y="285.3" x="879.66" stroke-width="5">
+<desc>A population of the same size as population A, but each with a quality of life lower than those in A and equal to those in B.</desc>
+<title>Second Population Block in Divided B</title>
+</rect>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="552.09332" x="784.21759" font-family="Times" fill="#000000"><desc>Outcome Divided B has two populations physically separated by a body of water. The two populations are equal in size and in quality of life. If joined together, they would be the same as the single population in outcome B.</desc><title>Populations Divided B, same as B but divided</title><tspan y="552.09332" x="784.21759" font-size="25px">Divided B</tspan></text>
+<path d="m585.13 484.7c4.1463 8.1718 8.5533 7.4813 13.155 0.17085 5.1822 8.2495 10.364 11.833 15.547 0.17084 5.3531 6.7026 10.706 11.205 16.059-0.51253 4.235 8.2398 8.636 10.01 13.326 0.51253" stroke="#000" stroke-width="1.5" fill="none"/>
+<path d="m586.06 496.01c4.1463 8.1718 8.5533 7.4813 13.155 0.17085 5.1822 8.2495 10.364 11.833 15.547 0.17084 5.3531 6.7026 10.706 11.205 16.059-0.51253 4.235 8.2398 8.636 10.01 13.326 0.51253" stroke="#000" stroke-width="1.5" fill="none">
+<desc>Waves indicating a body of water that separates the two populations in outcome A+.</desc>
+<title>Waves</title>
+</path>
+<path d="m586.28 508.87c4.1463 8.1718 8.5533 7.4813 13.155 0.17085 5.1822 8.2495 10.364 11.833 15.547 0.17084 5.3531 6.7026 10.706 11.205 16.059-0.51253 4.235 8.2398 8.636 10.01 13.326 0.51253" stroke="#000" stroke-width="1.5" fill="none"/>
+<path d="m811.58 485.04c4.1463 8.1718 8.5533 7.4813 13.155 0.17085 5.1822 8.2495 10.364 11.833 15.547 0.17084 5.3531 6.7026 10.706 11.205 16.059-0.51253 4.235 8.2398 8.636 10.01 13.326 0.51253" stroke="#000" stroke-width="1.5" fill="none"/>
+<path d="m812.51 496.35c4.1463 8.1718 8.5533 7.4813 13.155 0.17085 5.1822 8.2495 10.364 11.833 15.547 0.17084 5.3531 6.7026 10.706 11.205 16.059-0.51253 4.235 8.2398 8.636 10.01 13.326 0.51253" stroke="#000" stroke-width="1.5" fill="none">
+<desc>Waves representing a body of water physically separating the two equal populations in Divided B</desc>
+<title>Waves</title>
+</path>
+<path d="m812.74 509.21c4.1463 8.1718 8.5533 7.4813 13.155 0.17085 5.1822 8.2495 10.364 11.833 15.547 0.17084 5.3531 6.7026 10.706 11.205 16.059-0.51253 4.235 8.2398 8.636 10.01 13.326 0.51253" stroke="#000" stroke-width="1.5" fill="none"/>
+<g>
+<desc>The width of a block indicates the size of a population.</desc>
+<title>Size of Population</title>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="128.1636" x="260.59637" font-family="Times" fill="#000000"><tspan y="128.1636" x="260.59637" font-size="20px">Size</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="153.2355" x="268.86966" font-family="Times" fill="#000000"><tspan y="153.2355" x="268.86966" font-size="20px">of</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="177.27708" x="233.85538" font-family="Times" fill="#000000"><tspan y="177.27708" x="233.85538" font-size="20px">Population</tspan></text>
+</g>
+<path d="m275.94 573.49v122.94h340.91v-48.036c-12.225-6.3409-17.178-14.241 0-23.303v-51.79" stroke="#000" stroke-width="1px" fill="none">
+<desc>Outcomes A and A+ are compared and A+ is found to be not worse than A.</desc>
+<title>Outcomes A and A+ Connector</title>
+</path>
+<path d="m424.05 574.49v62.398h420.8v-68.561" stroke="#000" stroke-width="1px" fill="none">
+<desc>Outcomes B and Divided B are compared and found equal.</desc>
+<title>Outcomes B and Divided B Connector</title>
+</path>
+<g>
+<desc>An arrow representing the width of a block.</desc>
+<title>Double Arrow</title>
+<path d="m262.86 195.59h28.836" stroke="#000" stroke-width="3" fill="none"/>
+<path d="m259.13 195.51 3.9588 7.5147 0.13587-15.432z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+<path d="m296.01 195.64-3.9387 7.5253-0.17716-15.432z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+</g>
+<g>
+<desc>Outcome Divided B is better than outcome A+ because: the worst-off (the extra people) in A+ are better off in Divided B; Divided B has equality; Divided B has more of whatever it is that makes life worth living.</desc>
+<title>Divided B is better than A+ (solid circle with horizontal speckles: Divided B &gt; A+)</title>
+<circle stroke="#000" cy="413.09" cx="725.09" r="20.832" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="27.08px" line-height="125%" y="422.3826" x="717.61725" font-family="Times" fill="#000000"><tspan y="422.3826" x="717.61725" style="white-space:pre" font-size="25px">&lt;</tspan></text>
+<path id="b" d="m713.9 400h3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<use xlink:href="#b" transform="translate(9.176 -3.176)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(17.719 .49243)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(-3.9394 6.0603)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(24.061 8.5126)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(24.061 17.055)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(17.618 25.91)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(2.0606 26.06)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(-3.9394 21.558)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(-6.9947 13.709)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#b" transform="translate(9.0858 29.729)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<path id="a" d="m549.53 393.44h3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<g>
+<desc>Outcome B is better than outcome A+ because Divided B is equal to B and Divided B is better than A+.</desc>
+<title>B is better than A+ (brown bold dashed circle with + speckles: B &amp;gt; A+)</title>
+<circle stroke-width="2" stroke="#92231f" cy="413.09" cx="504.21" stroke-dasharray="8, 8" r="20.832" fill="#fff"/>
+<text style="word-spacing:0px;white-space:pre;letter-spacing:0px" xml:space="preserve" font-size="27.08px" line-height="125%" y="421.39774" x="498.78668" font-family="Times" fill="#000000"><tspan y="421.39774" x="498.78668" style="white-space:pre" font-size="25px">&gt;</tspan></text>
+<g transform="translate(-1.2343 1.4857)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(-3.3372 9.1829)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(-.72002 14.92)">
+<use xlink:href="#a" transform="translate(-60.082 12.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 966.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(5.4343 22.309)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(13.486 24)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(20,22)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(26,16)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(30,8)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(26)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(20,-6)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(12.309 -7.6914)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+<g transform="translate(3.8399 -4.2572)">
+<use xlink:href="#a" transform="translate(-60.082 10.736)" height="100%" width="100%" y="0" x="0"/>
+<use xlink:href="#a" transform="matrix(-.022301 -.99975 .99975 -.022301 110.37 964.24)" height="100%" width="100%" y="0" x="0"/>
+</g>
+</g>
+<path d="m910.73 308.69h-506.1" stroke="#000" stroke-dasharray="6, 6" fill="none">
+<desc>The average quality of life in A+ is lower than in any other outcome. The lower quality of life of the extra people in outcome A+ brings the average down.</desc>
+<title>Average Quality of Life in A+</title>
+</path>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="303.99582" x="611.90436" font-family="Times" fill="#000000"><desc>Because of the inequality in A+, the average quality of life in outcome A+ is lower than that in any other outcome.</desc><title>Average Level in A+</title><tspan y="303.99582" x="611.90436">  Average</tspan><tspan y="322.74582" x="611.90436">Level in A+</tspan></text>
+<g>
+<desc>Parfit says that the equality of outcome Divided B and outcome B, which differ only in that the population in B is split equally in two in Divided B, is clear and obvious.</desc>
+<title>Divided B is equal to B (solid circle with vertical speckles: Divided B = B)</title>
+<circle stroke="#000" cy="636.67" cx="667.14" r="20.832" fill="#fff"/>
+<path style="white-space:pre" d="m674.35 633.26h-13.648v1.7873h13.648v-1.7873z"/>
+<path style="white-space:pre" d="m674.35 638.68h-13.648v1.7873h13.648v-1.7873z"/>
+<path d="m682.73 630.06v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m681.88 641.71v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m676.55 621.85v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m674.55 647.85v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m665.95 649.85v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m658.55 647.85v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m652.21 640.81v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m650.7 631.3v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m657.05 623.15v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+<path d="m666.9 618.8v3.9197" stroke="#000" stroke-width="1px" fill="none"/>
+</g>
+<text style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" y="552.44733" x="268.06702" font-family="Times" fill="#000000"><desc>Population outcome A is half the size of any of the other outcomes, but its members enjoy the highest quality of life.</desc><title>Population A, half the size of any other outcome but highest in quality of life</title><tspan y="552.44733" x="268.06702" font-size="25px">A</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" y="552.44733" x="416.71155" font-family="Times" fill="#000000"><desc>Population outcome B is twice the size of the population in outcome A, but each member has a lower quality of life.</desc><title>Population B, twice A in size but lower in quality</title><tspan y="552.44733" x="416.71155" font-size="25px">B</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" y="552.44733" x="600.80823" font-family="Times" fill="#000000"><desc>Outcome A+ has two physically separated populations that do not interact. The first population is the same as population outcome A. The second population is the same size as the first, but it has a lower quality of life.</desc><title>Populations A+, twice A in size but has natural inequality</title><tspan y="552.44733" x="600.80823" font-size="25px">A+</tspan></text>
+<g>
+<desc>Outcome B is not worse than outcome A because B is better than A+ and A+ is not worse than A.</desc>
+<title>B is not worse than A (brown bold solid circle: B ≥ A)</title>
+<circle stroke-width="2" stroke="#92231f" cy="348.47" cx="341.79" r="20.832" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="355.39935" x="334.6055" font-family="Times" fill="#000000"><tspan y="355.39935" x="334.6055" style="white-space:pre" font-size="25px">≤</tspan></text>
+</g>
+<g>
+<desc>Outcome A+ is not worse than outcome A because we should reject the Average Principle and because the inequality in A+ does not make it worse.</desc>
+<title>A+ is not worse than A (brown bold dashed circle: A+ &amp;gt;= A)</title>
+<circle stroke-width="2" stroke="#92231f" cy="699.68" cx="446.35" stroke-dasharray="8, 8" r="20.832" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="706.41113" x="439.16895" font-family="Times" fill="#000000"><tspan y="706.41113" x="439.16895" style="white-space:pre" font-size="25px">≤</tspan></text>
+</g>
+<g>
+<desc>Outcome B is worse than outcome A because all the people in B, having a lower quality of life, are worse off. B is also worse because B, only twice the size of A, is not large enough to make the gain in quantity outweigh the loss in quality.</desc>
+<title>B is worse than A (dashed circle: B &amp;lt; A)</title>
+<g transform="translate(40)">
+<desc>Outcome B is worse than outcome A because all the people in B, having a lower quality of life, are worse off. B is also worse because B, only twice the size of A, is not large enough to make the gain in quantity outweigh the loss in quality.</desc>
+<title>B is worse than A (dashed circle: B &lt; A)</title>
+<circle cx="301.9" stroke="#000" cy="413.09" r="20.832" stroke-dasharray="6, 6" fill="#fff"/>
+<text style="word-spacing:0px;white-space:pre;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="419.45959" x="296.02359" font-family="Times" fill="#000000"><tspan y="419.45959" x="296.02359" style="white-space:pre" font-size="25px"/></text>
+</g>
+<g style="white-space:pre" transform="translate(0 -.30978)">
+<path style="white-space:pre" d="m336.28 420.32 12.7-5.75v-1.65l-12.7-5.75v1.8l10.5 4.775-10.5 4.775v1.8z"/>
+</g>
+</g>
+</g>
+<g opacity=".00009999" role="presentation" id="layer2" tabindex="0">
+<rect fill-opacity="0" height="72.927" width="464.89" stroke="#00f" y="11.486" x="173.05" stroke-width="5"/>
+<rect height="636.14" width="656.5" stroke="#00f" y="101.11" x="72.856" stroke-width="5" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="138.88846" x="34.266998" font-family="Times" fill="#000000"><tspan y="138.88846" x="34.266998"/></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="138.88846" x="108.50972" font-family="Times" fill="#000000"><tspan y="138.88846" x="108.50972">Parfit claims that a paradox arises from the following three beliefs: </tspan><tspan y="163.88846" x="108.50972">    outcome B is better than outcome A+ (B &gt; A+); </tspan><tspan y="188.88846" x="108.50972">    outcome A+ is not worse than outcome A (A+ ≥ A);</tspan><tspan y="213.88846" x="108.50972">    outcome B is worse than outcome A (B &lt; A). </tspan><tspan y="238.88847" x="108.50972">The paradox arises because the first two beliefs entail that outcome B </tspan><tspan y="263.88846" x="108.50972">is not worse than outcome A, which contradicts the last of the three </tspan><tspan y="288.88846" x="108.50972">beliefs. Thus, the three beliefs are inconsistent, and at least one of the </tspan><tspan y="313.88849" x="108.50972">beliefs must be rejected in order to avoid the paradox. In the diagram </tspan><tspan y="338.88849" x="108.50972">underneath this popup:</tspan><tspan y="363.88849" x="108.50972">   - the three inconsistent beliefs are represented by the dashed circles; </tspan><tspan y="388.88849" x="108.50972">   - the beliefs represented by the two bold brown dashed circles entail </tspan><tspan y="413.88849" x="108.50972">     the belief represented by the bold brown solid circle; </tspan><tspan y="438.88849" x="108.50972">   - the beliefs represented by the circles with horizontal speckles and </tspan><tspan y="463.88849" x="108.50972">     with vertical speckles entail the belief represented by the circle with </tspan><tspan y="488.88849" x="108.50972">     addition sign speckles. </tspan><tspan y="513.88849" x="108.50972"/><tspan y="538.88849" x="108.50972">The above is summarized below:</tspan></text>
+<flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(0 -.000030518)" line-height="125%" font-size="25px" font-family="Times" fill="#000000"><flowRegion><rect y="441.14" x="524.55" width="22.845" height="41.296"/></flowRegion><flowPara/></flowRoot>
+<g>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="584.44678" x="161.07768" font-family="Times" fill="#000000"><tspan y="584.44678" x="161.07768" font-size="20px">Divided B = B</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="613.22351" x="160.68448" font-family="Times" fill="#000000"><tspan y="613.22351" x="160.68448" font-size="20px">Divided B &gt; A+</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="598.56329" x="323.61124" font-family="Times" fill="#000000"><tspan y="598.56329" x="323.61124" font-size="20px">hence   B &gt; A+</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="607.81085" x="290.81558" font-family="Times" fill="#000000"><tspan y="607.81085" x="290.81558" font-size="60px">}</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="631.75262" x="383.53857" font-family="Times" fill="#000000"><tspan y="631.75262" x="383.53857" font-size="20px">A+ ≥ A</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="623.8374" x="457.21906" font-family="Times" fill="#000000"><tspan y="623.8374" x="457.21906" font-size="60px">}</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="614.91968" x="488.50983" font-family="Times" fill="#000000"><tspan y="614.91968" x="488.50983" font-size="20px">hence    B ≥ A</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="684.76233" x="509.90784" font-family="Times" fill="#000000"><tspan y="684.76233" x="509.90784" font-size="20px">but    B &lt; A</tspan></text>
+<path stroke-linejoin="bevel" d="m378.54 571.87v88.293h166.93l-0.29774 40.487 66.633-0.46189-0.24431-52.678-157.87-0.24431-0.73292-74.954z" stroke="#f00" stroke-dasharray="8.00000048, 8.00000048" stroke-width="2" fill="none"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="563.32709" x="380.66873" font-family="Times" fill="#ff0000"><tspan font-size="15px" y="563.32709" x="380.66873" fill="#ff0000">inconsistent</tspan></text>
+<rect fill-opacity=".15686" height="144.82" width="78.952" y="570" x="539.09" fill="#f00"/>
+<text style="word-spacing:0px;letter-spacing:0px" font-family="Times" stroke-opacity=".19608" xml:space="preserve" font-size="25px" line-height="125%" stroke="#ff0000" y="563.64484" x="538.66876" stroke-width="1px" fill="#ff0000"><tspan stroke-opacity=".19608" font-size="15px" stroke="#ff0000" y="563.64484" x="538.66876" fill="#ff0000">contradictory</tspan></text>
+</g>
+</g>
+<g role="presentation" id="layer3" tabindex="0">
+<circle stroke-linejoin="bevel" stroke-width="5" fill-opacity="0" stroke="#00f" cy="418.92" cx="225.17" r="16.898">
+<title>B is worse than A (dashed circle: B &lt; A)</title>
+</circle>
+<rect stroke-linejoin="bevel" height="127.26" width="545.04" stroke="#00f" y="91.365" x="248.38" stroke-width="5" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="121.8387" x="271.10242" font-family="Times" fill="#000000"><tspan line-height="125%" y="121.8387" x="271.10242">Outcome B is worse than outcome A because all the people </tspan><tspan line-height="125%" y="146.8387" x="271.10242">in B, having a lower quality of life, are worse off. B is also </tspan><tspan line-height="125%" y="171.8387" x="271.10242">worse because B, only twice the size of A, is not large enough </tspan><tspan line-height="125%" y="196.8387" x="271.10242">to make the gain in quantity outweigh the loss in quality.</tspan></text>
+</g>
+<g role="presentation" id="layer4" tabindex="0">
+<circle stroke-linejoin="bevel" stroke-width="5" fill-opacity="0" stroke="#00f" cy="354.43" cx="225.04" r="16.388">
+<title>B is not worse than A (brown bold solid circle: B ≥ A)</title>
+</circle>
+<rect stroke-linejoin="bevel" height="154.47" width="565.23" stroke="#00f" y="62.502" x="228.64" stroke-width="5" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="94.285103" x="247.70767" font-family="Times" fill="#000000"><tspan y="94.285103" x="247.70767">Outcome B is not worse than outcome A because B is better than </tspan><tspan y="119.2851" x="247.70767">A+ and A+ is not worse than A. This conclusion (from two of the </tspan><tspan y="144.2851" x="247.70767">three inconsistent beliefs) contradicts the (third) belief that B is </tspan><tspan y="169.2851" x="247.70767">worse than A. The plausibility of the three beliefs, combined with </tspan><tspan y="194.2851" x="247.70767">this contradiction, generates the paradox.</tspan></text>
+</g>
+<g role="presentation" id="layer5" tabindex="0">
+<circle stroke-linejoin="bevel" stroke-width="5" fill-opacity="0" stroke="#00f" cy="418.99" cx="387.47" r="16.676">
+<title>B is better than A+ (brown bold dashed circle with addition sign speckles: B &gt; A+)</title>
+</circle>
+<rect stroke-linejoin="bevel" height="100.06" width="417.78" stroke="#00f" y="110.59" x="282.61" stroke-width="5" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="141.26366" x="298.41138" font-family="Times" fill="#000000"><tspan y="141.26366" x="298.41138">Outcome B is better than outcome A+ because </tspan><tspan y="166.26366" x="298.41138">Divided B is equal to B and Divided B is better </tspan><tspan y="191.26366" x="298.41138">than A+.</tspan></text>
+</g>
+<g role="presentation" id="layer6" tabindex="0">
+<ellipse stroke-linejoin="bevel" fill-opacity="0" rx="16.652" ry="17.101" stroke="#00f" cy="418.94" cx="608.33" stroke-width="5">
+<title>Divided B is better than A+ (solid circle with horizontal speckles: Divided B &gt; A+)</title>
+</ellipse>
+<rect stroke-linejoin="bevel" height="129.02" width="480.97" stroke="#00f" y="90.328" x="320.35" stroke-width="5" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="122.2573" x="337.31686" font-family="Times" fill="#000000"><tspan y="122.2573" x="337.31686">Outcome Divided B is better than outcome A+ because: </tspan><tspan y="147.25729" x="337.31686">the worst-off (the extra people) in A+ are better off in </tspan><tspan y="172.25729" x="337.31686">Divided B; Divided B has equality; Divided B has more </tspan><tspan y="197.25729" x="337.31686">of whatever it is that makes life worth living.</tspan></text>
+</g>
+<g role="presentation" id="layer7" tabindex="0">
+<circle stroke-linejoin="bevel" stroke-width="5" fill-opacity="0" stroke="#00f" cy="642.56" cx="550.43" r="17.207">
+<title>Divided B is equal to B (solid circle with vertical speckles: Divided B = B)</title>
+</circle>
+<rect stroke-linejoin="bevel" height="101.81" width="494.13" stroke="#00f" y="99.178" x="269.45" stroke-width="5" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="129.5083" x="288.81247" font-family="Times" fill="#000000"><tspan y="129.5083" x="288.81247">Parfit says that the equality of outcome Divided B and </tspan><tspan y="154.5083" x="288.81247">outcome B, which differ only in that the population in B </tspan><tspan y="179.5083" x="288.81247">is split equally into two halves in Divided B, is clear.</tspan></text>
+</g>
+<g role="presentation" id="layer8" tabindex="0">
+<circle stroke-linejoin="bevel" stroke-width="5" fill-opacity="0" stroke="#00f" cy="705.59" cx="329.65" r="16.785">
+<title>A+ is not worse than A (brown bold dashed circle: A+ ≥ A)</title>
+</circle>
+<rect stroke-linejoin="bevel" fill-opacity="0" height="110.59" width="458.15" stroke="#00f" y="95.667" x="264.18" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="130.77437" x="288.7569" font-family="Times" fill="#000000"><tspan y="130.77437" x="288.7569">Outcome A+ is not worse than outcome A because </tspan><tspan y="155.77437" x="288.7569">we should reject the Average Principle and because </tspan><tspan y="180.77437" x="288.7569">the inequality in A+ does not make it worse.</tspan></text>
+</g>
+<g role="presentation" id="layer9" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="269.45" width="22.82" stroke="#00f" y="244.87" x="150.08" stroke-width="5">
+<title>Population Block A</title>
+</rect>
+<rect stroke-linejoin="bevel" height="75.481" width="460.78" stroke="#00f" y="135.18" x="213.28" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="164.87524" x="231.70767" font-family="Times" fill="#000000"><tspan y="164.87524" x="231.70767" style="white-space:pre">Outcome block A represents a single population </tspan><tspan y="189.87524" x="231.70767" style="white-space:pre">in which each member has a very high quality of life.</tspan></text>
+</g>
+<g role="presentation" id="layer10" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="216.79" width="52.661" stroke="#00f" y="299.29" x="280.86" stroke-width="5">
+<title>Population Block B</title>
+</rect>
+<rect stroke-linejoin="bevel" height="110.59" width="415.14" stroke="#00f" y="98.3" x="229.95" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="134.2851" x="251.01665" font-family="Times" fill="#000000"><tspan y="134.2851" x="251.01665" style="white-space:pre">Outcome B is a population with twice as many </tspan><tspan y="159.2851" x="251.01665" style="white-space:pre">people as population A, but each with a lower </tspan><tspan y="184.2851" x="251.01665" style="white-space:pre">quality of life than each of those in A.</tspan></text>
+</g>
+<g role="presentation" id="layer11" tabindex="0">
+<rect stroke-linejoin="bevel" height="276.47" width="17.554" stroke="#00f" y="243.12" x="440.6" stroke-width="5" fill="#fff">
+<title>First Population Block in A+</title>
+</rect>
+<rect stroke-linejoin="bevel" height="121.12" width="476.58" stroke="#00f" y="98.3" x="294.9" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="126.38596" x="315.965" font-family="Times" fill="#000000"><tspan y="126.38596" x="315.965" style="white-space:pre">Outcome A+ has two physically separate populations. </tspan><tspan y="151.38596" x="315.965" style="white-space:pre">The first is a population in which each member has </tspan><tspan y="176.38596" x="315.965" style="white-space:pre">a very high quality of life. This population is the same </tspan><tspan y="201.38596" x="315.965" style="white-space:pre">as the sole population in outcome A.</tspan></text>
+</g>
+<g role="presentation" id="layer12" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="110.59" width="20.187" stroke="#00f" y="408.12" x="537.14" stroke-width="5">
+<title>Extra People in A+</title>
+</rect>
+<rect stroke-linejoin="bevel" height="272.08" width="554.69" stroke="#00f" y="92.3" x="228.83" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="121.01901" x="247.72037" font-family="Times" fill="#000000"><tspan y="121.01901" x="247.72037" style="white-space:pre">This block represents the population of extra people that makes </tspan><tspan y="146.01901" x="247.72037" style="white-space:pre">outcome A+ different from outcome A. These extra people have </tspan><tspan y="171.01901" x="247.72037" style="white-space:pre">a quality of life that is lower than the quality of life enjoyed by </tspan><tspan y="196.01901" x="247.72037" style="white-space:pre">the first population in A+, but they still have lives that are well </tspan><tspan y="221.01901" x="247.72037" style="white-space:pre">worth living. Also, the inequality in A+ is not due to social </tspan><tspan y="246.01901" x="247.72037" style="white-space:pre">injustice; the two populations have no contact with each other. </tspan><tspan y="271.01901" x="247.72037" style="white-space:pre">Parfit calls these extra people a &quot;mere addition&quot; to A, </tspan><tspan y="296.01901" x="247.72037" style="white-space:pre">resulting in A+, because they have lives worth living and they </tspan><tspan y="321.01901" x="247.72037" style="white-space:pre">affect no one else and their existence does not involve social </tspan><tspan y="346.01901" x="247.72037" style="white-space:pre">injustice.</tspan></text>
+</g>
+<g role="presentation" id="layer13" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="219.42" width="20.187" stroke="#00f" y="299.29" x="662.65" stroke-width="5">
+<title>First Population Block in Divided B</title>
+</rect>
+<rect stroke-linejoin="bevel" height="126.39" width="494.13" stroke="#00f" y="96.545" x="306.31" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="126.77437" x="325.61948" font-family="Times" fill="#000000"><tspan y="126.77437" x="325.61948" style="white-space:pre">Outcome Divided B has two populations separated by a </tspan><tspan y="151.77437" x="325.61948" style="white-space:pre">body of water. The first is a population of the same size </tspan><tspan y="176.77437" x="325.61948" style="white-space:pre">as population A, but each with a quality of life lower </tspan><tspan y="201.77437" x="325.61948" style="white-space:pre">than those in A and equal to those in B.</tspan></text>
+</g>
+<g role="presentation" id="layer14" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="215.91" width="23.697" stroke="#00f" y="298.41" x="767.09" stroke-width="5">
+<title>Second Population Block in Divided B</title>
+</rect>
+<rect stroke-linejoin="bevel" height="124.63" width="412.51" stroke="#00f" y="95.667" x="390.57" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="20px" line-height="125%" y="125.75292" x="406.65363" font-family="Times" fill="#000000"><tspan y="125.75292" x="406.65363" style="white-space:pre">The second population in outcome Divided B is </tspan><tspan y="150.75293" x="406.65363" style="white-space:pre">a population of the same size as population A, </tspan><tspan y="175.75293" x="406.65363" style="white-space:pre">but each with a quality of life lower than those </tspan><tspan y="200.75293" x="406.65363" style="white-space:pre">in A and equal to those in B.</tspan></text>
+</g>
+<style type="text/css">text, tspan{white-space:pre;}
+#layer2{opacity:0.0001;}
+#layer2:focus{opacity:1;}
+#layer3{opacity:0.0001;}
+#layer3:focus{opacity:1;}
+#layer4{opacity:0.0001;}
+#layer4:focus{opacity:1;}
+#layer5{opacity:0.0001;}
+#layer5:focus{opacity:1;}
+#layer6{opacity:0.0001;}
+#layer6:focus{opacity:1;}
+#layer7{opacity:0.0001;}
+#layer7:focus{opacity:1;}
+#layer8{opacity:0.0001;}
+#layer8:focus{opacity:1;}
+#layer9{opacity:0.0001;}
+#layer9:focus{opacity:1;}
+#layer10{opacity:0.0001;}
+#layer10:focus{opacity:1;}
+#layer11{opacity:0.0001;}
+#layer11:focus{opacity:1;}
+#layer12{opacity:0.0001;}
+#layer12:focus{opacity:1;}
+#layer13{opacity:0.0001;}
+#layer13:focus{opacity:1;}
+#layer14{opacity:0.0001;}
+#layer14:focus{opacity:1;}
+#layer15{opacity:0.0001;}
+#layer15:focus{opacity:1;}</style>
+</svg>

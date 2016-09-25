@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg"  aria-describedby="desc" aria-labelledby="title" viewBox="0 0 1107.9871 850.10335" height="239.92mm" width="312.7mm" version="1.1" role="img" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title id="title7540">Parfit&apos;s Repugnant Conclusion</title>
+<desc id="desc4267">A modified version of Parfit&apos;s diagram on p. 388 of his book &quot;Reasons and Persons&quot;, showing how the Impersonal Total Principle (i.e., if other things are equal, the best outcome is the one in which there would be the greatest quantity of whatever makes life worth living) implies the Repugnant Conclusion.</desc>
+<defs id="defs4">
+<marker id="Arrow1Mstart" refY="0" refX="0" orient="auto" overflow="visible">
+<path id="path4358" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
+</marker>
+<marker id="Arrow1Mend" refY="0" refX="0" orient="auto" overflow="visible">
+<path id="path4361" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.4 0 0 -.4 -4 0)" stroke="#000" stroke-width="1pt"/>
+</marker>
+</defs>
+<metadata id="metadata7">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Parfit&apos;s Repugnant Conclusion</dc:title>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<dc:date>13 September 2016</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Philosophy Ink</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:rights>
+<cc:Agent>
+<dc:title>Creative Commons Attribution-ShareAlike</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:source>Reasons and Persons, p. 388</dc:source>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>repugnant conclusion, population ethics</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:description>A modified version of Parfit&apos;s diagram on p. 388 of his book &quot;Reasons and Persons&quot;, showing how the Impersonal Total Principle (i.e., if other things are equal, the best outcome is the one in which there would be the greatest quantity of whatever makes life worth living) implies the Repugnant Conclusion.</dc:description>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g id="layer1" transform="translate(9.3045 5.9217)">
+<g id="g5977">
+<desc id="desc6078">Derek Parfit&apos;s Repugnant Conclusion</desc>
+<title id="title6076">The Repugnant Conclusion</title>
+<rect id="rect4136" stroke-linejoin="round" fill-opacity="0" height="285.09" width="27.27" stroke="#000" y="208.72" x="157.11" stroke-width="5">
+<desc id="desc4140">Population of at least ten billion people, each with a very high quality of life</desc>
+<title id="title4138">Population Block A</title>
+</rect>
+<rect id="rect4136-3" stroke-linejoin="round" fill-opacity="0" height="230.51" width="64.411" stroke="#000" y="263.3" x="238.66" stroke-width="5">
+<desc id="desc4140-6">Population with twice as many people as population A, but each with a lower quality of life than each of those in A</desc>
+<title id="title4138-7">Population Block B</title>
+</rect>
+<rect id="rect4136-3-5" stroke-linejoin="round" fill-opacity="0" height="169.07" width="124.45" stroke="#000" y="324.74" x="354.35" stroke-width="5">
+<desc id="desc4140-6-3">Population with twice as many people as population B, but each with a lower quality of life than each of those in B</desc>
+<title id="title4138-7-5">Population Block C</title>
+</rect>
+<path id="rect4136-3-5-6" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m533.22 468.51a1.8849 1.8849 0 0 0 -1.8848 1.8848v24.035a1.8849 1.8849 0 0 0 1.8848 1.8848h190.83c0.0129-0.97542 0.0175-1.9517-0.0469-2.9258-0.0119-0.28491-0.004-0.56192-0.01-0.84375h-188.89v-20.266h189.29v-0.26953-3.5h-191.17zm209.36 0v3.5 0.26953h22.029c-0.0167-1.2416 0.0252-2.481 0.28125-3.7109 0.005-0.0187 0.007-0.0397 0.0117-0.0586h-22.322zm40.799 0c-0.0317 0.29208-0.02 0.2362-0.125 1.1426-0.0444 0.38311-0.0645 0.77141-0.1543 1.1465-0.10886 0.45483-0.22561 0.87086-0.33594 1.25 0.009-0.003 0.0208-0.009 0.0215-0.002 0.008 0.0771 0.009 0.15513 0.0156 0.23242h16.471v-3.7695h-15.893zm34.076 0v3.7695h14.934c-0.0389-1.2587-0.0376-2.5175 0.0977-3.7695h-15.031zm33.346 0c-0.0641 0.82682-0.10494 1.2061-0.30664 2.332 0.0407 0.47813 0.0664 0.95796 0.0879 1.4375h178.29v20.266h-178.24c0.30824 1.1366 0.52805 2.3889 0.62695 3.7695h179.5a1.8849 1.8849 0 0 0 1.8848 -1.8848v-24.035a1.8849 1.8849 0 0 0 -1.8848 -1.8848h-179.96zm-108.63 24.035c0.0805 1.2558 0.0761 2.5121 0.0625 3.7695h21.738c0.001-1.1908 0.004-2.3815-0.006-3.5723-0.00018-0.0657 0.002-0.13152 0.002-0.19727h-21.797zm39.982 0c0.00009 0.0462-0.002 0.0924-0.002 0.13867 0.01 1.2098 0.006 2.421 0.004 3.6309h17.115v-3.7695h-17.117zm35.301 0v3.7695h15.314c-0.009-0.0468-0.0183-0.0938-0.0273-0.14062l-0.3125-2.582v-1.0469h-14.975z"/>
+<path id="path4285" d="m209.86 197.36c0 372.98 0.79677 374.8 0.79677 374.8" stroke="#000" stroke-width="1px" fill="none">
+<desc id="desc7496">A divider between populations A and B</desc>
+<title id="title7494">A-B Divider</title>
+</path>
+<path id="path4285-3" d="m328.26 197.36c0 372.98 0.79677 374.8 0.79677 374.8" stroke="#000" stroke-width="1px" fill="none">
+<desc id="desc7500">A divider between populations B and C</desc>
+<title id="title7498">B-C Divider</title>
+</path>
+<path id="path4285-6" d="m505 197.36c0 372.98 0.79677 374.8 0.79677 374.8" stroke="#000" stroke-width="1px" fill="none">
+<desc id="desc7504">A divider between populations C and D (not shown).</desc>
+<title id="title7502">C-Z Divider</title>
+</path>
+<text id="text4308" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="528.44733" x="162.06703" font-family="Times" fill="#000000"><desc id="desc7544">Label: Population A</desc><title id="title7542">Population A</title><tspan id="tspan4310" y="528.44733" x="162.06703" font-size="25px">A</tspan></text>
+<text id="text4308-8" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="528.44733" x="262.71155" font-family="Times" fill="#000000"><desc id="desc7548">Label: Population B</desc><title id="title7546">Population B</title><tspan id="tspan4310-0" y="528.44733" x="262.71155" font-size="25px">B</tspan></text>
+<text id="text4308-2" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="528.09332" x="407.31674" font-family="Times" fill="#000000"><desc id="desc7552">Label: Population C</desc><title id="title7550">Population C</title><tspan id="tspan4310-1" y="528.09332" x="407.31674" font-size="25px">C</tspan></text>
+<text id="text4308-0" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="528.44733" x="781.78119" font-family="Times" fill="#000000"><desc id="desc7556">Label: Population Z</desc><title id="title7554">Population Z</title><tspan id="tspan4310-5" y="528.44733" x="781.78119" font-size="25px">Z</tspan></text>
+<path id="path4346" marker-end="url(#Arrow1Mend)" d="m544.94 362.75l66.132 54.18" stroke="#000" stroke-width="3" fill="none">
+<desc id="desc7514">An arrow indicating the sequence of populations from D through Y (which are not shown).</desc>
+<title id="title7512">Direction Arrow</title>
+</path>
+<text id="text4783" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="696.26489" x="69.100754" font-family="Times" fill="#000000"><desc id="desc7538">A statement of the Repugnant Conclusion which Parfit claims (on p. 388) is implied by the Impersonal Total Principle (i.e., if other things are equal, the best outcome is the one in which there would be the greatest quantity of whatever makes life worth living).</desc><title id="title7536">A statement of the Repugnant Conclusion</title><tspan id="tspan4787" y="696.26489" x="69.100754" font-size="25px"><tspan id="tspan4811" font-weight="bold" font-size="25px" line-height="125%" font-family="Times">The Repugnant Conclusion</tspan>: For any possible population of at least ten billion </tspan><tspan id="tspan4795" y="727.51489" x="69.100754" font-size="25px">people (such as A above), all with a very high quality of life, there must be some </tspan><tspan id="tspan4789" y="758.76489" x="69.100754" font-size="25px">much larger imaginable population (such as Z above) whose existence, if other </tspan><tspan id="tspan4801" y="790.01489" x="69.100754" font-size="25px">things are equal, would be better, even though its members have lives that are </tspan><tspan id="tspan7470" y="821.26489" x="69.100754" font-size="25px">barely worth living.</tspan></text>
+<text id="text4813" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="42.18544" x="293.33368" font-family="Times" fill="#000000"><desc id="desc7474">The Repugnant Conclusion</desc><title id="title7472">Parfit&apos;s Repugnant Conclusion</title><tspan id="tspan4815" y="42.18544" x="293.33368">The Repugnant Conclusion</tspan><tspan id="tspan4817" font-size="20px" line-height="125%" y="92.18544" x="293.33368" font-family="Times"/></text>
+<text id="text4819" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="76.836571" x="317.59558" font-family="Times" fill="#000000"><desc id="desc7478">Suggested by p. 388 in Derek Parfit&apos;s book, &quot;Reasons and Persons,&quot; published by Oxford University Press in 1984. </desc><title id="title7476">Attribution</title><tspan id="tspan4821" font-size="22.5px" line-height="125%" y="76.836571" x="317.59558" font-family="Times">(from Parfit&apos;s <tspan id="tspan4823" font-size="22.5px" font-style="italic" line-height="125%" font-family="Times">Reasons and Persons</tspan>, p. 388)</tspan></text>
+<path id="path4285-2" d="m109.63 141.19c0 351.85 0.79677 353.57 0.79677 353.57" marker-start="url(#Arrow1Mstart)" stroke="#000" stroke-width="3" fill="none">
+<desc id="desc7492">The height of a block indicates the quality of life for each member of the population.</desc>
+<title id="title7490">Direction Arrow</title>
+</path>
+<g id="g7060" fill-rule="evenodd" transform="matrix(0.529 0 0 1 511.38 -22.54)" stroke="#000" stroke-width=".54996pt">
+<path id="path7066" d="m50.174 582.75 5.9928-6.0072-20.993 6.0251 21.007 5.9749-6.0072-5.9928z"/>
+<path id="path7068" d="m979.77 582.68-10.143 6.7189 20.019-6.57-20.763-7.374z"/>
+</g>
+<g id="g7060-9" fill-rule="evenodd" transform="matrix(.13827 0 0 1 345.02 -22.829)">
+<path id="path5816-3" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m862.68 580.85c-118.11-0.14-353.88-0.14-824.51 0.42l0.0039 3c470.63-0.5634 706.39-0.56272 824.5-0.42187 59.053 0.0704 88.693 0.17566 103.56 0.26367 7.4359 0.044 11.18 0.0829 13.059 0.11133 0.93935 0.0142 1.4128 0.0258 1.6387 0.0332 0.11295 0.004 0.16628 0.008 0.16797 0.008 0.00084 0.00006-0.008-0.00053-0.0527-0.006-0.0221-0.003-0.0506-0.006-0.11523-0.0195-0.0323-0.007-0.14074-0.0352-0.14062-0.0352 0.00011 0.00004-0.35352-0.16015-0.35352-0.16015l1.5879-2.5469s-0.35145-0.16012-0.35156-0.16015c-0.00011-0.00004-0.10961-0.0304-0.14258-0.0371-0.0659-0.0134-0.0984-0.0163-0.125-0.0195-0.0532-0.006-0.08-0.008-0.11133-0.01-0.0626-0.004-0.13359-0.007-0.26367-0.0117-0.26016-0.009-0.74492-0.0208-1.6934-0.0351-1.8969-0.0288-5.6453-0.0673-13.086-0.11133-14.881-0.0881-44.523-0.19325-103.58-0.26367z">
+<desc id="desc4391">The width of a block indicates the size of the population; C&apos;s population is twice the size of B&apos;s population.</desc>
+<title id="title4389">Block Width for C</title>
+</path>
+<path id="path7066-6" d="m50.174 582.75 5.9928-6.0072-20.993 6.0251 21.007 5.9749-6.0072-5.9928z" stroke="#000" stroke-width="1.0757pt"/>
+<path id="path7068-0" d="m979.77 582.68-10.143 6.7189 20.019-6.57-20.763-7.374z" stroke="#000" stroke-width="1.0757pt"/>
+</g>
+<g id="g7060-9-5" fill-rule="evenodd" transform="matrix(.071927 0 0 1 233.36 -23.445)">
+<path id="path5816-3-0" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m862.68 580.85c-118.11-0.14-353.88-0.14-824.51 0.42l0.0039 3c470.63-0.5634 706.39-0.56272 824.5-0.42187 59.053 0.0704 88.693 0.17566 103.56 0.26367 7.4359 0.044 11.18 0.0829 13.059 0.11133 0.93935 0.0142 1.4128 0.0258 1.6387 0.0332 0.11295 0.004 0.16628 0.008 0.16797 0.008 0.00084 0.00006-0.008-0.00053-0.0527-0.006-0.0221-0.003-0.0506-0.006-0.11523-0.0195-0.0323-0.007-0.14074-0.0352-0.14062-0.0352 0.00011 0.00004-0.35352-0.16015-0.35352-0.16015l1.5879-2.5469s-0.35145-0.16012-0.35156-0.16015c-0.00011-0.00004-0.10961-0.0304-0.14258-0.0371-0.0659-0.0134-0.0984-0.0163-0.125-0.0195-0.0532-0.006-0.08-0.008-0.11133-0.01-0.0626-0.004-0.13359-0.007-0.26367-0.0117-0.26016-0.009-0.74492-0.0208-1.6934-0.0351-1.8969-0.0288-5.6453-0.0673-13.086-0.11133-14.881-0.0881-44.523-0.19325-103.58-0.26367z">
+<desc id="desc7530">The width of a block indicates the size of a population; B&apos;s population is twice the size of A&apos;s.</desc>
+<title id="title7528">Block Width for B</title>
+</path>
+<path id="path7066-6-2" d="m50.174 582.75 5.9928-6.0072-20.993 6.0251 21.007 5.9749-6.0072-5.9928z" stroke="#000" stroke-width="1.4915pt"/>
+<path id="path7068-0-9" d="m979.77 582.68-10.143 6.7189 20.019-6.57-20.763-7.374z" stroke="#000" stroke-width="1.4915pt"/>
+</g>
+<g id="g7060-9-5-4" fill-rule="evenodd" transform="matrix(.035284 0 0 1 151.31 -24.25)">
+<path id="path5816-3-0-3" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m862.68 580.85c-118.11-0.14-353.88-0.14-824.51 0.42l0.0039 3c470.63-0.5634 706.39-0.56272 824.5-0.42187 59.053 0.0704 88.693 0.17566 103.56 0.26367 7.4359 0.044 11.18 0.0829 13.059 0.11133 0.93935 0.0142 1.4128 0.0258 1.6387 0.0332 0.11295 0.004 0.16628 0.008 0.16797 0.008 0.00084 0.00006-0.008-0.00053-0.0527-0.006-0.0221-0.003-0.0506-0.006-0.11523-0.0195-0.0323-0.007-0.14074-0.0352-0.14062-0.0352 0.00011 0.00004-0.35352-0.16015-0.35352-0.16015l1.5879-2.5469s-0.35145-0.16012-0.35156-0.16015c-0.00011-0.00004-0.10961-0.0304-0.14258-0.0371-0.0659-0.0134-0.0984-0.0163-0.125-0.0195-0.0532-0.006-0.08-0.008-0.11133-0.01-0.0626-0.004-0.13359-0.007-0.26367-0.0117-0.26016-0.009-0.74492-0.0208-1.6934-0.0351-1.8969-0.0288-5.6453-0.0673-13.086-0.11133-14.881-0.0881-44.523-0.19325-103.58-0.26367z">
+<desc id="desc7534">The width of a block indicates the size of a population; at at least ten billion, A has the smallest population.</desc>
+<title id="title7532">Block Width for A</title>
+</path>
+<path id="path7066-6-2-5" d="m50.174 582.75 5.9928-6.0072-20.993 6.0251 21.007 5.9749-6.0072-5.9928z" stroke="#000" stroke-width="2.1295pt"/>
+<path id="path7068-0-9-1" d="m979.77 582.68-10.143 6.7189 20.019-6.57-20.763-7.374z" stroke="#000" stroke-width="2.1295pt"/>
+</g>
+<text id="text7442" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="310.52942" x="8.4120026" font-family="Times" fill="#000000"><desc id="desc7482">Label for the direction arrow indicating the amount of whatever it is, perhaps happiness, that makes lives go well.</desc><title id="title7480">Quality of Life</title><tspan id="tspan7444" y="310.52942" x="8.4120026" font-size="25px">Quality</tspan><tspan id="tspan7446" y="341.77942" x="8.4120026" font-size="25px">    of</tspan><tspan id="tspan7448" y="373.02942" x="8.4120026" font-size="25px">   Life</tspan></text>
+<path id="path5816" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m862.68 580.85c-118.11-0.14-353.88-0.14-824.51 0.42l0.0039 3c470.63-0.5634 706.39-0.56272 824.5-0.42187 59.053 0.0704 88.693 0.17566 103.56 0.26367 7.4359 0.044 11.18 0.0829 13.059 0.11133 0.93935 0.0142 1.4128 0.0258 1.6387 0.0332 0.11295 0.004 0.16628 0.008 0.16797 0.008 0.00084 0.00006-0.008-0.00053-0.0527-0.006-0.0221-0.003-0.0506-0.006-0.11523-0.0195-0.0323-0.007-0.14074-0.0352-0.14062-0.0352 0.00011 0.00004-0.35352-0.16015-0.35352-0.16015l1.5879-2.5469s-0.35145-0.16012-0.35156-0.16015c-0.00011-0.00004-0.10961-0.0304-0.14258-0.0371-0.0659-0.0134-0.0984-0.0163-0.125-0.0195-0.0532-0.006-0.08-0.008-0.11133-0.01-0.0626-0.004-0.13359-0.007-0.26367-0.0117-0.26016-0.009-0.74492-0.0208-1.6934-0.0351-1.8969-0.0288-5.6453-0.0673-13.086-0.11133-14.881-0.0881-44.523-0.19325-103.58-0.26367z" fill-rule="evenodd" transform="matrix(0.529 0 0 1 511.38 -22.54)">
+<desc id="desc4387">The width of a block indicates the size of the population; Z has the largest population.</desc>
+<title id="title4385">Block Width for Z</title>
+</path>
+<text id="text7450" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="596.16101" x="688.59637" font-family="Times" fill="#000000"><desc id="desc7522">The width of a block indicates the size of a population</desc><title id="title7520">Population Size Label</title><tspan id="tspan7452" y="596.16101" x="688.59637" font-size="25px">Size of Population</tspan></text>
+</g>
+</g>
+<g id="layer6" role="presentation" tabindex="0">
+<rect id="rect4306" fill-opacity="0" height="75.097" width="460.71" stroke="#00f" y="14.016" x="294.38" stroke-width="5">
+<title id="title4334">Parfit&apos;s Repugnant Conclusion, showing how the Impersonal Total Principle implies a repugnant outcome having an enormous population with lives just barely worth living</title>
+</rect>
+<rect id="rect4308" height="195.25" width="732.13" stroke="#00f" y="111.14" x="213.28" stroke-width="5" fill="#fff"/>
+<text id="text4310" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="137.17801" x="228.29631" font-family="Times" fill="#000000"><tspan id="tspan4312" y="137.17801" x="228.29631"/></text>
+<text id="text4513" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="154.20531" x="237.31322" font-family="Times" fill="#000000"><tspan id="tspan4515" y="154.20531" x="237.31322">A modified version of Parfit&apos;s diagram on p. 388 of his book </tspan><tspan id="tspan4517" y="185.45531" x="237.31322"><tspan id="tspan4726" font-family="Times" font-style="italic">Reasons and Persons</tspan>, showing how the Impersonal Total Principle </tspan><tspan id="tspan4519" y="216.70531" x="237.31322">(i.e., if other things are equal, the best outcome is the one in </tspan><tspan id="tspan4521" y="247.95531" x="237.31322">which there would be the greatest quantity of whatever makes life </tspan><tspan id="tspan4523" y="279.20532" x="237.31322">worth living) implies the Repugnant Conclusion.</tspan></text>
+</g>
+<g id="layer5" role="presentation" tabindex="0">
+<rect id="rect4430" height="134.17" width="414.67" stroke="#00f" y="111.15" x="212.29" stroke-width="5" fill="#fff"/>
+<rect id="rect4432" fill-opacity="0" height="280.36" width="23.03" stroke="#00f" y="218.28" x="168.22" stroke-width="5">
+<title id="title4434">Population Block A</title>
+</rect>
+<text id="text4436" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="154.20271" x="236.30672" font-family="Times" fill="#000000"><tspan id="tspan4440" y="154.20271" x="236.30672">Population outcome A has a size of </tspan><tspan id="tspan4442" y="185.45271" x="236.30672">ten billion people, and each person </tspan><tspan id="tspan4444" y="216.70271" x="236.30672">has a very high quality of life.</tspan></text>
+</g>
+<g id="layer4" role="presentation" tabindex="0">
+<rect id="rect4399" fill-opacity="0" height="222.29" width="58.075" stroke="#00f" y="274.36" x="251.33" stroke-width="5">
+<title id="title4401">Population Block B</title>
+</rect>
+<rect id="rect4403" height="145.19" width="359.57" stroke="#00f" y="108.14" x="254.33" stroke-width="5" fill="#fff"/>
+<text id="text4405" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="141.19101" x="283.37039" font-family="Times" fill="#000000"><tspan id="tspan4407" y="141.19101" x="283.37039">Population outcome B is twice </tspan><tspan id="tspan4409" y="172.44101" x="283.37039">the size of population A, but </tspan><tspan id="tspan4413" y="203.69101" x="283.37039">each member&apos;s life has less </tspan><tspan id="tspan4417" y="234.94101" x="283.37039">quality.</tspan></text>
+</g>
+<g id="layer2" role="presentation" tabindex="0">
+<rect id="rect4697" stroke-linejoin="round" fill-opacity="0" height="161.35" width="113.84" stroke="#00f" y="333.46" x="368.74" stroke-width="5">
+<title id="title4699">Population Block C</title>
+</rect>
+<rect id="rect4280" height="157.2" width="394.62" stroke="#00f" y="140.18" x="361.47" stroke-width="5" fill="#fff"/>
+<text id="text4282" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="195.24559" x="378.50946" font-family="Times" fill="#000000"><tspan id="tspan4284" y="195.24559" x="378.50946">Population outcome C is twice the </tspan><tspan id="tspan4286" y="226.49559" x="378.50946">size of population B, but each </tspan><tspan id="tspan4288" y="257.74561" x="378.50946">member has a lower quality of life.</tspan></text>
+</g>
+<g id="layer3" role="presentation" tabindex="0">
+<rect id="rect4413" fill-opacity="0" height="14.018" width="489.64" stroke="#00f" y="481.63" x="545.71" stroke-width="5">
+<title id="title4834">Population Block Z</title>
+</rect>
+<rect id="rect4379" fill-opacity="0" height="163.21" width="448.71" stroke="#00f" y="160.21" x="536.69" stroke-width="5"/>
+<text id="text4381" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="214.2261" x="561.77588" font-family="Times" fill="#000000"><tspan id="tspan4266" y="214.2261" x="561.77588">Population outcome Z is an enormously </tspan><tspan id="tspan4385" y="245.4761" x="561.77588">large population, but each member has </tspan><tspan id="tspan4387" y="276.7261" x="561.77588">only a life barely worth living.</tspan></text>
+</g>
+<style id="style124" type="text/css">text, tspan{white-space:pre;}
+#layer2{opacity:0.0001;}
+#layer2:focus{opacity:1;}
+#layer3{opacity:0.0001;}
+#layer3:focus{opacity:1;}
+#layer4{opacity:0.0001;}
+#layer4:focus{opacity:1;}
+#layer5{opacity:0.0001;}
+#layer5:focus{opacity:1;}
+#layer6{opacity:0.0001;}
+#layer6:focus{opacity:1;}</style>
+</svg>
