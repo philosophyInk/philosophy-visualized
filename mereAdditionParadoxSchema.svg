@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" aria-describedby="desc" aria-labelledby="title" viewBox="0 0 493.17352 224.26665" height="63.293mm" width="139.18mm" version="1.1" role="img" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Parfit&apos;s Mere Addition Paradox</title>
+<desc>A schematized version of Parfit&apos;s Mere Addition Paradox on p. 419 of his book &quot;Reasons and Persons&quot;</desc>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Parfit&apos;s Mere Addition Paradox</dc:title>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<dc:date>24 September 2016</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Philosophy Ink</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:rights>
+<cc:Agent>
+<dc:title>Creative Commons Attribution-ShareAlike</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:source>Reasons and Persons, p. 419</dc:source>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>mere addition paradox schematic population ethics</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:description>A schematic representation of Parfit&apos;s Mere Addition Paradox on p. 419 of his book &quot;Reasons and Persons&quot;.</dc:description>
+<dc:language>English</dc:language>
+<dc:publisher>
+<cc:Agent>
+<dc:title>https://github.com/philosophyInk/philosophy-visualized</dc:title>
+</cc:Agent>
+</dc:publisher>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-3.2879 12.816)">
+<rect fill-opacity=".15686" height="144.82" width="78.952" y="56.003" x="399.09" fill="#f00"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="14.888456" x="42.255157" font-family="Times" fill="#000000"><desc>A schematic representation of Derek Parfit&apos;s Mere Addition Paradox from his book &quot;Reasons and Persons&quot; on page 419.</desc><title>Schematic of Parfit&apos;s Mere Addition Paradox</title><tspan y="14.888456" x="42.255157">The Mere Addition Paradox Schematized</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="70.44677" x="21.077673" font-family="Times" fill="#000000"><desc>Parfit says that the equality of outcome Divided B with outcome B is clear. The number of people in existence is the same in both and their quality of life is the same. The only difference is the geographical separation of the population in Divided B.</desc><title>Divided B equals B</title><tspan y="70.44677" x="21.077673" font-size="20px">Divided B = B</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="99.223503" x="20.684469" font-family="Times" fill="#000000"><desc>Outcome Divided B is better than outcome A+ because: the worst-off (the extra people) in A+ are better off in Divided B; Divided B has equality; Divided B has more of whatever it is that makes life worth living.</desc><title>Divided B is better than A+</title><tspan y="99.223503" x="20.684469" font-size="20px">Divided B &gt; A+</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="84.563286" x="183.61122" font-family="Times" fill="#000000"><desc>Outcome B is better than outcome A+ because Divided B is equal to B and Divided B is better than A+.</desc><title>B is better than A+</title><tspan y="84.563286" x="183.61122" font-size="20px">hence   B &gt; A+</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="95.5662" x="150.81557" font-family="Times" fill="#000000"><tspan y="95.5662" x="150.81557" font-size="60px">}</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="117.75262" x="243.53856" font-family="Times" fill="#000000"><desc>Outcome A+ is not worse than outcome A because we should reject the Average Principle and because the inequality in A+ does not make it worse.</desc><title>A+ is not worse than A</title><tspan y="117.75262" x="243.53856" font-size="20px">A+ ≥ A</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="111.59275" x="317.21906" font-family="Times" fill="#000000"><tspan y="111.59275" x="317.21906" font-size="60px">}</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="100.91967" x="348.50983" font-family="Times" fill="#000000"><desc>Outcome B is not worse than outcome A because B is better than A+ and A+ is not worse than A. This conclusion (from two of the three inconsistent beliefs) contradicts the (third) belief that B is worse than A. The plausibility of the three beliefs, combined with this contradiction, generates the paradox.</desc><title>B is not worse than A</title><tspan y="100.91967" x="348.50983" font-size="20px">hence    B ≥ A</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="170.76231" x="369.90784" font-family="Times" fill="#000000"><desc>Outcome B is worse than outcome A because all the people in B, having a lower quality of life, are worse off. B is also worse because B, only twice the size of A, is not large enough to make the gain in quantity outweigh the loss in quality.</desc><title>B is worse than A</title><tspan y="170.76231" x="369.90784" font-size="20px">but    B &lt; A</tspan></text>
+<path stroke-linejoin="bevel" d="m238.54 57.869v88.293h166.93l-0.29774 40.487 66.633-0.46189-0.24431-52.678-157.87-0.24431-0.73292-76.088z" stroke="#f00" stroke-dasharray="8.00000048, 8.00000048" stroke-width="2" fill="none"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="49.327076" x="240.66872" font-family="Times" fill="#ff0000"><desc>The three inconsistent beliefs are: B is better than A+; A+ is not worse than A; and B is worse than A.</desc><title>Three Inconsistent Beliefs</title><tspan font-size="15px" y="49.327076" x="240.66872" fill="#ff0000">inconsistent</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" font-family="Times" stroke-opacity=".19608" xml:space="preserve" font-size="25px" line-height="125%" stroke="#ff0000" y="49.644825" x="398.66876" stroke-width="1px" fill="#ff0000"><desc>The two contradictory beliefs are: B is not worse than A; B is worse than A.</desc><title>Two Contradictory Beliefs</title><tspan stroke-opacity=".19608" font-size="15px" stroke="#ff0000" y="49.644825" x="398.66876" fill="#ff0000">contradictory</tspan></text>
+</g>
+<style>text, tspan{white-space:pre;}</style>
+</svg>
