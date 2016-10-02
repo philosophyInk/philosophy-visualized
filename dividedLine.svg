@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" aria-describedby="desc" viewBox="0 0 1291.783 756.46101" height="213.49mm" width="364.57mm" version="1.1" role="img" aria-labelledby="title" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Plato&apos;s Divided Line</title>
+<defs>
+<marker id="Arrow2Lend" refY="0.0" refX="0.0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="scale(1.1) rotate(180) translate(1)" stroke="#00f" stroke-width=".625" fill="#00f"/>
+</marker>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Plato&apos;s Divided Line</dc:title>
+<dc:date>30 September 2016</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Philosophy Ink</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:source>Republic 509d-511e</dc:source>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>Plato divided line</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:description>A geometrical and dynamically annotated visual representation of the discussion of the divided line in Plato&apos;s &quot;Republic&quot; at 509d-511e.</dc:description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<dc:rights>
+<cc:Agent>
+<dc:title>Creative Commons Attribution-ShareAlike</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:publisher>
+<cc:Agent>
+<dc:title>https://github.com/philosophyInk/philosophy-visualized</dc:title>
+</cc:Agent>
+</dc:publisher>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g id="layer1" transform="translate(3.0228 -311.08)">
+<path id="d" d="m69.24 690.97h71.999" stroke="#000" stroke-width="3" fill="none">
+<desc>Short horizontal line for point E on the line</desc>
+<title>Marker E</title>
+</path>
+<use id="c" xlink:href="#d" transform="translate(-.57728 -254.29)" height="100%" width="100%" stroke="#000000" y="0" x="0" stroke-width="2.1303" fill="none">
+<desc>Short horizontal line for endpoint A on the line</desc>
+<title>Marker A</title>
+</use>
+<use id="b" xlink:href="#c" transform="translate(0 371.64)" height="100%" width="100%" y="0" x="0">
+<desc>Short horizontal line for point C on the line</desc>
+<title>Marker C</title>
+</use>
+<use id="a" xlink:href="#b" transform="translate(0 115.36)" height="100%" width="100%" y="0" x="0">
+<desc>Short horizontal line for point D on the line</desc>
+<title>Marker D</title>
+</use>
+<use xlink:href="#a" transform="translate(0 76.474)" height="100%" width="100%" y="0" x="0">
+<desc>Short horizontal line for endpoint B on the line</desc>
+<title>Marker B</title>
+</use>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="46.943px" line-height="125%" y="451.82477" x="5.6659117" font-family="Times" fill="#000000"><desc>A label for marker A</desc><title>Capital Letter A</title><tspan y="451.82477" x="5.6659117">A</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="46.943px" line-height="125%" y="705.15662" x="4.9402132" font-family="Times" fill="#000000"><desc>A label for marker E</desc><title>Capital Letter E</title><tspan y="705.15662" x="4.9402132">E</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="46.943px" line-height="125%" y="822.41199" x="4.8803406" font-family="Times" fill="#000000"><desc>A label for marker C</desc><title>Capital Letter C</title><tspan y="822.41199" x="4.8803406">C</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="46.943px" line-height="125%" y="938.56439" x="5.8763213" font-family="Times" fill="#000000"><desc>A label for marker D</desc><title>Capital Letter D</title><tspan y="938.56439" x="5.8763213">D</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="46.943px" line-height="125%" y="1015.1462" x="5.1300206" font-family="Times" fill="#000000"><desc>A label for marker B</desc><title>Capital Letter B</title><tspan y="1015.1462" x="5.1300206">B</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="335.43726" x="3.6637821" font-family="Times" fill="#000000"><desc>The simile or analogy (or whatever it is) of the divided line 
+in Plato&apos;s &quot;Republic&quot; dialogue at Stephanus numbers 
+509d to 511e, just before Book 7.</desc><title>Plato&apos;s Divided Line</title><tspan font-weight="bold" font-size="25px" line-height="125%" y="335.43726" x="3.6637821" font-family="Times">Plato&apos;s Divided Line</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="361.73035" x="17.169527" font-family="Times" fill="#000000"><desc>The passage is from Plato&apos;s &quot;Republic&quot; starting at 509d. 
+The translation is G. M. A. Grube&apos;s, as revised by C. D. C. 
+Reeve, from Hackett Publishing Company.</desc><title>Attribution</title><tspan y="361.73035" x="17.169527">(<tspan font-size="20px" font-style="italic" line-height="125%" font-family="Times">Republic</tspan> 509d - 511e)</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="335.16995" x="439.655" font-family="Times" fill="#000000"><desc>The text of the &quot;Republic&quot; at 509e and going to 511e, with 
+some omissions (notably the bit about geometry). The 
+translation is Grube&apos;s, as revised by Reeve.</desc><title>Plato&apos;s text at 509d to 511e of the Republic with Socrates and Glaucon the speakers</title><tspan y="335.16995" x="439.655">It is like a line divided into two unequal sections. Then divide each section—namely, that of the visible </tspan><tspan y="360.16995" x="439.655">and that of the intelligible—in the same ratio as the line. In terms now of relative clarity and opacity, one</tspan><tspan y="385.16995" x="439.655">subsection of the visible consists of images. And by images I mean, first, shadows, then reflections in </tspan><tspan y="410.16995" x="439.655">water and in all close-packed, smooth, and shiny materials, and everything of that sort, if you understand.</tspan><tspan y="435.16995" x="439.655">I do. <tspan style="white-space:pre" font-weight="bold" font-size="20px" line-height="125%" font-family="Times">[510a]</tspan></tspan><tspan y="460.89273" x="439.655">In the other subsection of the visible, put the originals of these images, namely, the animals around us, </tspan><tspan y="485.89273" x="439.655">all the plants, and the whole class of manufactured things.</tspan><tspan y="510.89273" x="439.655">Consider them put.</tspan><tspan y="535.8927" x="439.655">Would you be willing to say that, as regards truth and untruth, the division is in this proportion: As the </tspan><tspan y="560.8927" x="439.655">opinable is to the knowable, so the likeness is to the thing that it is like?</tspan><tspan y="585.8927" x="439.655">Certainly. <tspan style="white-space:pre" font-weight="bold">[510b]</tspan></tspan><tspan y="611.61548" x="439.655">Consider now how the section of the intelligible is to be divided.</tspan><tspan y="636.61548" x="439.655">How?</tspan><tspan y="661.61548" x="439.655">As follows: In one subsection, the soul, using as images the things that were imitated before, is forced </tspan><tspan y="686.61548" x="439.655">to investigate from hypotheses, proceeding not to a first principle but to a conclusion. In the other </tspan><tspan y="711.61548" x="439.655">subsection, however, it makes its way to a first principle that is not a hypothesis, proceeding from a </tspan><tspan y="736.61548" x="439.655">hypothesis but without the images used in the previous subsection, using forms themselves and making </tspan><tspan y="761.61548" x="439.655">its investigation through them.</tspan><tspan y="786.61548" x="439.655">                                                . . . [the bit about geometry: <tspan style="white-space:pre" font-weight="bold">510c - 511a</tspan>] . . .</tspan><tspan y="812.33826" x="439.655">Then also understand that, by the other subsection of the intelligible, I mean that which reason itself </tspan><tspan y="837.33826" x="439.655">grasps by the power of dialectic. It does not consider these hypotheses as first principles but truly as </tspan><tspan y="862.33826" x="439.655">hypotheses—but as stepping stones to take off from, enabling it to reach the unhypothetical first </tspan><tspan y="887.33826" x="439.655">principle of everything. Having grasped this principle, it reverses itself and, keeping hold of what </tspan><tspan y="912.33826" x="439.655">follows from it, comes down to a conclusion without making use of anything visible at all, but only </tspan><tspan y="937.33826" x="439.655">of forms themselves, moving on from forms to forms, and ending in forms.</tspan><tspan y="962.33826" x="439.655">                                                  . . . [Glaucon&apos;s summary: <tspan style="white-space:pre" font-weight="bold">511c - 511d</tspan>] . . .</tspan><tspan y="988.06104" x="439.655">Thus there are four such conditions in the soul, corresponding to the four subsections of our line: </tspan><tspan y="1013.061" x="439.655">Understanding for the highest, thought for the second, belief for the third, and imaging for the last. </tspan><tspan y="1038.061" x="439.655">Arrange them in a ratio, and consider that each shares in clarity to the degree that the subsection it is </tspan><tspan y="1063.061" x="439.655">set over shares in truth.</tspan></text>
+<path d="m105.01 435.64v256.53" stroke="#000" stroke-width="5" fill="none">
+<desc>Line segment AE, at the top and longest. This AE segment in 
+the intelligible section of the line represents dialectical 
+reasoning, culminating in understanding and knowledge of 
+the forms such as square itself, beauty itself, or justice itself.</desc>
+<title>Vertical Line AE</title>
+</path>
+<path d="m105.01 691.88v116.61" stroke="#000" stroke-width="5" fill="none">
+<desc>Line segment EC, immediately below AE, sort of in the 
+middle of the line. This EC segment of the lower 
+intelligible section of the line represents thinking with 
+the aid of images of intelligible objects (such as numbers 
+and idealized geometrical figures).</desc>
+<title>Vertical Line EC</title>
+</path>
+<path d="m105.01 807.82v116.61" stroke="#000" stroke-width="5" fill="none">
+<desc>Line segment CD, below EC (and equal in length to EC even 
+though Plato does not explicitly mention this), about three-
+fourths of the way down the line. This CD segment in the
+visible section represents beliefs regarding the originals 
+(such as animals, plants, and human artifacts) which are 
+the source of the images in DB.</desc>
+<title>Vertical Line CD</title>
+</path>
+<path d="m105.01 923.76v75.294" stroke="#000" stroke-width="5" fill="none">
+<desc>Line segment DB, the last (or lowest) and shortest of the 
+segments. This DB segment of the lower visible section 
+represents images such as shadows and reflections on 
+which mere opinion and conjecture are based.</desc>
+<title>Vertical Line DB</title>
+</path>
+</g>
+<g opacity="0.823" id="layer19" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity=".0039216" height="26.977" width="224.12" stroke="#00f" y="4.3682" x="3.263" stroke-width="5">
+<desc>The divided line is an analogy in Plato&apos;s Republic dialogue. 
+The analogy is between the ratios of the various sections 
+of the line and the relations between levels of reality and 
+our knowledge of what exists at those various levels.</desc>
+<title>Plato&apos;s Divided Line</title>
+</rect>
+<rect stroke-linejoin="round" height="545.77" width="885.05" stroke="#00f" y="133.81" x="214.31" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="188.36591" x="253.22925" font-family="Times" fill="#000000"><tspan y="188.36591" x="253.22925" style="white-space:pre">The divided line is an analogy in Plato&apos;s <tspan style="white-space:pre" font-style="italic">Republic</tspan> dialogue. It occurs from </tspan><tspan y="222.91278" x="253.22925" style="white-space:pre">509d to 511e at the end of Book Six (out of a total of ten books). The </tspan><tspan y="257.39761" x="253.22925" style="white-space:pre">middle books of the <tspan style="white-space:pre" font-style="italic">Republic</tspan> are heavy into metaphysics (the study of </tspan><tspan y="291.94449" x="253.22925" style="white-space:pre">the nature of being or existing in general) and epistemology (the study of </tspan><tspan y="326.31949" x="253.22925" style="white-space:pre">the nature and limits of knowledge), and the divided line seems to have</tspan><tspan y="360.69449" x="253.22925" style="white-space:pre">something to say about these areas of philosophical interest. In particular, </tspan><tspan y="395.06949" x="253.22925" style="white-space:pre">the analogy appears (the correct interpretation a matter of dispute) to be </tspan><tspan y="429.44449" x="253.22925" style="white-space:pre">between the ratios of the various sections of the line and the relations </tspan><tspan y="463.81949" x="253.22925" style="white-space:pre">between levels of reality and of our knowledge of what exists at those </tspan><tspan y="498.19449" x="253.22925" style="white-space:pre">various levels. In general, the things that exist at the lower levels, things </tspan><tspan y="532.56946" x="253.22925" style="white-space:pre">such as images and physical objects, are less real, being only imperfect </tspan><tspan y="566.94446" x="253.22925" style="white-space:pre">copies of the purely intelligible things existing at the higher levels; and it </tspan><tspan y="601.31946" x="253.22925" style="white-space:pre">is only of these latter that we have true understanding, knowing them only </tspan><tspan y="635.69446" x="253.22925" style="white-space:pre">through our mind rather than through our easily corruptible senses. </tspan></text>
+</g>
+<g opacity=".00009999" transform="translate(3.0228 -2.8079)" id="layer2" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="273.92" width="40.465" stroke="#00f" y="119.31" x="85.171" stroke-width="5">
+<title>Line Segment AE</title>
+</rect>
+<rect stroke-linejoin="bevel" height="246.94" width="584.16" stroke="#00f" y="132.57" x="181.67" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="192.81262" x="200.71793" font-family="Times" fill="#000000"><tspan y="192.81262" x="200.71793" style="white-space:pre">Line segment AE, at the top and longest. This </tspan><tspan y="227.18762" x="200.71793" style="white-space:pre">upper subsection of the intelligible section of the </tspan><tspan y="261.56262" x="200.71793" style="white-space:pre">line represents dialectical reasoning, culminating </tspan><tspan y="295.93762" x="200.71793" style="white-space:pre">in understanding and knowledge of the forms </tspan><tspan y="330.31262" x="200.71793" style="white-space:pre">such as square itself, beauty itself, or justice itself.</tspan></text>
+</g>
+<g opacity=".00009999" transform="translate(3.0228 -2.8079)" id="layer3" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="145.26" width="38.39" stroke="#00f" y="372.25" x="86.209" stroke-width="5">
+<title>Line Segment EC</title>
+</rect>
+<rect stroke-linejoin="bevel" height="247.98" width="507.38" stroke="#00f" y="341.13" x="192.04" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="387.81647" x="214.86823" font-family="Times" fill="#000000"><tspan y="387.81647" x="214.86823" style="white-space:pre">Line segment EC, immediately below AE, </tspan><tspan y="422.19147" x="214.86823" style="white-space:pre">sort of in the middle of the line. This sub- </tspan><tspan y="456.56647" x="214.86823" style="white-space:pre">section of the lower intelligible section of </tspan><tspan y="490.94147" x="214.86823" style="white-space:pre">the line represents thinking with the aid of </tspan><tspan y="525.31647" x="214.86823" style="white-space:pre">images of intelligible objects (such as </tspan><tspan y="559.69147" x="214.86823" style="white-space:pre">numbers and geometrical figures).</tspan></text>
+</g>
+<g opacity=".00009999" transform="translate(3.0228 -2.8079)" id="layer4" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="142.15" width="41.503" stroke="#00f" y="487.42" x="85.171" stroke-width="5">
+<title>Line Segment CD</title>
+</rect>
+<rect stroke-linejoin="bevel" height="302.97" width="571.7" stroke="#00f" y="434.51" x="173.37" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="472.97293" x="195.30458" font-family="Times" fill="#000000"><tspan y="472.97293" x="195.30458" style="white-space:pre">Line segment CD, below EC (and equal in </tspan><tspan y="507.34793" x="195.30458" style="white-space:pre">length to EC even though Plato does not </tspan><tspan y="541.7229" x="195.30458" style="white-space:pre">explicitly mention this), about three-fourths </tspan><tspan y="576.0979" x="195.30458" style="white-space:pre">of the way down the line. This upper subsection </tspan><tspan y="610.4729" x="195.30458" style="white-space:pre">of the visible section represents beliefs </tspan><tspan y="644.8479" x="195.30458" style="white-space:pre">regarding the originals (such as animals, plants, </tspan><tspan y="679.2229" x="195.30458" style="white-space:pre">and human artifacts) which are the source of </tspan><tspan y="713.5979" x="195.30458" style="white-space:pre">the images in line segment DB.</tspan></text>
+</g>
+<g opacity=".00009999" transform="translate(3.0228 -2.8079)" id="layer5" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="98.57" width="33.202" stroke="#00f" y="604.52" x="88.359" stroke-width="5">
+<title>Line Segment DB</title>
+</rect>
+<rect stroke-linejoin="bevel" height="205.44" width="567.55" stroke="#00f" y="543.56" x="178.55" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="581.94995" x="199.75551" font-family="Times" fill="#000000"><tspan y="581.94995" x="199.75551" style="white-space:pre">Line segment DB, the last (or lowest) and </tspan><tspan y="616.32495" x="199.75551" style="white-space:pre">shortest of the segments. This lowest subsection </tspan><tspan y="650.69995" x="199.75551" style="white-space:pre">of the visible section represents images such as </tspan><tspan y="685.07495" x="199.75551" style="white-space:pre">shadows and reflections which provide material </tspan><tspan y="719.44995" x="199.75551" style="white-space:pre">for the imagination.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer6" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="30.09" width="56.029" stroke="#00f" y="4.2179" x="507.37" stroke-width="5">
+<desc>The entire line.</desc>
+<title>Line AB</title>
+</rect>
+<rect stroke-linejoin="bevel" fill-opacity="0" height="597.64" width="51.879" stroke="#00f" y="109.01" x="81.969" stroke-width="5"/>
+<rect stroke-linejoin="bevel" height="611.13" width="440.97" stroke="#00f" y="64.126" x="208.69" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="100.29074" x="224.55287" font-family="Times" fill="#000000"><tspan y="100.29074" x="224.55287" style="white-space:pre">Line AB is properly vertical </tspan><tspan y="134.66574" x="224.55287" style="white-space:pre">because the line also represents</tspan><tspan y="169.04074" x="224.55287" style="white-space:pre">a scale of higher and lower being</tspan><tspan y="203.41574" x="224.55287" style="white-space:pre">or ways of existing. What exists </tspan><tspan y="237.79074" x="224.55287" style="white-space:pre">at the lower end, toward endpoint</tspan><tspan y="272.16574" x="224.55287" style="white-space:pre">B, is less perfect, less good, less </tspan><tspan y="306.54074" x="224.55287" style="white-space:pre">real, than what exists toward the </tspan><tspan y="340.91574" x="224.55287" style="white-space:pre">other end of the line at endpoint A.</tspan><tspan y="375.29074" x="224.55287" style="white-space:pre">This talk of being or existing is a </tspan><tspan y="409.66574" x="224.55287" style="white-space:pre">metaphysical interpretation of the </tspan><tspan y="444.04074" x="224.55287" style="white-space:pre">meaning of the divided line. There is </tspan><tspan y="478.41574" x="224.55287" style="white-space:pre">also an epistemological interpretation </tspan><tspan y="512.79077" x="224.55287" style="white-space:pre">according to which the different</tspan><tspan y="547.16577" x="224.55287" style="white-space:pre">segments of the line correspond, </tspan><tspan y="581.54077" x="224.55287" style="white-space:pre">not to different ways of existing, </tspan><tspan y="615.91577" x="224.55287" style="white-space:pre">but to different cognitive or mental </tspan><tspan y="650.29077" x="224.55287" style="white-space:pre">states such as believing or knowing.</tspan><tspan y="684.66577" x="224.55287" style="white-space:pre"/></text>
+</g>
+<g opacity=".00009999" id="layer7" tabindex="0">
+<rect stroke-linejoin="bevel" fill-opacity="0" height="28.015" width="184.69" stroke="#00f" y="5.2555" x="655.75" stroke-width="5">
+<desc>Line segment AC is one section, representing the 
+intelligible, and line segment CB, representing the 
+visible, is another section.</desc>
+<title>Two Unequal Sections: AC and CB</title>
+</rect>
+<rect stroke-linejoin="bevel" height="665.09" width="632.92" stroke="#00f" y="67.117" x="390.52" stroke-width="5" fill="#fff"/>
+<g>
+<g transform="translate(20)" stroke="#00f" stroke-width="5" fill="none">
+<path stroke-linejoin="round" d="m159.36 124.9h66.405v372.08h-67.442"/>
+<path d="m225.75 497.25v192.44l-68.48-0.0775"/>
+</g>
+<circle stroke-linejoin="round" cx="244.73" stroke="#00f" cy="308.23" r="51.879" stroke-width="5" fill="#fff"/>
+<g style="white-space:pre" transform="translate(-66,62)">
+<path style="white-space:pre" d="m314.21 224.09-10.8 5.46v0.84c0.72-0.3 1.38-0.54 1.62-0.66 1.08-0.42 2.1-0.66 2.7-0.66 1.26 0 1.8 0.9 1.8 2.82v27.18c0 1.98-0.48 3.36-1.44 3.9-0.9 0.54-1.74 0.72-4.26 0.78v0.9h16.56v-0.9c-4.74-0.06-5.7-0.66-5.7-3.54v-36l-0.48-0.12z"/>
+</g>
+<circle stroke-linejoin="round" cx="246.15" stroke="#00f" cy="593.4" r="51.879" stroke-width="5" fill="#fff"/>
+<g style="white-space:pre" transform="translate(-66,28)">
+<path style="white-space:pre" d="m325.25 576-0.78-0.3c-2.22 3.42-3 3.96-5.7 3.96h-14.34l10.08-10.56c5.34-5.58 7.68-10.14 7.68-14.82 0-6-4.86-10.62-11.1-10.62-3.3 0-6.42 1.32-8.64 3.72-1.92 2.04-2.82 3.96-3.84 8.22l1.26 0.3c2.4-5.88 4.56-7.8 8.7-7.8 5.04 0 8.46 3.42 8.46 8.46 0 4.68-2.76 10.26-7.8 15.6l-10.68 11.34v0.72h23.4l3.3-8.22z"/>
+</g>
+</g>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="98.937981" x="409.38953" font-family="Times" fill="#000000"><tspan y="98.937981" x="409.38953" style="white-space:pre">Line segment AC, representing the intelligible, is </tspan><tspan y="133.31299" x="409.38953" style="white-space:pre">larger than line segment CB, representing the visible. </tspan><tspan y="167.68799" x="409.38953" style="white-space:pre">Why this inequality? One possibility is that there are </tspan><tspan y="202.06299" x="409.38953" style="white-space:pre">more things existing in the intelligible world than in </tspan><tspan y="236.43799" x="409.38953" style="white-space:pre">the visible world. For example, numbers are abstract </tspan><tspan y="270.81299" x="409.38953" style="white-space:pre">entities that exist in the intelligible world, and there </tspan><tspan y="305.18799" x="409.38953" style="white-space:pre">are an infinite number of them. Another example: </tspan><tspan y="339.56299" x="409.38953" style="white-space:pre">geometrical figures such as polygons are infinite in </tspan><tspan y="373.93799" x="409.38953" style="white-space:pre">number, for there is a polygon corresponding to each </tspan><tspan y="408.31299" x="409.38953" style="white-space:pre">number that exists. Even though we cannot draw these </tspan><tspan y="442.68799" x="409.38953" style="white-space:pre">many-many-sided figures in the visible world, they </tspan><tspan y="477.06299" x="409.38953" style="white-space:pre">exist as objects of thought in the intelligible world. </tspan><tspan y="511.43799" x="409.38953" style="white-space:pre">Another possible explanation for the inequality of the </tspan><tspan y="545.81299" x="409.38953" style="white-space:pre">sections is that Plato holds that the kind of being </tspan><tspan y="580.18799" x="409.38953" style="white-space:pre">possessed by the existences in the intelligible world is </tspan><tspan y="614.56299" x="409.38953" style="white-space:pre">in some sense better than the kind of being possessed </tspan><tspan y="648.93799" x="409.38953" style="white-space:pre">by those things existing in the visible world. On this </tspan><tspan y="683.31299" x="409.38953" style="white-space:pre">second explanation, the inequality of the sections is </tspan><tspan y="717.68799" x="409.38953" style="white-space:pre">due to qualitative rather than quantitative differences.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer8" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity=".0078431" height="28.015" width="67.442" stroke="#00f" y="5.3306" x="1207.7" stroke-width="5" fill="#fff">
+<desc>Line segment CB, at the lower end of the line, is the 
+visible section.</desc>
+<title>Visible: CB</title>
+</rect>
+<path d="m168.31 496.49h33.202l-0.0751 194.03-32.315-0.0752" stroke="#00f" stroke-width="5" fill="none"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="599.50653" x="215.93697" font-family="Times" fill="#000000"><tspan style="white-space:pre" y="599.50653" x="215.93697" fill="#0000ff">visible</tspan></text>
+</g>
+<g opacity=".00009999" id="layer9" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="30.09" width="104.8" stroke="#00f" y="28.894" x="554.22" stroke-width="5">
+<desc>Line segment AC is the longer, upper section of the line 
+and represents the intelligible.</desc>
+<title>Intelligible: AC</title>
+</rect>
+<path d="m168.31 124.03 33.202 0.4874-0.0751 373.93h-33.353" stroke="#00f" stroke-width="5" fill="none"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="315.59607" x="221.99052" font-family="Times" fill="#000000"><tspan style="white-space:pre" y="315.59607" x="221.99052" fill="#0000ff">intelligible</tspan></text>
+</g>
+<g opacity=".00009999" id="layer10" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="31.127" width="98.57" stroke="#00f" y="29.195" x="711.85" stroke-width="5">
+<desc>AC is to CB as AE is to EC as CD is to DB.</desc>
+<title>Same Ratio</title>
+</rect>
+<rect stroke-linejoin="round" height="620.47" width="421.02" stroke="#00f" y="85.522" x="261.54" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="127.02542" x="282.29367" font-family="Times" fill="#000000"><tspan y="127.02542" x="282.29367" style="white-space:pre">Ratio AC:CB is the same as</tspan><tspan y="161.40042" x="282.29367" style="white-space:pre">ratio  AE:EC which is the same as </tspan><tspan y="195.77542" x="282.29367" style="white-space:pre">ratio  CD:DB.</tspan></text>
+<g transform="translate(-161.73 -148)">
+<g transform="translate(20)" stroke="#000" stroke-width="3" fill="none">
+<path d="m481.4 376.08v27.79 150.24"/>
+<path d="m464.98 376.35h32.422"/>
+<path d="m464.98 488.35h32.422"/>
+<path d="m464.98 552.35h32.422"/>
+</g>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="384.60117" x="459.43527" font-family="Times" fill="#000000"><tspan y="384.60117" x="459.43527" style="white-space:pre">A</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="495.34497" x="459.70074" font-family="Times" fill="#000000"><tspan y="495.34497" x="459.70074" style="white-space:pre">C</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="560.89392" x="461.00162" font-family="Times" fill="#000000"><tspan y="560.89392" x="461.00162" style="white-space:pre">B</tspan></text>
+</g>
+<g transform="translate(-158.27 -148)">
+<path d="m618.98 447.54h32.422" stroke="#000" stroke-width="3" fill="none"/>
+<g transform="translate(40)" stroke="#000" stroke-width="3" fill="none">
+<path d="m595.4 375.72v17.778 96.113"/>
+<path d="m578.98 375.89h32.422"/>
+<path d="m578.98 488.48h32.422"/>
+</g>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="384.50385" x="595.38263" font-family="Times" fill="#000000"><tspan y="384.50385" x="595.38263" style="white-space:pre">A</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="455.28284" x="595.81622" font-family="Times" fill="#000000"><tspan y="455.28284" x="595.81622" style="white-space:pre">E</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="497.51312" x="595.55078" font-family="Times" fill="#000000"><tspan y="497.51312" x="595.55078" style="white-space:pre">C</tspan></text>
+</g>
+<g transform="translate(-141.73 -148)">
+<g transform="translate(43.903)" stroke="#000" fill="none">
+<path d="m715.4 487.51v10.287 55.615" stroke-width="3"/>
+<path d="m698.98 487.61h32.422" stroke-width="3"/>
+<path d="m698.98 529.07h32.422" stroke-width="3"/>
+<path d="m698.98 552.76h32.422" stroke-width="3"/>
+</g>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="496.74319" x="717.10901" font-family="Times" fill="#000000"><tspan y="496.74319" x="717.10901" style="white-space:pre">C</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="537.50433" x="717.0116" font-family="Times" fill="#000000"><tspan y="537.50433" x="717.0116" style="white-space:pre">D</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="561.15936" x="717.61346" font-family="Times" fill="#000000"><tspan y="561.15936" x="717.61346" style="white-space:pre">B</tspan></text>
+</g>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="477.62207" x="286.02451" font-family="Times" fill="#000000"><tspan y="477.62207" x="286.02451" style="white-space:pre">The significance of these ratios </tspan><tspan y="511.99707" x="286.02451" style="white-space:pre">seems to be this: the variation in </tspan><tspan y="546.37207" x="286.02451" style="white-space:pre">truth and reality between AC and </tspan><tspan y="580.74707" x="286.02451" style="white-space:pre">CB is the same as the variation to </tspan><tspan y="615.12207" x="286.02451" style="white-space:pre">be found between CD and DB, </tspan><tspan y="649.49707" x="286.02451" style="white-space:pre">and likewise between the other </tspan><tspan y="683.87207" x="286.02451" style="white-space:pre">proportional ratios.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer11" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="24.902" width="166.01" stroke="#00f" y="31.195" x="1088.4" stroke-width="5">
+<desc>Clarity and Opacity increase from B to A</desc>
+<title>Clarity and Opacity</title>
+</rect>
+<path marker-end="url(#Arrow2Lend)" d="m202.25 693.02v-263.54-299.86" stroke="#00f" stroke-width="5" fill="none"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="354.66422" x="221.75533" font-family="Times" fill="#0000ff"><tspan style="white-space:pre" y="354.66422" x="221.75533">Direction of</tspan><tspan style="white-space:pre" y="389.03922" x="221.75533">increasing</tspan><tspan style="white-space:pre" y="423.41422" x="221.75533">clarity and</tspan><tspan style="white-space:pre" y="457.78922" x="221.75533">opacity</tspan></text>
+</g>
+<g opacity=".00009999" id="layer12" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="31.127" width="359" stroke="#00f" y="52.984" x="437.86" stroke-width="5">
+<desc>DB is the lower subsection of the visible and consists of 
+images.</desc>
+<title>DB Subsection of the Visible</title>
+</rect>
+<path stroke-linejoin="round" d="m165.03 531.31v94.42h-92.401v49.803h92.401v71.594h496.94v-215.82z" stroke="#00f" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="560.35901" x="179.50072" font-family="Times" fill="#000000"><tspan y="560.35901" x="179.50072" style="white-space:pre">Line segment DB, lower subsection of the </tspan><tspan y="594.73401" x="179.50072" style="white-space:pre">visible section, contains images such as </tspan><tspan y="629.10901" x="179.50072" style="white-space:pre">shadows and reflections. These images are </tspan><tspan y="663.48401" x="179.50072" style="white-space:pre">imperfect copies or imitations of the things </tspan><tspan y="697.85901" x="179.50072" style="white-space:pre">that exist in the next higher subsection, </tspan><tspan y="732.23401" x="179.50072" style="white-space:pre">CD, of the visible section.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer13" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="31.127" width="249.02" stroke="#00f" y="128.8" x="489.81" stroke-width="5">
+<desc>Line segment CD is the upper subsection of the visible and 
+contains the original objects the images of which exist in 
+the lower subsection DB.</desc>
+<title>Other Subsection of the Visible</title>
+</rect>
+<path stroke-linejoin="round" d="m165.86 428.96v81.314h-92.193v88.95h92.193v83.567h486.34v-253.83z" stroke="#00f" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="460.31531" x="184.02679" font-family="Times" fill="#000000"><tspan y="460.31531" x="184.02679" style="white-space:pre">Line segment CD is the upper subsection </tspan><tspan y="494.69031" x="184.02679" style="white-space:pre">of the visible and contains the original </tspan><tspan y="529.06531" x="184.02679" style="white-space:pre">objects the images of which exist in the </tspan><tspan y="563.44031" x="184.02679" style="white-space:pre">lowest subsection, DB, of the visible </tspan><tspan y="597.81531" x="184.02679" style="white-space:pre">section. These originals are visible things</tspan><tspan y="632.19031" x="184.02679" style="white-space:pre">such as animals, plants, and objects </tspan><tspan y="666.56531" x="184.02679" style="white-space:pre">constructed by humans.</tspan></text>
+</g>
+<g opacity="0.816" id="layer14" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="29.052" width="80.931" stroke="#00f" y="229.22" x="715.93" stroke-width="5">
+<desc>Things in DB are like the things in CD, as opinion is to 
+knowledge as regards truth and falsity.</desc>
+<title>Likeness</title>
+</rect>
+<rect stroke-linejoin="round" height="218.93" width="538.5" stroke="#00f" y="483.14" x="188.84" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="512.19415" x="201.6656" font-family="Times" fill="#000000"><tspan y="512.19415" x="201.6656" style="white-space:pre">Socrates says the images in DB are like the </tspan><tspan y="546.56915" x="201.6656" style="white-space:pre">originals in CD, similar to the way in which </tspan><tspan y="580.94415" x="201.6656" style="white-space:pre">opinion is related to knowledge as far as truth </tspan><tspan y="615.31915" x="201.6656" style="white-space:pre">and untruth are concerned. The suggestion </tspan><tspan y="649.69415" x="201.6656" style="white-space:pre">seems to be that in moving from images to </tspan><tspan y="684.06915" x="201.6656" style="white-space:pre">originals we get closer to knowledge and truth.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer15" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="29.052" width="133.85" stroke="#00f" y="330.09" x="556.29" stroke-width="5">
+<desc>In the lower subsection, EC, of the intelligible, the mind 
+uses images of the original things in CD and hypotheses 
+to arrive at conclusions.</desc>
+<title>One Subsection of the Intelligible</title>
+</rect>
+<path stroke-linejoin="round" d="m248.06 392.38-173.72 0.59533 0.61506 79.297v12.344h98.133v247.05h1050.2v-339.29z" stroke="#00f" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="431.88126" x="189.98077" font-family="Times" fill="#000000"><tspan y="431.88126" x="189.98077" style="white-space:pre">In the lower subsection, EC, of the intelligible section, the mind uses as images the original </tspan><tspan y="466.25626" x="189.98077" style="white-space:pre">things in CD and starts from hypotheses to arrive at conclusions. Socrates gives the example </tspan><tspan y="500.63126" x="189.98077" style="white-space:pre">of geometrical figures to make clear what exactly the mind is using as images in this sub-</tspan><tspan y="535.00623" x="189.98077" style="white-space:pre">section. The mind is using the originals in CD as images; that is, for instance, the triangle we </tspan><tspan y="569.38123" x="189.98077" style="white-space:pre">draw on a sheet of paper or that a teacher draws on a chalkboard is a visible thing and is thus </tspan><tspan y="603.75623" x="189.98077" style="white-space:pre">an original in CD, and from that drawn triangle the mind constructs an idealized mental </tspan><tspan y="638.13123" x="189.98077" style="white-space:pre">image of a triangle; it is this idealized mental image that the mind uses in subsection EC. </tspan><tspan y="672.50623" x="189.98077" style="white-space:pre">Socrates also uses mathematical thinking as his example of the kind of thought processes </tspan><tspan y="706.88123" x="189.98077" style="white-space:pre">going on in the mind as it works from the hypotheses to the conclusions.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer16" tabindex="0">
+<g>
+<desc>Line segment AE is the upper subsection of the intelligible.</desc>
+<title>Other Subsection of the Intelligible</title>
+<rect stroke-linejoin="round" fill-opacity="0" height="25.939" width="59.142" stroke="#00f" y="357.07" x="1174.8" stroke-width="5"/>
+<rect stroke-linejoin="round" fill-opacity="0" height="26.977" width="102.72" stroke="#00f" y="379.9" x="435.05" stroke-width="5"/>
+</g>
+<path stroke-linejoin="round" d="m167.67 58.924v81.428h-92.965v223.21h90.835c1.4882 67.919 1.2402 158.29 1.0861 227.61h259.46v-244.8h814.56v-287.44z" stroke="#00f" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="92.501633" x="177.9662" font-family="Times" fill="#000000"><tspan y="92.501633" x="177.9662" style="white-space:pre">In subsection AE of the intelligible section of the line, the mind no longer uses images; it uses </tspan><tspan y="126.87663" x="177.9662" style="white-space:pre">the forms themselves (such as the good itself, beauty itself, equality itself, etc.) to reason from </tspan><tspan y="161.25163" x="177.9662" style="white-space:pre">hypotheses to a first principle. The rational mind reaches this first principle by drawing on the </tspan><tspan y="195.62663" x="177.9662" style="white-space:pre">power of dialectic. The mind would use this power, for instance, to progress first from the </tspan><tspan y="230.00163" x="177.9662" style="white-space:pre">idealized mental image of a triangle used by the geometer in subsection EC, then to progress to </tspan><tspan y="264.37665" x="177.9662" style="white-space:pre">the abstract mathematical conception of a triangle, and then, finally, entering subsection AE, </tspan><tspan y="298.75165" x="177.9662" style="white-space:pre">to progress to the philosopher&apos;s direct acquaintance with the eternal, unchanging, intelligible </tspan><tspan y="333.12665" x="177.9662" style="white-space:pre">form of triangleness. Now having knowledge and understanding of the first principle, the mind, </tspan><tspan y="367.50165" x="177.9662" style="white-space:pre">still using only forms, </tspan><tspan y="401.87665" x="177.9662" style="white-space:pre">goes back down (the </tspan><tspan y="436.25165" x="177.9662" style="white-space:pre">line, so to speak), </tspan><tspan y="470.62665" x="177.9662" style="white-space:pre">drawing now correct </tspan><tspan y="505.00165" x="177.9662" style="white-space:pre">conclusions along the </tspan><tspan y="539.37665" x="177.9662" style="white-space:pre">way, fixing prior </tspan><tspan y="573.75165" x="177.9662" style="white-space:pre">opinions and beliefs.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer17" tabindex="0">
+<rect stroke-linejoin="round" fill-opacity="0" height="30.09" width="81.969" stroke="#00f" y="503.37" x="623.73" stroke-width="5">
+<desc>Dialectic is a method of argumentation by which the forms 
+can became known.</desc>
+<title>Dialectic</title>
+</rect>
+<path stroke-linejoin="round" d="m176.39 58.172v83.082h-100.65v223.08h100.65v100.57h872.6v-406.73h-872.6z" transform="translate(-.000061035)" stroke="#00f" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="96.937981" x="191.36497" font-family="Times" fill="#000000"><tspan y="96.937981" x="191.36497" style="white-space:pre">The mind or soul uses its power to reason dialectically in order to come to </tspan><tspan y="131.31299" x="191.36497" style="white-space:pre">know and understand the intelligible forms such as goodness itself and </tspan><tspan y="165.68799" x="191.36497" style="white-space:pre">beauty itself and equality itself. Plato never makes it entirely clear what </tspan><tspan y="200.06299" x="191.36497" style="white-space:pre">exactly dialectic is. It seems, however, to be a kind of method or technique </tspan><tspan y="234.43799" x="191.36497" style="white-space:pre">of argumentation that especially uses questions and answers, and definitions </tspan><tspan y="268.81299" x="191.36497" style="white-space:pre">and distinctions, in order to refute incorrect views, and thereby progress </tspan><tspan y="303.18799" x="191.36497" style="white-space:pre">toward correct views. Those trained in the technique can acquire knowledge </tspan><tspan y="337.56299" x="191.36497" style="white-space:pre">of first principles from which non-hypothetical conclusions can be drawn. </tspan><tspan y="371.93799" x="191.36497" style="white-space:pre">Dialectic is used only in this subsection of the intelligible section because </tspan><tspan y="406.31299" x="191.36497" style="white-space:pre">in dialectic there is direct apprehension of the forms and the forms only </tspan><tspan y="440.68799" x="191.36497" style="white-space:pre">exist in this subsection.</tspan></text>
+</g>
+<g opacity=".00009999" id="layer18" tabindex="0">
+<g>
+<desc>Each subsection of the line corresponds to a different 
+mental or cognitive state: understanding with AE; thought 
+with EC; belief with CD; and imaging with DB.</desc>
+<title>Four Condition in the Soul</title>
+<rect stroke-linejoin="round" fill-opacity="0" height="29.052" width="260.43" stroke="#00f" y="654.78" x="558.22" stroke-width="5"/>
+<rect stroke-linejoin="round" fill-opacity="0" height="30.09" width="132.81" stroke="#00f" y="679.68" x="434.74" stroke-width="5"/>
+<rect stroke-linejoin="round" fill-opacity="0" height="22.827" width="80.931" stroke="#00f" y="684.87" x="681.76" stroke-width="5"/>
+<rect stroke-linejoin="round" fill-opacity="0" height="30.09" width="59.142" stroke="#00f" y="678.64" x="873.87" stroke-width="5"/>
+<rect stroke-linejoin="round" fill-opacity="0" height="30.09" width="78.856" stroke="#00f" y="679.68" x="1064.6" stroke-width="5"/>
+</g>
+<rect stroke-linejoin="round" height="221" width="348.63" stroke="#00f" y="141.18" x="74.705" stroke-width="5" fill="#fff"/>
+<rect stroke-linejoin="round" height="85.081" width="348.63" stroke="#00f" y="395.53" x="74.705" stroke-width="5" fill="#fff"/>
+<rect stroke-linejoin="round" height="85.081" width="348.63" stroke="#00f" y="512.63" x="74.705" stroke-width="5" fill="#fff"/>
+<path stroke-linejoin="round" d="m74.705 625.73v50.842h88.111v33.396h260.6v-42.781h-0.0801v-41.457z" transform="translate(-.000061035)" stroke="#00f" stroke-width="5" fill="#fff"/>
+<rect stroke-linejoin="round" height="371.45" width="474.17" stroke="#00f" y="140.14" x="588.31" stroke-width="5" fill="#fff"/>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="176.58908" x="597.35809" font-family="Times" fill="#000000"><tspan y="176.58908" x="597.35809" style="white-space:pre">Each subsection of the line corresponds </tspan><tspan y="210.96408" x="597.35809" style="white-space:pre">to a different mental or cognitive state: </tspan><tspan y="245.33908" x="597.35809" style="white-space:pre">    understanding with AE; </tspan><tspan y="279.71408" x="597.35809" style="white-space:pre">    thinking with EC; </tspan><tspan y="314.08908" x="597.35809" style="white-space:pre">    believing with CD; </tspan><tspan y="348.46408" x="597.35809" style="white-space:pre">    imaging with DB.</tspan><tspan y="382.83908" x="597.35809" style="white-space:pre">The ratios of the subsections with respect </tspan><tspan y="417.21408" x="597.35809" style="white-space:pre">to each other are supposed to tell us how </tspan><tspan y="451.58908" x="597.35809" style="white-space:pre">these various states compare with regard </tspan><tspan y="485.96408" x="597.35809" style="white-space:pre">to clarity and truth.</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="226.54535" x="132.13338" font-family="Times" fill="#000000"><tspan y="226.54535" x="132.13338" style="white-space:pre">Understanding (<tspan style="white-space:pre" font-size="27.5px" font-style="italic" line-height="125%" font-family="Times">noesis</tspan>)</tspan><tspan y="261.09222" x="132.13338" style="white-space:pre">Knowing</tspan><tspan y="295.46722" x="132.13338" style="white-space:pre">Dialectical Reasoning</tspan><tspan style="white-space:pre" font-size="27.5px" font-style="italic" line-height="125%" y="329.84222" x="132.13338" font-family="Times"/><tspan y="364.21722" x="132.13338" style="white-space:pre"/></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="428.58676" x="127.09581" font-family="Times" fill="#000000"><tspan y="428.58676" x="127.09581" style="white-space:pre">Thinking (<tspan style="white-space:pre" font-size="27.5px" font-style="italic" line-height="125%" font-family="Times">dianoia</tspan>)</tspan><tspan y="463.13364" x="127.09581" style="white-space:pre">Mathematical Reasoning</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="545.75781" x="181.09581" font-family="Times" fill="#000000"><tspan y="545.75781" x="181.09581" style="white-space:pre">Believing (<tspan style="white-space:pre" font-size="27.5px" font-style="italic" line-height="125%" font-family="Times">pistis</tspan>)</tspan><tspan y="580.30469" x="181.09581" style="white-space:pre">Opining</tspan></text>
+<text style="letter-spacing:0px;word-spacing:0px;white-space:pre" xml:space="preserve" font-size="27.5px" line-height="125%" y="657.74091" x="180.9455" font-family="Times" fill="#000000"><tspan y="657.74091" x="180.9455" style="white-space:pre">Imaging (<tspan style="white-space:pre" font-size="27.5px" font-style="italic" line-height="125%" font-family="Times">eikasia</tspan>)</tspan><tspan y="692.28778" x="180.9455" style="white-space:pre">Conjuring</tspan></text>
+</g>
+<style type="text/css">text, tspan{white-space:pre;}
+#layer2{opacity:0.0001;}
+#layer2:focus{opacity:1;}
+#layer3{opacity:0.0001;}
+#layer3:focus{opacity:1;}
+#layer4{opacity:0.0001;}
+#layer4:focus{opacity:1;}
+#layer5{opacity:0.0001;}
+#layer5:focus{opacity:1;}
+#layer6{opacity:0.0001;}
+#layer6:focus{opacity:1;}
+#layer7{opacity:0.0001;}
+#layer7:focus{opacity:1;}
+#layer8{opacity:0.0001;}
+#layer8:focus{opacity:1;}
+#layer9{opacity:0.0001;}
+#layer9:focus{opacity:1;}
+#layer10{opacity:0.0001;}
+#layer10:focus{opacity:1;}
+#layer11{opacity:0.0001;}
+#layer11:focus{opacity:1;}
+#layer12{opacity:0.0001;}
+#layer12:focus{opacity:1;}
+#layer13{opacity:0.0001;}
+#layer13:focus{opacity:1;}
+#layer14{opacity:0.0001;}
+#layer14:focus{opacity:1;}
+#layer15{opacity:0.0001;}
+#layer15:focus{opacity:1;}
+#layer16{opacity:0.0001;}
+#layer16:focus{opacity:1;}
+#layer17{opacity:0.0001;}
+#layer17:focus{opacity:1;}
+#layer18{opacity:0.0001;}
+#layer18:focus{opacity:1;}
+#layer19{opacity:0.0001;}
+#layer19:focus{opacity:1;}</style>
+</svg>
