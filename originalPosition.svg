@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" aria-describedby="desc" aria-labelledby="title" height="210mm" width="297mm" version="1.1" role="img" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Rawls&apos; Original Position</title>
+<desc>A visual depiction of the hypothetical rational choice situation, the original position, that is to guarantee the fairness of the principles of justice that a society chooses for its institutions.</desc>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Rawls&apos; Original Position</dc:title>
+<dc:date>3 October 2016</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Philosophy Ink</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:publisher>
+<cc:Agent>
+<dc:title>https://github.com/philosophyInk/philosophy-visualized</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:source>John Rawls, &quot;A Theory of Justice&quot;</dc:source>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>original position</rdf:li>
+<rdf:li>veil of ignorance</rdf:li>
+<rdf:li>theory of justice</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:description>A visual depiction of the hypothetical rational choice situation, the original position, that is to guarantee the fairness of the principles of justice that a society chooses for its institutions.</dc:description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g>
+<g>
+<desc>A red-skinned male with athletic build</desc>
+<title>Red-skinned Male Athlete</title>
+<path d="m963.88 183.03c0-10.614 8.5367-19.211 19.076-19.211 10.541 0 19.078 8.597 19.078 19.211 0 10.613-8.5367 25.203-19.078 25.203-10.54 0-19.076-14.589-19.076-25.203z" stroke="#000" stroke-width="5" fill="#ea0d19"/>
+<path d="m1030 237.41c-1.0444-3.9285-3.7207-27.761-20.353-28.187h-53.473c-10.138 0-16.072 9.1329-18.356 18.485-2.034 6.9095-12.999 48.473-18.962 67.35-1.3752 4.1385 0.5075 7.8595 7.8052 7.8595 7.2887 0 6.423-3.7485 7.8092-7.8595l18.931-56.145h3.52c5.0461 24.347 6.1496 44.916 3.4261 60.352-1.6094 32.378-4.732 69.467-1.675 91.475 1.5354 5.568 4.6606 10.476 10.407 10.476 5.7477 0 10.608-4.6989 10.405-10.476-1.0452-29.635-0.11347-59.27 0-88.906h6.8657c-0.39058 39.381 1.8848 63.242 0 88.906-0.42303 5.76 4.6642 10.476 10.407 10.476 5.746 0 9.9015-4.7149 10.405-10.476 2.3343-26.719 0.6706-52.083-0.8565-88.906-3.4762-22.762-0.6417-47.267 3.1726-62.065l2.9506-0.85652 16.766 55.052c1.2643 4.1515 1.3382 9.4972 5.6443 9.4972 4.3108 0 8.7935-4.089 8.3459-8.4079-2.3477-13.603-11.329-52.706-13.185-57.644z" stroke="#000" stroke-width="5" fill="#fff"/>
+</g>
+<g>
+<desc>A yellow-skinned female with athletic build</desc>
+<title>Yellow-skinned Female Athlete</title>
+<path d="m984.88 465.71c9.0948 0 16.471-10.717 16.471-19.914 0-9.2034-7.8728-18.155-16.968-18.155-9.1005 0-15.988 8.952-15.988 18.155 0 9.1976 7.381 19.914 16.485 19.914z" stroke="#000" stroke-width="5" fill="#ffebc4"/>
+<path d="m1031.1 534.28-14.785-55.432c-0.1369-0.50335-0.3292-0.98318-0.5669-1.4271-1.6779-5.1928-6.5017-8.953-12.196-8.953h-37.414c-5.9402 0-10.922 4.0828-12.392 9.6237-0.1002 0.24315-0.1792 0.49823-0.254 0.7618l-14.52 55.429c-0.9693 3.6334 1.1654 7.3679 4.7626 8.3465 3.5958 0.97265 7.2886-1.1846 8.2584-4.8187l11.401-43.541h4.7495c10.797 24.191 2.4354 37.634-0.71484 42.12-4.2496 5.5602-4.5162 9.2533-3.9399 15.959l1.2126 23.17 2.2473 59.92c0.15678 4.1801 3.3506 7.5722 7.4926 7.5722 4.1331 0 8.0768-3.4284 7.4925-7.5722-2.7458-19.474-0.34669-48.85 0-80.863h5.9573c1.9778 24.288 1.3324 56.575 0 80.863-0.22914 4.177 3.3556 7.5722 7.4962 7.5722 4.1334 0 7.1703-3.398 7.4895-7.5722l3.0107-62.14 1.3603-19.7c1.4011-6.2059-0.5929-11.135-3.9548-15.535-2.7371-6.4084-16.147-17.97-1.6991-43.794h4.8786l11.609 43.541c0.9706 3.6341 4.6628 5.7914 8.2586 4.8187 3.5853-0.97856 5.7195-4.7151 4.7583-8.3491z" stroke="#000" stroke-width="5" fill="#fff"/>
+</g>
+<path stroke-linejoin="null" d="m28.612 446.02h85.029m-42.32 38.328 41.545 42.813m-41.538-43.22-38.827 43.23m38.632-94.189v50.967m12.906-64.732c0 7.4861-5.7778 13.555-12.906 13.555s-12.906-6.0687-12.906-13.555c0-7.4859 5.7773-13.555 12.906-13.555 7.1281 0 12.906 6.0686 12.906 13.555z" stroke="#000" stroke-linecap="null" stroke-width="5" fill="none">
+<desc>A stick person represents a rational contractor in the original position behind the veil of ignorance. The veil hides personal information from the stick person; that is, the stick person does not know which individuated person on the other side of the veil s/he is. Consequently, the stick person can only impartially choose principles of justice.</desc>
+<title>Generic Stick Person in the Original Position behind the Veil of Ignorance</title>
+</path>
+<path stroke-linejoin="null" d="m28.612 618.02h85.029m-42.318 38.33 41.548 42.82m-41.548-43.23-38.827 43.23m38.632-94.189v50.967m12.906-64.74c0 7.4861-5.7778 13.555-12.906 13.555-7.1283 0-12.906-6.0687-12.906-13.555 0-7.4859 5.7773-13.555 12.906-13.555 7.1281 0 12.906 6.0686 12.906 13.555z" stroke="#000" stroke-linecap="null" stroke-width="5" fill="none">
+<desc>A stick person represents a rational contractor in the original position behind the veil of ignorance. The veil hides personal information from the stick person; that is, the stick person does not know which individuated person on the other side of the veil s/he is. Consequently, the stick person can only impartially choose principles of justice.</desc>
+<title>Generic Stick Person in the Original Position behind the Veil of Ignorance</title>
+</path>
+<path stroke-linejoin="null" d="m162.61 618.02h85.029m-42.32 38.328 41.545 42.813m-41.545-43.222-38.826 43.222m38.632-94.189v50.967m12.906-64.732c0 7.4861-5.7778 13.555-12.906 13.555s-12.906-6.0687-12.906-13.555c0-7.4859 5.7773-13.555 12.906-13.555 7.1281 0 12.906 6.0686 12.906 13.555z" stroke="#000" stroke-linecap="null" stroke-width="5" fill="none">
+<title>Generic Stick Person in the Original Position behind the Veil of Ignorance</title>
+<desc>A stick person represents a rational contractor in the original position behind the veil of ignorance. The veil hides personal information from the stick person; that is, the stick person does not know which individuated person on the other side of the veil s/he is. Consequently, the stick person can only impartially choose principles of justice.</desc>
+</path>
+<path stroke-linejoin="null" d="m288.61 618.02h85.029m-42.32 38.328 41.545 42.813m-41.545-43.222-38.826 43.222m38.632-94.189v50.967m12.906-64.732c0 7.4861-5.7778 13.555-12.906 13.555s-12.906-6.0687-12.906-13.555c0-7.4859 5.7773-13.555 12.906-13.555 7.1281 0 12.906 6.0686 12.906 13.555z" stroke="#000" stroke-linecap="null" stroke-width="5" fill="none">
+<title>Generic Stick Person in the Original Position behind the Veil of Ignorance</title>
+<desc>A stick person represents a rational contractor in the original position behind the veil of ignorance. The veil hides personal information from the stick person; that is, the stick person does not know which individuated person on the other side of the veil s/he is. Consequently, the stick person can only impartially choose principles of justice.</desc>
+</path>
+<path stroke-linejoin="null" d="m164.61 448.02h85.029m-42.32 38.328 41.545 42.813m-41.545-43.222-38.826 43.222m38.632-94.189v50.967m12.906-64.732c0 7.4861-5.7778 13.555-12.906 13.555s-12.906-6.0687-12.906-13.555c0-7.4859 5.7773-13.555 12.906-13.555 7.1281 0 12.906 6.0686 12.906 13.555z" stroke="#000" stroke-linecap="null" stroke-width="5" fill="none">
+<desc>A stick person represents a rational contractor in the original position behind the veil of ignorance. The veil hides personal information from the stick person; that is, the stick person does not know which individuated person on the other side of the veil s/he is. Consequently, the stick person can only impartially choose principles of justice.</desc>
+<title>Generic Stick Person in the Original Position behind the Veil of Ignorance</title>
+</path>
+<g>
+<desc>A male with light-brown skin.</desc>
+<title>Light-brown-skinned Man</title>
+<path stroke-linejoin="round" d="m833.1 273.42c0-10.614 8.5367-19.211 19.076-19.211 10.541 0 19.078 8.597 19.078 19.211 0 10.613-8.5367 25.203-19.078 25.203-10.54 0-19.076-14.589-19.076-25.203z" stroke="#000" stroke-width="5" fill="#ca822f"/>
+<path stroke-linejoin="round" d="m893.81 323.52c-3.523-6.6082-15.554-21.906-26.348-21.906l-28.063-0.00001c-6.5979 0-15.019 2.5772-27.207 18.485-4.3805 5.7175-18.138 46.474-24.101 65.351-1.3752 4.1385 0.5075 7.8595 7.8052 7.8595 7.2887 0 7.4173-4.2391 9.8078-7.8595 12.357-18.715 14.354-37.43 16.933-56.145h5.233c-15.498 50.572-7.21 100.8 0.038 151.83 1.5354 5.568 4.6606 10.476 10.407 10.476 5.7477 0 10.382-4.6953 10.405-10.476 0.11573-29.635 1.7738-53.27 0-82.906h6.8657c-0.63556 39.169-0.85572 56.604 0 82.906 0.18781 5.7725 4.6642 10.476 10.407 10.476 5.746 0 9.7833-4.7265 10.405-10.476 11.864-54.456 13.736-105.65 0.032-151.83h5.2347c0.43612 20.927 2.5332 40.024 13.626 55.623 2.515 3.5366 4.4788 8.9262 8.7849 8.9262 4.3108 0 8.7935-4.089 8.3459-8.4079-2.3477-13.603-16.754-56.989-18.61-61.927z" stroke="#000" stroke-width="5" fill="#fff"/>
+</g>
+<g>
+<desc>A dark-skinned woman.</desc>
+<title>Dark-skinned Woman</title>
+<path d="m883.33 58.347c9.0948 0 16.471-10.717 16.471-19.914 0-9.2034-7.8728-18.155-16.968-18.155-9.1005 0-15.988 8.952-15.988 18.155 0 9.1976 7.381 19.914 16.485 19.914z" fill-opacity=".59216" stroke="#000" stroke-width="5" fill="#060707"/>
+<path d="m929.53 126.91c-11.848-86.323-80.123-90.387-92.127 0.003-0.9693 3.6334 1.1654 7.3679 4.7626 8.3465 3.5958 0.97265 7.2886-1.1846 8.2584-4.8187l14.315-41c-5.5469 11.107-13.314 40.511-8.7125 59.171l2.2508 19.536 7.1024 59.92c0.49238 4.154 3.3506 7.5722 7.4926 7.5722 4.1331 0 8.0768-3.4284 7.4925-7.5722-2.7458-19.474-0.34669-47.034 0-79.046h5.9573c1.9778 24.288 1.3324 54.758 0 79.046-0.22914 4.177 3.3556 7.5722 7.4962 7.5722 4.1334 0 7.1703-3.398 7.4895-7.5722l8.6445-62.14c0.73147-6.177 1.5586-12.955 1.6199-22.555 1.081-29.444-5.5646-42.954-10.595-54.347l15.536 41.414c0.9706 3.6341 4.6628 5.7914 8.2586 4.8187 3.5853-0.97856 5.7195-4.7151 4.7583-8.3491z" stroke="#000" stroke-width="5" fill="#fff"/>
+</g>
+<path stroke-linejoin="null" d="m28.612 286.02h85.029m-42.32 38.328 41.545 42.813m-41.538-43.22-38.827 43.23m38.632-94.189v50.967m12.906-64.732c0 7.4861-5.7778 13.555-12.906 13.555s-12.906-6.0687-12.906-13.555c0-7.4859 5.7773-13.555 12.906-13.555 7.1281 0 12.906 6.0686 12.906 13.555z" stroke="#000" stroke-linecap="null" stroke-width="5" fill="none">
+<desc>A stick person represents a rational contractor in the original position behind the veil of ignorance. The veil hides personal information from the stick person; that is, the stick person does not know which individuated person on the other side of the veil s/he is. Consequently, the stick person can only impartially choose principles of justice.</desc>
+<title>Generic Stick Person in the Original Position behind the Veil of Ignorance</title>
+</path>
+<g transform="translate(0,2)">
+<desc>A pink-skinned little person.</desc>
+<title>Pink-skinned Dwarf</title>
+<path stroke-linejoin="round" d="m976.21 26.225c0-5.7373 6.0011-10.384 13.41-10.384 7.4101 0 13.411 4.647 13.411 10.384 0 5.7368-6.0011 13.623-13.411 13.623-7.409 0-13.41-7.8862-13.41-13.623z" stroke="#000" stroke-width="5" fill="#f0cac6"/>
+<path stroke-linejoin="round" d="m961.22 90.558c7.9655-0.42032 9.3614-16.001 11.359-22.307h2.4744c-0.69631 13.161-0.50423 12.46-1.3112 20.803-1.1314 17.502-3.3264 27.55-1.1775 39.446 1.0794 3.0097 3.2763 5.6626 7.3155 5.6626 4.0405 0 7.8442-2.5647 7.3142-5.6626-2.7407-16.019-1.8163-8.0381 0-24.057h4.8264c1.957 22.805 2.8073 9.8645 0 24.057-0.61049 3.0864 3.2788 5.6626 7.3155 5.6626 4.0393 0 6.9604-2.5486 7.3143-5.6626 1.641-14.443 0.4714-18.153-0.6021-38.057-1.2743-12.304-1.4901-13.73-1.4894-21.729l2.0743-0.46298c1.9254 4.241 6.1597 22.928 10.175 23.072 4.1047-66.992-60.905-66.385-55.588-0.76551z" stroke="#000" stroke-width="5" fill="#fff"/>
+</g>
+<g>
+<desc>A pink-skinned man who needs a cane in order to walk.</desc>
+<title>Pink-skinned Man with Cane</title>
+<path stroke-linejoin="round" d="m732.69 109.5c0-10.614 8.5367-19.211 19.076-19.211 10.541 0 19.078 8.597 19.078 19.211 0 10.613-8.5367 25.203-19.078 25.203-10.54 0-19.076-14.589-19.076-25.203z" stroke="#000" stroke-width="5" fill="#f0cac6"/>
+<path stroke-linejoin="round" d="m796.35 163.88c-1.0444-3.8449-9.7806-21.922-26.412-27.636h-36.12c-10.138 0-22.407 19.325-23.865 22.892-2.034 6.9095-16.305 43.515-22.267 62.392-1.3752 4.1385 0.5075 7.8595 7.8052 7.8595 7.2887 0 6.423-3.7485 7.8092-7.8595l18.931-56.145h3.52c2.9642 50.122-5.3114 102.64 1.751 151.83 1.5354 5.568 4.6606 10.476 10.407 10.476 5.7477 0 11.159-4.7446 10.405-10.476-3.8987-29.635-2.5837-59.27 0-88.906h6.8657c2.7839 38.474 3.9934 62.639 0 88.906-0.86811 5.7099 4.6642 10.476 10.407 10.476 5.746 0 9.9015-4.7149 10.405-10.476 8.1806-52.992 0.73567-97.278 2.3161-150.97l2.9506-0.85652 16.766 55.052c1.2643 4.1515 1.3382 9.4972 5.6443 9.4972 4.3108 0 8.7935-4.089 8.3459-8.4079-2.3477-13.603-13.808-52.706-15.664-57.644z" stroke="#000" stroke-width="5" fill="#fff"/>
+<path d="m692.36 231.51 13.772 97.785" stroke="#000" stroke-width="4" fill="none"/>
+</g>
+<g>
+<desc>A dark-brown-skinned man whose left arm has been 
+amputated.</desc>
+<title>Dark-brown-skinned Male Amputee</title>
+<path stroke-linejoin="bevel" d="m606.81 70.651c0-10.614 8.5367-19.211 19.076-19.211 10.541 0 19.078 8.597 19.078 19.211 0 10.613-8.5367 25.203-19.078 25.203-10.54 0-19.076-14.589-19.076-25.203z" fill-opacity=".59143" stroke="#000" stroke-width="5" fill="#761a0c"/>
+<path stroke-linejoin="bevel" d="m670.47 125.03c-1.0444-3.8449-9.7806-21.922-26.412-27.636h-36.12c-10.138 0-22.407 19.325-23.865 22.892-2.034 6.9095-4.3046 43.515-10.267 62.392-1.3752 4.1385-1.4925 7.8595 5.8052 7.8595 7.2887 0 7.1276-3.575 7.8092-7.8595l8.9314-56.145h3.52c3.1866 50.122-0.11237 102.64 1.751 151.83 1.5354 5.568 4.6606 10.476 10.407 10.476 5.7477 0 10.621-4.6993 10.405-10.476-1.1097-29.635-0.8592-59.27 0-88.906h6.8657c0.24954 38.474 1.9718 62.639 0 88.906-0.43235 5.7593 4.6642 10.476 10.407 10.476 5.746 0 9.9015-4.7149 10.405-10.476 0.85438-47.498-0.0848-96.663 2.3161-150.97l2.9506-0.85652c5.8216 11.603 15.183 4.4772 15.093-1.5029z" stroke="#000" stroke-width="5" fill="#fff"/>
+</g>
+<g>
+<desc>A pink-skinned woman with poor eyesight who needs to 
+wear spectacles in order to see well.</desc>
+<title>Pink-skinned Woman Wearing Glasses</title>
+<path stroke-linejoin="round" d="m495.9 62.949c9.0948 0 16.471-16.977 16.471-26.175 0-9.2034-7.8728-14.65-16.968-14.65-9.1005 0-15.988 5.4462-15.988 14.65 0 9.1976 7.381 26.175 16.485 26.175z" fill-opacity="0" stroke="#000" stroke-width="5"/>
+<path stroke-linejoin="round" d="m542.11 133.25c-6.7504-16.764-11.168-44.24-17.581-57.592-6.9492-14.467-52.105-15.066-58.251-0.26102-5.1053 12.298-8.8871 38.728-16.295 59.856-0.9693 3.6334 1.1654 7.3679 4.7626 8.3465 3.5958 0.97265 7.2886-1.1846 8.2584-4.8187l12.62-50.559c1.2192 2.9822-2.7978 8.5682 1.9539 13.859 11.635 12.956-10.445 31.118-8.9716 44.871l2.2508 19.536 7.1024 65.92c0.4481 4.159 3.3506 7.5722 7.4926 7.5722 4.1331 0 8.0768-3.4284 7.4925-7.5722-2.7458-19.474-0.34669-53.034 0-85.046h5.9573c1.9778 24.288 1.3324 60.758 0 85.046-0.22914 4.177 3.3556 7.5722 7.4962 7.5722 4.1334 0 6.9627-3.4191 7.4895-7.5722l8.6445-68.14c0.73147-6.177 1.5586-12.955 1.6199-22.555-3.835-19.658-18.739-30.253-10.393-38.084 5.2232-4.9007 2.3722-10.574 3.0484-14.482l12.286 47.634c0.9706 3.6341 4.6628 5.7914 8.2586 4.8187 3.5853-0.97856 5.7195-4.7151 4.7583-8.3491z" stroke="#000" stroke-width="5" fill="#fff"/>
+<ellipse stroke-linecap="round" fill-opacity="0" rx="3.3806" ry="2.3789" stroke="#000" cy="38.937" cx="490.39" stroke-width="2"/>
+<ellipse stroke-linecap="round" fill-opacity="0" rx="3.3806" ry="2.3789" stroke="#000" cy="38.937" cx="501.89" stroke-width="2"/>
+<path d="m486.3 38.809-5.3808-1.6556" fill-opacity="0" stroke="#000" stroke-width="1px"/>
+<path d="m505.95 38.873 4.3301-1.4646" fill-opacity="0" stroke="#000" stroke-width="1px"/>
+<path d="m494.36 38.682c1.112-0.81227 2.3268-0.9055 3.6934 0.0637h0.0318" fill-opacity="0" stroke="#000" stroke-width="1px"/>
+<path d="m492.91 59.092c-3.8602-2.354-7.6291-8.5416-9.6543-15.85-0.59172-2.1353-1.0759-4.0899-1.0759-4.3436 0-0.8654 2.8846 0.21802 3.9374 1.4788 2.0162 2.4146 5.5358 2.8279 7.7436 0.90937 0.5053-0.43909 0.91873-1.0908 0.91873-1.4483 0-0.78914 1.2116-1.3214 1.9234-0.84497 0.28362 0.18984 0.67231 0.76927 0.86375 1.2876 0.19144 0.51834 1.1985 1.2978 2.2379 1.7321 2.2936 0.95833 4.9183 0.29719 6.3749-1.6058 1.1236-1.468 3.2998-2.2757 3.2998-1.2248 0 1.535-2.2078 8.5418-3.4963 11.096-4.1974 8.3209-8.7962 11.421-13.073 8.8131z" stroke-width="0" fill="#f0cac6"/>
+<path fill="#f0cac6" d="m483.89 37.332c-2.1572-0.64212-2.2553-2.198-0.37636-5.9685 2.3186-4.6529 7.1849-6.8976 13.645-6.2943 5.5565 0.51888 9.8026 3.2127 11.512 7.3034 1.2756 3.053 1.0731 4.4098-0.75339 5.0466-1.1911 0.41522-1.6624 0.38302-1.9687-0.1345-0.58518-0.98848-2.4949-1.8837-4.0185-1.8837-1.5406 0-3.9967 1.0197-3.9967 1.6592 0 0.8719-3.2181 0.41813-4.3209-0.60926-1.5757-1.468-4.6364-1.3886-6.5324 0.16945-1.2637 1.0384-1.7373 1.144-3.1902 0.71154z"/>
+</g>
+</g>
+<g>
+<g>
+<desc>The veil prevents the hypothetical generic stick people on the left side of it from having knowledge of their specific characteristics, such as sex, gender, race, wealth, ethnicity, religious affiliation, and talents, as exhibited in the actual people on the right side of the veil.</desc>
+<title>The Veil of Ignorance</title>
+<path d="m3.1034 11.718 86.084 4.873c36.266 2.0529-72.089 7.5255-53.463 11.499 21.883 4.668 74.925 3.0749 96.408 7.2393 23.765 4.6067-84.489 6.4356-60.911 11.917 25.484 5.9247 96.604 5.7555 98.597 9.9935 3.8264 8.1354-75.682 7.6715-57.214 16.302 8.7775 4.1017 133.46 19.733 137.85 25.767 3.1871 4.3889-79.884 14.613-78.003 21.911 2.5536 9.9041 142.27 19.866 143.74 28.046 1.393 7.7985-62.157 9.031-52.586 19.282 12.054 12.909 102.71 31.587 154.06 47.38 1.7493 8.0089-43.508-8.0875-46.896 1.6126-1.8903 12.465 192.07 71.439 182.79 83.855-8.9563 11.976-58.187-12.338-51.821 3.7688 8.9764 22.711 204.52 104.04 222.36 127.2 8.8171 11.444-48.32-13.562-43.341 0 7.197 19.603 204.01 117.41 211.05 139.44 5.7214 17.902-64.875-25.762-55.59-9.4219 14.642 25.766 218.46 183.22 218.46 183.22" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m33.638 26.293 0.28096 47.81" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m67.995 45.428v48.204" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m109.95 71.253v66.696" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m172.79 121.51v80.238" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m262.76 166.66v144.61" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m371.13 219.04v264.02" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m501.42 303.06v362.37" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m680.62 431.6v313.58" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m835.69 562.48v182.9" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m2.6293 56.968 28.922 1.7529" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m32.428 71.868 36.81 4.3822" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m65.923 92.026 44.564 7.0115" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m108.07 135.85 66.43 17.529" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m171.67 199.83 92.457 57.845" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m261.93 309.37 109.94 116.2" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m370.49 480.97 121.82 132.34 8.8845 9.0648" stroke="#000" stroke-width="5" fill="none"/>
+<path d="m500.95 663.96 78.003 78.003 4.6826 4.6826" stroke="#000" stroke-width="5" fill="none"/>
+<path stroke-linejoin="round" d="m97.084 16.546-0.32118 14.453" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m136.18 37.014-0.16059 15.417" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m170.39 57.89v25.052h1.9271" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m251 98.841v37.096h2.2483" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m316.68 148.78v25.213 13.971" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m418.18 214.66v24.957h0.32118" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m554.36 300.7v39.024h2.0877" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m725.39 432.9v31.325h1.6059" stroke="#000" stroke-width="4" fill="none"/>
+<path stroke-linejoin="round" d="m892.56 571.78v24.249 18.629" stroke="#000" stroke-width="4" fill="none"/>
+<path fill-opacity=".8" fill="#ccc" d="m90.779 29.611c-1.814-0.078-5.994-0.246-9.289-0.372-17.698-0.679-25.658-1.158-35.118-2.112-0.997-0.1-1.237-0.153-0.989-0.216 0.915-0.233 10.096-1.293 22.697-2.621 16.26-1.714 22.687-2.484 26.096-3.128l0.75931-0.1435-0.07229 2.9721c-0.03976 1.6347-0.07229 3.6071-0.07229 4.3832v1.4111l-0.35725-0.0156c-0.19649-0.0086-1.8412-0.07962-3.6549-0.15788z"/>
+<path fill-opacity=".8" fill="#ccc" d="m126.56 50.167c-11.73-0.716-15.17-0.937-19.68-1.259-11.491-0.823-19.759-1.636-26.379-2.594-2.918-0.423-2.944-0.428-2.693-0.51 0.8104-0.26686 13.347-1.4458 27.151-2.5531 4.5349-0.3638 7.1926-0.58747 11.817-0.99449 7.5192-0.66186 13.619-1.3852 16.258-1.9281 0.56872-0.11697 1.0386-0.19983 1.0443-0.18413 0.006 0.0157-0.006 2.3658-0.025 5.2224l-0.0352 5.1939-0.73426-0.01337c-0.40384-0.0074-3.4301-0.17812-6.725-0.37948z"/>
+<path fill-opacity=".8" fill="#ccc" d="m157.92 79.084c-24.928-3.889-38.121-6.1992-42.732-7.4825l-1.1123-0.3096 1.2745-0.34148c3.5896-0.96175 10.103-1.9233 23.961-3.5371 15.398-1.7932 22.569-2.9166 26.956-4.2231 0.97348-0.28991 1.8178-0.47926 1.8763-0.42078 0.0585 0.05849 0.0762 4.1111 0.0393 9.0059l-0.067 8.8995-10.196-1.5907z"/>
+<path fill-opacity=".8" fill="#ccc" d="m242.04 132.91c-3.3648-0.47174-9.5017-1.3298-13.638-1.9067-28.463-3.9706-43.933-6.8412-50.833-9.4327-1.4781-0.55513-1.4957-0.57312-0.87916-0.89617 1.4038-0.7355 6.8065-2.4326 11.588-3.6401 7.1287-1.8002 11.178-2.6706 30.438-6.5428 19.829-3.9866 26.8-5.5487 29.661-6.6466 0.38509-0.14777 0.41846 1.0407 0.41846 14.906 0 11.897-0.067 15.062-0.31864 15.042-0.17525-0.0138-3.0716-0.41114-6.4364-0.88288z"/>
+<path fill-opacity=".8" fill="#ccc" d="m311.63 184.51c-19.917-5.8746-28.382-8.6769-35.678-11.812-5.0033-2.1496-9.0265-4.3965-10.152-5.67-0.44531-0.50372-0.43554-0.52942 0.38236-1.0054 3.4522-2.0092 8.4004-3.1831 28.879-6.8512 9.4788-1.6978 16.041-3.1914 18.29-4.163l1.2108-0.52312v15.413c0 8.4771-0.086 15.402-0.19118 15.388-0.10515-0.0136-1.3383-0.36307-2.7403-0.77659z"/>
+<path fill-opacity=".8" fill="#ccc" d="m546.15 332.98c-12.305-6.72-21.861-12.397-28.805-17.113-5.3444-3.6297-7.3833-5.2387-10.238-8.0794-2.1487-2.1381-2.6551-2.7931-2.9667-3.8375-0.20666-0.69264-0.27996-1.3622-0.16289-1.488 0.41038-0.44072 3.9518-0.459 6.9951-0.0361 1.6824 0.23379 6.8443 1.1711 11.471 2.0829 10.787 2.126 14.161 2.6295 18.877 2.8177 4.1997 0.16756 7.2561-0.14337 9.3938-0.95567 0.69732-0.26496 1.3043-0.44531 1.3488-0.40078 0.0445 0.0445 0.0514 6.8605 0.0152 15.147l-0.0658 15.066-5.8629-3.2019z"/>
+<path fill-opacity=".8" fill="#ccc" d="m407.09 234.29c-11.939-4.9195-17.947-7.5842-23.706-10.514-4.7781-2.4306-9.1552-5.1202-9.3637-5.7535-0.2774-0.8428 5.1045-1.3065 9.9827-0.86005 3.1559 0.28881 10.263 1.2849 19.264 2.7 2.6012 0.40895 5.8351 0.71719 8.4757 0.80785l4.2697 0.14658v8.5042c0 4.6773-0.086 8.5005-0.19118 8.496-0.10515-0.004-4.0339-1.5916-8.7306-3.527z"/>
+<path fill-opacity=".8" fill="#ccc" d="m716.3 456.51c-16.231-10.255-25.44-16.812-30.22-21.517-1.9268-1.8967-3.1355-3.5575-2.8193-3.8738 0.32655-0.32655 2.6422-0.36874 4.9313-0.0899 3.6138 0.44025 7.796 1.3218 17.15 3.6149 9.5691 2.3459 14.007 3.2822 15.581 3.2871 0.61328 0.002 1.3732 0.0727 1.6886 0.15719l0.57354 0.1537v11.186c0 6.1524-0.0874 11.186-0.1943 11.186-0.10686 0-3.118-1.8472-6.6913-4.1049z"/>
+<path fill-opacity=".8" fill="#ccc" d="m884.16 604.98c-16.257-13.967-25.514-22.386-34.557-31.43-6.6621-6.6624-10.987-11.53-10.595-11.923 0.4536-0.4536 7.6691 2.1727 18.514 6.7386 19.091 8.038 25.819 10.294 30.907 10.365l1.9753 0.0275 0.00025 15.741c0.00016 8.6573-0.0284 15.74-0.0634 15.739-0.0351-0.001-2.8167-2.3669-6.1815-5.2577h0.00002z"/>
+</g>
+</g>
+<g opacity="0.001">
+<path stroke-linejoin="round" d="m-6.3696e-8 1.7529c141.61-44.478 773.12 467.39 1057 741.47l-477.68 3.5c-183.96-232.05-306.57-489.55-575.81-686.25z" fill-opacity=".8" stroke="#000" stroke-width="4" fill="#ccc">
+<desc>The veil prevents the hypothetical generic stick people on the left side of it from having knowledge of their specific characteristics, such as sex, gender, race, wealth, ethnicity, religious affiliation, and talents, as exhibited in the actual people on the right side of the veil.</desc>
+<title>The Veil of Ignorance</title>
+</path>
+</g>
+</svg>
