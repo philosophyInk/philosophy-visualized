@@ -71,7 +71,7 @@ indicates that O is true while E and I are both unknown and
 A is false.</desc>
 <title>Green Line EO: A false; E unknown; I unknown; O true</title>
 </path>
-<path d="m118.7 244.79 204.06 0.1982v0 0" stroke="#13dc00" stroke-linecap="round" stroke-dasharray="10.00000029, 20.00000057" stroke-width="10" fill="none">
+<path d="m131.7 261.79 174.06 0.1982v0 0" stroke="#13dc00" stroke-linecap="round" stroke-dasharray="10.00000029, 20.00000057" stroke-width="10" fill="none">
 <desc>Green dashed line between I and O indicates indeterminacy: 
 either there is also a green dashed line between A and I or 
 there is also a green dashed line between E and O.</desc>
