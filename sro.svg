@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" aria-describedby="desc" aria-labelledby="title" viewBox="0 0 340.83648 323.75524" height="91.371mm" width="96.192mm" version="1.1" role="img" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Simplified Rule of Opposition</title>
+<desc>The Simplified Rule of Opposition is an easy-to-remember (note the U-shape) and easy-to-use logic tool that is functionally equivalent to the Traditional Square of Opposition.</desc>
+<defs>
+<marker id="Arrow2Sstart" refY="0.0" refX="0.0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="scale(.3) translate(-2.3)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="v" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="j" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="i" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="k" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="g" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="c" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="e" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="r" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="u" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="p" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="w" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="n" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="t" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="h" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="f" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="l" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="s" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="q" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="d" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="o" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="b" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="a" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+<marker id="m" refY="0" refX="0" orient="auto" overflow="visible">
+<path stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(.3 0 0 .3 -.69 0)" stroke="#0000fe" stroke-width=".625" fill="#0000fe"/>
+</marker>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="https://github.com/philosophyInk/philosophy-visualized">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Simplified Rule of Opposition</dc:title>
+<dc:date>6 October 2016</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Philosophy Ink</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:source>Philosophy Ink</dc:source>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>Simplified Rule of Opposition</rdf:li>
+<rdf:li>Traditional Square of Opposition</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:publisher>
+<cc:Agent>
+<dc:title>https://github.com/philosophyInk/philosophy-visualized</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:description>The Simplified Rule of Opposition is an easy-to-remember (note the U-shape) and easy-to-use logic tool that is functionally equivalent to the Traditional Square of Opposition.</dc:description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-43.474 -1.2253)">
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="133.86937" x="64.455635" font-family="Times" fill="#000000"><tspan y="133.86937" x="64.455635"/></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="27.5px" line-height="125%" y="80.288116" x="108.9347" font-family="Times" fill="#000000"><desc>Capital letter &apos;A&apos; represents the universal affirmative 
+statement &apos;All S are P&apos;.
+</desc><title>A Statement: All S are P</title><tspan y="80.288116" x="108.9347">A</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="27.5px" line-height="125%" y="288.89456" x="113.90801" font-family="Times" fill="#000000"><desc>Capital letter &apos;I&apos; represents the particular affirmative 
+statement &apos;Some S are P&apos;.</desc><title>I Statement: Some S are P</title><tspan y="288.89456" x="113.90801">I</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="27.5px" line-height="125%" y="79.981384" x="301.06125" font-family="Times" fill="#000000"><desc>Capital letter &apos;E&apos; represents the universal negative
+statement &apos;No S are P&apos;.</desc><title>E Statement: No S are P</title><tspan y="79.981384" x="301.06125">E</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="27.5px" line-height="125%" y="289.57471" x="300.53024" font-family="Times" fill="#000000"><desc>Capital letter &apos;O&apos; represents the particular negative 
+statement &apos;Some S are not P&apos;.</desc><title>O Statement: Some S are not P</title><tspan y="289.57471" x="300.53024">O</tspan></text>
+<g>
+<desc>The Simplified Rule of Opposition (SRO) is an easy-to-remember (note the U-shape) and easy-to-use (see the algorithm below) logic tool that is functionally equivalent to the Traditional Square of Opposition (TSO). The basic layout of the SRO is similar to the TSO: the letters, A, E, I, O, representing the four categorical statements, are laid out as if each were at a corner of a square. Available for 
+placement between the letters are either a single solid line or two dashed lines. The lines have the following meaning:
+1. The statements at the ends of a solid line are true.
+2. A statement at the end of a single dashed line is indeterminate.
+3. A statement (either I or O) at the ends of two dashed lines is true.
+The algorithm for line placement is as follows:
+1. Start with the SRO blank (i.e., with four letters but no lines).
+2. Let a given statement be true or false.
+3. Decide between which two letters to put the solid line. If (given its meaning) it can go in only one location, then that is where it goes and you are done. 
+4. If the solid line could go in more than one location, then put a dashed line in each of those locations and you are done.</desc>
+<title>Simplified Rule of Opposition</title>
+<path d="m58.155 4.9611h-0.5775c-0.11 0.6325-0.4125 0.935-0.88 0.935-0.275 0-0.7425-0.11-1.21-0.33-1.0175-0.385-2.035-0.605-2.915-0.605-1.1825 0-2.3925 0.4675-3.3 1.265-0.9625 0.8525-1.4575 2.0075-1.4575 3.4375 0 2.2 1.21 3.74 4.29 5.3625 1.98 1.045 3.41 2.1725 4.0975 3.2175 0.2475 0.3575 0.385 0.935 0.385 1.595 0 1.8425-1.375 3.1075-3.3825 3.1075-2.4475 0-4.18-1.5125-5.555-4.8675h-0.6325l0.825 5.83h0.605c0.0275-0.5225 0.3575-0.9075 0.77-0.9075 0.3025 0 0.77 0.11 1.2925 0.3025 1.045 0.4125 2.145 0.6325 3.245 0.6325 3.1625 0 5.61-2.1725 5.61-5.005 0-2.255-1.5125-4.0425-5.1425-5.995-2.8875-1.595-4.0425-2.805-4.0425-4.29 0-1.5125 1.155-2.5575 2.86-2.5575 1.2375 0 2.3925 0.5225 3.355 1.5125 0.8525 0.88 1.2375 1.595 1.6775 3.2175h0.6875l-0.605-5.8575z"/>
+<path d="m65.983 10.901-4.2625 1.5125v0.4125l0.22-0.0275c0.33-0.055 0.6875-0.0825 0.935-0.0825 0.66 0 0.9075 0.44 0.9075 1.65v6.38c0 1.98-0.275 2.2825-2.1725 2.3925v0.4125h6.5175v-0.4125c-1.815-0.1375-2.035-0.4125-2.035-2.3925v-9.7625l-0.11-0.0825zm-1.2925-6.1325c-0.7425 0-1.375 0.6325-1.375 1.4025s0.605 1.4025 1.375 1.4025c0.7975 0 1.43-0.605 1.43-1.4025 0-0.77-0.6325-1.4025-1.43-1.4025z"/>
+<path d="m69.32 12.606c0.3575-0.0825 0.5775-0.11 0.88-0.11 0.715 0 0.9625 0.44 0.9625 1.76v6.9575c0 1.485-0.385 1.8975-1.925 1.925v0.4125h6.105v-0.4125c-1.4575-0.055-1.87-0.3575-1.87-1.43v-7.755c0-0.055 0.22-0.33 0.4125-0.5225 0.6875-0.6325 1.87-1.1 2.8325-1.1 1.21 0 1.815 0.9625 1.815 2.8875v5.9675c0 1.54-0.3025 1.8425-1.87 1.9525v0.4125h6.16v-0.4125c-1.5675-0.0275-1.98-0.495-1.98-2.2v-6.93c0.825-1.1825 1.7325-1.6775 2.9975-1.6775 1.5675 0 2.0625 0.7425 2.0625 3.025v5.8025c0 1.5675-0.22 1.7875-1.815 1.98v0.4125h6.0225v-0.4125l-0.715-0.055c-0.825-0.055-1.1825-0.55-1.1825-1.6225v-5.665c0-3.245-1.0725-4.895-3.19-4.895-1.595 0-2.9975 0.715-4.4825 2.31-0.495-1.5675-1.43-2.31-2.915-2.31-1.21 0-1.98 0.385-4.2625 2.1175v-2.0625l-0.1925-0.055c-1.4025 0.5225-2.3375 0.825-3.85 1.2375v0.4675z"/>
+<path d="m90.422 12.744c0.2475-0.0275 0.44-0.0275 0.6875-0.0275 0.935 0 1.1275 0.275 1.1275 1.5675v12.87c0 1.43-0.3025 1.7325-1.925 1.8975v0.4675h6.655v-0.495c-2.0625-0.0275-2.42-0.33-2.42-2.0625v-4.3175c0.9625 0.9075 1.6225 1.1825 2.7775 1.1825 3.245 0 5.775-3.08 5.775-7.0675 0-3.41-1.925-5.8575-4.5925-5.8575-1.54 0-2.75 0.6875-3.96 2.1725v-2.1175l-0.165-0.055c-1.485 0.5775-2.4475 0.935-3.96 1.4025v0.44zm4.125 1.6225c0-0.825 1.54-1.815 2.805-1.815 2.035 0 3.3825 2.09 3.3825 5.28 0 3.0525-1.3475 5.115-3.3275 5.115-1.2925 0-2.86-0.99-2.86-1.815v-6.765z"/>
+<path d="m104.45 6.4186h0.165c0.3025-0.0275 0.6325-0.055 0.8525-0.055 0.88 0 1.155 0.385 1.155 1.6775v13.118c0 1.485-0.385 1.8425-2.1175 1.98v0.4125h6.49v-0.4125c-1.7325-0.11-2.0625-0.385-2.0625-1.8975v-16.418l-0.11-0.055c-1.43 0.4675-2.475 0.7425-4.3725 1.21v0.44z"/>
+<path d="m116.36 10.901-4.2625 1.5125v0.4125l0.22-0.0275c0.33-0.055 0.6875-0.0825 0.935-0.0825 0.66 0 0.9075 0.44 0.9075 1.65v6.38c0 1.98-0.275 2.2825-2.1725 2.3925v0.4125h6.5175v-0.4125c-1.815-0.1375-2.035-0.4125-2.035-2.3925v-9.7625l-0.11-0.0825zm-1.2925-6.1325c-0.7425 0-1.375 0.6325-1.375 1.4025s0.605 1.4025 1.375 1.4025c0.7975 0 1.43-0.605 1.43-1.4025 0-0.77-0.6325-1.4025-1.43-1.4025z"/>
+<path d="m127.68 11.176h-3.3825v-3.19c0-1.595 0.5225-2.4475 1.5675-2.4475 0.5775 0 0.9625 0.275 1.4575 1.0725 0.44 0.715 0.77 0.99 1.2375 0.99 0.6325 0 1.155-0.495 1.155-1.1275 0-0.99-1.21-1.705-2.86-1.705-1.705 0-3.1625 0.7425-3.8775 2.0075-0.715 1.21-0.935 2.2-0.9625 4.4h-2.255v0.88h2.255v8.635c0 2.0075-0.3025 2.3375-2.2825 2.4475v0.4125h7.15v-0.4125c-2.255-0.0825-2.5575-0.385-2.5575-2.4475v-8.635h3.355v-0.88z"/>
+<path d="m133.18 10.901-4.2625 1.5125v0.4125l0.22-0.0275c0.33-0.055 0.6875-0.0825 0.935-0.0825 0.66 0 0.9075 0.44 0.9075 1.65v6.38c0 1.98-0.275 2.2825-2.1725 2.3925v0.4125h6.5175v-0.4125c-1.815-0.1375-2.035-0.4125-2.035-2.3925v-9.7625l-0.11-0.0825zm-1.2925-6.1325c-0.7425 0-1.375 0.6325-1.375 1.4025s0.605 1.4025 1.375 1.4025c0.7975 0 1.43-0.605 1.43-1.4025 0-0.77-0.6325-1.4025-1.43-1.4025z"/>
+<path d="m147.21 19.041c-1.32 2.09-2.5025 2.8875-4.2625 2.8875-1.5675 0-2.75-0.7975-3.5475-2.365-0.495-1.045-0.6875-1.9525-0.7425-3.63h8.47c-0.22-1.7875-0.495-2.585-1.1825-3.465-0.825-0.99-2.09-1.5675-3.52-1.5675-1.375 0-2.6675 0.495-3.7125 1.43-1.2925 1.1275-2.035 3.08-2.035 5.335 0 3.795 1.98 6.16 5.1425 6.16 2.6125 0 4.675-1.6225 5.83-4.5925l-0.44-0.1925zm-8.4975-3.9875c0.3025-2.145 1.2375-3.1625 2.915-3.1625s2.3375 0.77 2.695 3.1625h-5.61z"/>
+<path d="m157.64 23.826 4.0425-1.43v-0.44c-0.495 0.0275-0.55 0.0275-0.6325 0.0275-0.99 0-1.21-0.3025-1.21-1.5675v-15.593l-0.1375-0.055c-1.32 0.4675-2.2825 0.7425-4.0425 1.21v0.44c0.22-0.0275 0.385-0.0275 0.605-0.0275 1.0175 0 1.265 0.275 1.265 1.4025v4.29c-1.045-0.88-1.7875-1.1825-2.8875-1.1825-3.1625 0-5.72 3.1075-5.72 7.0125 0 3.52 2.0625 5.9125 5.0875 5.9125 1.54 0 2.585-0.55 3.52-1.8425v1.76l0.11 0.0825zm-0.11-3.08c0 0.1925-0.1925 0.5225-0.4675 0.825-0.495 0.55-1.1825 0.825-1.98 0.825-2.2825 0-3.795-2.2-3.795-5.5825 0-3.1075 1.3475-5.1425 3.4375-5.1425 1.4575 0 2.805 1.2925 2.805 2.75v6.325z"/>
+<path d="m186.93 23.029c-1.045-0.0825-1.595-0.3575-2.3925-1.2925l-5.665-6.9575c1.8425-0.3575 2.6675-0.6875 3.575-1.43 0.88-0.715 1.4025-1.87 1.4025-3.1625 0-1.1825-0.3575-2.2-1.0725-2.9975-1.045-1.1275-3.3275-1.8425-5.9125-1.8425h-7.59v0.5225c2.0625 0.22 2.3375 0.5225 2.3375 2.475v11.908c0 2.2825-0.275 2.6125-2.3375 2.7775v0.5225h7.6175v-0.5225c-2.1175-0.1375-2.475-0.495-2.475-2.475v-5.4175l1.54-0.055 6.545 8.47h4.4275v-0.5225zm-12.51-15.675c0-0.77 0.3025-0.99 1.4025-0.99 3.4375 0 5.0325 1.1825 5.0325 3.7675 0 1.375-0.5775 2.53-1.5675 3.0525-1.265 0.715-2.2275 0.88-4.8675 0.935v-6.765z"/>
+<path d="m196.61 23.909c1.1825-0.4125 1.8425-0.5225 3.63-0.715l1.705-0.1925v-0.6325c-1.21-0.055-1.54-0.4125-1.54-1.595v-9.9h-5.5275v0.66c1.375 0.11 1.705 0.44 1.705 1.6225v7.7825c-0.9075 0.9075-1.485 1.21-2.255 1.21-1.1275 0-1.54-0.55-1.54-1.9525v-9.3225h-5.17v0.66c1.1275 0.22 1.3475 0.4675 1.3475 1.6225v6.93c0 2.42 1.375 3.85 3.6575 3.85 1.43 0 2.3925-0.44 3.9875-1.815v1.7875z"/>
+<path d="m203.01 6.4186h0.165c0.3025-0.0275 0.6325-0.055 0.8525-0.055 0.88 0 1.155 0.385 1.155 1.6775v13.118c0 1.485-0.385 1.8425-2.1175 1.98v0.4125h6.49v-0.4125c-1.7325-0.11-2.0625-0.385-2.0625-1.8975v-16.418l-0.11-0.055c-1.43 0.4675-2.475 0.7425-4.3725 1.21v0.44z"/>
+<path d="m221.33 19.041c-1.32 2.09-2.5025 2.8875-4.2625 2.8875-1.5675 0-2.75-0.7975-3.5475-2.365-0.495-1.045-0.6875-1.9525-0.7425-3.63h8.47c-0.22-1.7875-0.495-2.585-1.1825-3.465-0.825-0.99-2.09-1.5675-3.52-1.5675-1.375 0-2.6675 0.495-3.7125 1.43-1.2925 1.1275-2.035 3.08-2.035 5.335 0 3.795 1.98 6.16 5.1425 6.16 2.6125 0 4.675-1.6225 5.83-4.5925l-0.44-0.1925zm-8.4975-3.9875c0.3025-2.145 1.2375-3.1625 2.915-3.1625s2.3375 0.77 2.695 3.1625h-5.61z"/>
+<path d="m236.05 10.901c-3.575 0-6.0775 2.64-6.0775 6.435 0 3.7125 2.5575 6.49 6.0225 6.49s6.105-2.915 6.105-6.71c0-3.6025-2.53-6.215-6.05-6.215zm-0.3575 0.77c2.31 0 3.9325 2.64 3.9325 6.4075 0 3.1075-1.2375 4.9775-3.3 4.9775-1.0725 0-2.09-0.66-2.6675-1.76-0.77-1.43-1.21-3.355-1.21-5.3075 0-2.6125 1.2925-4.3175 3.245-4.3175z"/>
+<path d="m251.43 11.176h-3.3825v-3.19c0-1.595 0.5225-2.4475 1.5675-2.4475 0.5775 0 0.9625 0.275 1.4575 1.0725 0.44 0.715 0.77 0.99 1.2375 0.99 0.6325 0 1.155-0.495 1.155-1.1275 0-0.99-1.21-1.705-2.86-1.705-1.705 0-3.1625 0.7425-3.8775 2.0075-0.715 1.21-0.935 2.2-0.9625 4.4h-2.255v0.88h2.255v8.635c0 2.0075-0.3025 2.3375-2.2825 2.4475v0.4125h7.15v-0.4125c-2.255-0.0825-2.5575-0.385-2.5575-2.4475v-8.635h3.355v-0.88z"/>
+<path d="m268.92 4.9611c-5.2525 0-8.9925 3.96-8.9925 9.4875 0 2.585 0.88 5.0875 2.365 6.6825 1.595 1.7325 4.0425 2.805 6.4625 2.805 5.4175 0 9.1575-3.85 9.1575-9.3775 0-2.7225-0.7975-5.06-2.31-6.71-1.7325-1.8975-4.0425-2.8875-6.6825-2.8875zm0 0.99c1.265 0 2.53 0.495 3.52 1.375 1.485 1.3475 2.3375 3.9325 2.3375 7.205 0 1.6225-0.3575 3.52-0.9075 4.95-0.2475 0.6875-0.715 1.375-1.3475 2.0075-0.9625 0.9625-2.2 1.4575-3.6575 1.4575-1.265 0-2.5025-0.495-3.465-1.3475-1.43-1.265-2.3375-4.0425-2.3375-7.095 0-2.805 0.77-5.4725 1.925-6.765 1.0725-1.1825 2.42-1.7875 3.9325-1.7875z"/>
+<path d="m279.11 12.744c0.2475-0.0275 0.44-0.0275 0.6875-0.0275 0.935 0 1.1275 0.275 1.1275 1.5675v12.87c0 1.43-0.3025 1.7325-1.925 1.8975v0.4675h6.655v-0.495c-2.0625-0.0275-2.42-0.33-2.42-2.0625v-4.3175c0.9625 0.9075 1.6225 1.1825 2.7775 1.1825 3.245 0 5.775-3.08 5.775-7.0675 0-3.41-1.925-5.8575-4.5925-5.8575-1.54 0-2.75 0.6875-3.96 2.1725v-2.1175l-0.165-0.055c-1.485 0.5775-2.4475 0.935-3.96 1.4025v0.44zm4.125 1.6225c0-0.825 1.54-1.815 2.805-1.815 2.035 0 3.3825 2.09 3.3825 5.28 0 3.0525-1.3475 5.115-3.3275 5.115-1.2925 0-2.86-0.99-2.86-1.815v-6.765z"/>
+<path d="m292.86 12.744c0.2475-0.0275 0.44-0.0275 0.6875-0.0275 0.935 0 1.1275 0.275 1.1275 1.5675v12.87c0 1.43-0.3025 1.7325-1.925 1.8975v0.4675h6.655v-0.495c-2.0625-0.0275-2.42-0.33-2.42-2.0625v-4.3175c0.9625 0.9075 1.6225 1.1825 2.7775 1.1825 3.245 0 5.775-3.08 5.775-7.0675 0-3.41-1.925-5.8575-4.5925-5.8575-1.54 0-2.75 0.6875-3.96 2.1725v-2.1175l-0.165-0.055c-1.485 0.5775-2.4475 0.935-3.96 1.4025v0.44zm4.125 1.6225c0-0.825 1.54-1.815 2.805-1.815 2.035 0 3.3825 2.09 3.3825 5.28 0 3.0525-1.3475 5.115-3.3275 5.115-1.2925 0-2.86-0.99-2.86-1.815v-6.765z"/>
+<path d="m313.24 10.901c-3.575 0-6.0775 2.64-6.0775 6.435 0 3.7125 2.5575 6.49 6.0225 6.49s6.105-2.915 6.105-6.71c0-3.6025-2.53-6.215-6.05-6.215zm-0.3575 0.77c2.31 0 3.9325 2.64 3.9325 6.4075 0 3.1075-1.2375 4.9775-3.3 4.9775-1.0725 0-2.09-0.66-2.6675-1.76-0.77-1.43-1.21-3.355-1.21-5.3075 0-2.6125 1.2925-4.3175 3.245-4.3175z"/>
+<path d="m328.77 14.916-0.11-3.74h-0.3025l-0.055 0.055c-0.2475 0.1925-0.275 0.22-0.385 0.22-0.165 0-0.44-0.055-0.7425-0.1925-0.605-0.22-1.21-0.33-1.925-0.33-2.1725 0-3.74 1.4025-3.74 3.3825 0 1.54 0.88 2.64 3.2175 3.96l1.595 0.9075c0.9625 0.55 1.43 1.21 1.43 2.0625 0 1.21-0.88 1.98-2.2825 1.98-0.935 0-1.7875-0.3575-2.31-0.9625-0.5775-0.6875-0.825-1.32-1.1825-2.8875h-0.44v4.29h0.3575c0.1925-0.275 0.3025-0.33 0.6325-0.33 0.2475 0 0.6325 0.055 1.265 0.22 0.77 0.165 1.5125 0.275 2.0075 0.275 2.1175 0 3.8775-1.595 3.8775-3.52 0-1.375-0.66-2.2825-2.31-3.2725l-2.97-1.76c-0.77-0.44-1.1825-1.1275-1.1825-1.87 0-1.1 0.8525-1.87 2.1175-1.87 1.5675 0 2.3925 0.935 3.025 3.3825h0.4125z"/>
+<path d="m335.61 10.901-4.2625 1.5125v0.4125l0.22-0.0275c0.33-0.055 0.6875-0.0825 0.935-0.0825 0.66 0 0.9075 0.44 0.9075 1.65v6.38c0 1.98-0.275 2.2825-2.1725 2.3925v0.4125h6.5175v-0.4125c-1.815-0.1375-2.035-0.4125-2.035-2.3925v-9.7625l-0.11-0.0825zm-1.2925-6.1325c-0.7425 0-1.375 0.6325-1.375 1.4025s0.605 1.4025 1.375 1.4025c0.7975 0 1.43-0.605 1.43-1.4025 0-0.77-0.6325-1.4025-1.43-1.4025z"/>
+<path d="m345.44 11.176h-2.7775v-3.19c0-0.275-0.0275-0.3575-0.1925-0.3575-0.1925 0.2475-0.3575 0.495-0.55 0.77-1.045 1.5125-2.2275 2.8325-2.6675 2.9425-0.3025 0.1925-0.4675 0.385-0.4675 0.5225 0 0.0825 0.0275 0.1375 0.11 0.1925h1.4575v8.2775c0 2.31 0.825 3.4925 2.4475 3.4925 1.3475 0 2.3925-0.66 3.3-2.09l-0.3575-0.3025c-0.5775 0.6875-1.045 0.9625-1.65 0.9625-1.0175 0-1.43-0.7425-1.43-2.475v-7.865h2.7775v-0.88z"/>
+<path d="m350.87 10.901-4.2625 1.5125v0.4125l0.22-0.0275c0.33-0.055 0.6875-0.0825 0.935-0.0825 0.66 0 0.9075 0.44 0.9075 1.65v6.38c0 1.98-0.275 2.2825-2.1725 2.3925v0.4125h6.5175v-0.4125c-1.815-0.1375-2.035-0.4125-2.035-2.3925v-9.7625l-0.11-0.0825zm-1.2925-6.1325c-0.7425 0-1.375 0.6325-1.375 1.4025s0.605 1.4025 1.375 1.4025c0.7975 0 1.43-0.605 1.43-1.4025 0-0.77-0.6325-1.4025-1.43-1.4025z"/>
+<path d="m360.56 10.901c-3.575 0-6.0775 2.64-6.0775 6.435 0 3.7125 2.5575 6.49 6.0225 6.49s6.105-2.915 6.105-6.71c0-3.6025-2.53-6.215-6.05-6.215zm-0.3575 0.77c2.31 0 3.9325 2.64 3.9325 6.4075 0 3.1075-1.2375 4.9775-3.3 4.9775-1.0725 0-2.09-0.66-2.6675-1.76-0.77-1.43-1.21-3.355-1.21-5.3075 0-2.6125 1.2925-4.3175 3.245-4.3175z"/>
+<path d="m367.87 12.606c0.165-0.0825 0.44-0.11 0.7425-0.11 0.77 0 1.0175 0.4125 1.0175 1.76v6.82c0 1.5675-0.3025 1.9525-1.705 2.0625v0.4125h5.83v-0.4125c-1.4025-0.11-1.815-0.44-1.815-1.43v-7.7275c1.32-1.2375 1.925-1.5675 2.8325-1.5675 1.3475 0 2.0075 0.8525 2.0075 2.6675v5.7475c0 1.7325-0.3575 2.2-1.7325 2.31v0.4125h5.72v-0.4125c-1.3475-0.1375-1.6775-0.4675-1.6775-1.815v-6.2975c0-2.585-1.21-4.125-3.245-4.125-1.265 0-2.1175 0.4675-3.9875 2.2275v-2.1725l-0.1925-0.055c-1.3475 0.495-2.2825 0.7975-3.795 1.2375v0.4675z"/>
+</g>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="56.39212" x="70.220818" font-family="Times" fill="#000000"><tspan y="56.39212" x="70.220818">true</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="75.183624" x="77.889771" font-family="Times" fill="#000000"><desc>The question mark indicates that the truth value for the A 
+statement is unknown or indeterminate.</desc><title>Unknown Truth Value for A Statement</title><tspan y="75.183624" x="77.889771">?</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="94.289833" x="67.50425" font-family="Times" fill="#000000"><tspan y="94.289833" x="67.50425">false</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="56.39212" x="333.02106" font-family="Times" fill="#000000"><tspan y="56.39212" x="333.02106">true</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="75.183624" x="341.19949" font-family="Times" fill="#000000"><tspan y="75.183624" x="341.19949">?</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="94.289833" x="330.81396" font-family="Times" fill="#000000"><tspan y="94.289833" x="330.81396">false</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="265.82715" x="70.593452" font-family="Times" fill="#000000"><tspan y="265.82715" x="70.593452">true</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="284.61865" x="77.889771" font-family="Times" fill="#000000"><tspan y="284.61865" x="77.889771">?</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="303.72488" x="67.50425" font-family="Times" fill="#000000"><tspan y="303.72488" x="67.50425">false</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="265.82715" x="333.53058" font-family="Times" fill="#000000"><tspan y="265.82715" x="333.53058">true</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="284.61865" x="341.19949" font-family="Times" fill="#000000"><tspan y="284.61865" x="341.19949">?</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="303.72488" x="330.81396" font-family="Times" fill="#000000"><tspan y="303.72488" x="330.81396">false</tspan></text>
+</g>
+<g opacity="0.001" tabindex="0" id="layer2">
+<path d="m75.376 258.45v-169.51" stroke="#00f" stroke-linecap="square" stroke-width="10" fill="none">
+<desc>A solid vertical line between A and I indicates that both A 
+and I are true.</desc>
+<title>Solid Vertical Line AI: A true; E false; I true; O false</title>
+</path>
+<rect stroke-linejoin="round" fill-opacity="0" height="17.514" width="33.91" stroke="#00f" stroke-linecap="round" y="42.952" x="21.377" stroke-width="2">
+<desc>If A is given as true, then the solid line must be placed 
+between A and I. So, given the meaning of a solid line, 
+A and I are both true. Because neither E nor O is at the 
+end of any kind of line, each is false.</desc>
+<title>Rectangle Around True</title>
+</rect>
+<path d="m322.13 88.952h14.905v0.74527" marker-start="url(#Arrow2Sstart)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that E is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+<path d="m321 298.17h14.905v0.74527" marker-start="url(#v)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that O is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+<path d="m21.724 260.91h-14.905v0.74527" marker-start="url(#j)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that I is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+</g>
+<g opacity="0.001" tabindex="0" id="layer3">
+<path d="m266.74 89.364v169.51" stroke="#00f" stroke-linecap="square" stroke-width="10" fill="none">
+<desc>A solid vertical line between E and O indicates that both E 
+and O are true while both A and I are false.</desc>
+<title>Solid Vertical Line EO: A false; E true; I false; O true</title>
+</path>
+<rect stroke-linejoin="round" fill-opacity="0" height="16.769" width="33.91" stroke="#00f" stroke-linecap="round" y="43.162" x="284.69" stroke-width="2">
+<desc>When E is given as true, the solid line must be placed 
+between E and O. So, given the meaning of a solid line, 
+E and O are both true. A and I are both false since neither 
+is at the end of any kind of line.</desc>
+<title>Rectangle Around True</title>
+</rect>
+<path d="m18.94 88.614h-14.905v0.74527" marker-start="url(#c)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that A is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+<path d="m19.214 298.64h-14.905v0.74527" marker-start="url(#e)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that I is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+<path d="m319.18 261.28h14.905v0.74527" marker-start="url(#r)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that O is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+</g>
+<g opacity="0.001" tabindex="0" id="layer4">
+<path opacity="0.865" d="m266.74 89.364v169.51" display="inline" stroke="#00f" stroke-linecap="square" stroke-width="10" fill="none">
+<desc>A solid line between E and O indicates that both E and O 
+are true while both A and I are false.</desc>
+<title>Solid Vertical Line EO: A false; E true; I false; O true</title>
+</path>
+<rect opacity="0.865" stroke-linejoin="round" fill-opacity="0" display="inline" height="16.769" width="36.145" stroke="#00f" stroke-linecap="round" y="289.66" x="20.309" stroke-width="2">
+<desc>When I is given as false, then the solid line can only go 
+between E and O. So, given the meaning of a solid line, 
+E and O are both true. Since A and I are not at the end of 
+any line, they are both false.</desc>
+<title>Rectangle Around False</title>
+</rect>
+<path d="m319.65 51.723h14.905v0.74527" marker-start="url(#f)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that E is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+<path d="m319.41 260.77h14.905v0.74527" marker-start="url(#l)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that O is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+<path d="m17.959 89.359h-14.905v0.74527" marker-start="url(#s)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that A is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+</g>
+<g opacity="0.001" tabindex="0" id="layer5">
+<path opacity="0.923" d="m75.376 258.45v-169.51" display="inline" stroke="#00f" stroke-linecap="square" stroke-width="10" fill="none">
+<desc>A solid vertical line between A and I indicates that A and I 
+are true while E and O are false.</desc>
+<title>Solid Vertical Line AI: A true; E false; I true; O false</title>
+</path>
+<rect opacity="0.923" stroke-linejoin="round" fill-opacity="0" display="inline" height="17.514" width="37.636" stroke="#00f" stroke-linecap="round" y="289.15" x="282.63" stroke-width="2">
+<desc>When O is given as false, the solid line can only be placed 
+between A and I. So, given the meaning of a solid line, both 
+A and I are true. E and O are both false because neither is 
+at the end of any kind of line.</desc>
+<title>Rectangle Around False</title>
+</rect>
+<path d="m18.94 51.723h-14.905v0.74527" marker-start="url(#b)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that A is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+<path d="m321.88 89.732h14.905v0.74527" marker-start="url(#a)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that E is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+<path d="m19.45 261.14h-14.905v0.74527" marker-start="url(#m)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that I is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+</g>
+<g opacity="0.001" tabindex="0" id="layer6">
+<path stroke-linejoin="round" d="m267.08 95.011-0.64 175" stroke="#00f" stroke-linecap="round" stroke-dasharray="10, 20" stroke-width="10" fill="none">
+<desc>Dashed lines between E and O and between I and O 
+indicate that O is true while E and I are both unknown.</desc>
+<title>Dashed Line EO</title>
+</path>
+<path d="m88.954 279.69 157.48 0.45448v0 0" stroke="#00f" stroke-linecap="round" stroke-dasharray="10.00000023, 20.00000045" stroke-width="10" fill="none">
+<desc>Dashed lines between E and O and between I and O 
+indicate that O is true while E and I are both unknown.</desc>
+<title>Dashed Line IO</title>
+</path>
+<rect stroke-linejoin="round" fill-opacity="0" height="20.122" width="36.518" stroke="#00f" stroke-linecap="round" y="78.763" x="20.259" stroke-width="2">
+<desc>If A is given as false, then the solid line can be placed either 
+between E and O or between I and O. So two dashed lines 
+should be placed in those locations. The result is that O is 
+true because it is at the end of two dashed lines; E and I are 
+both of unknown truth value because they are each at the 
+end of a single dashed line; and A is false because it is not 
+at the end of any line at all.</desc>
+<title>Rectangle Around False</title>
+</rect>
+<path d="m27.077 278.66h-14.905v0.74527" marker-start="url(#i)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of I is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+<path d="m312.53 69.609h14.905v0.74527" marker-start="url(#k)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of E is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+<path d="m319.68 260.91h14.905v0.74527" marker-start="url(#g)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that O is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+</g>
+<g opacity="0.001" tabindex="0" id="layer7">
+<path stroke-linejoin="round" d="m75.59 94.923-0.646 175" stroke="#00f" stroke-linecap="round" stroke-dasharray="10, 20" stroke-width="10" fill="none">
+<desc>Dashed lines between AI and IO indicate that I is true while 
+the truth values of A and O are unknown.</desc>
+<title>Dashed Line AI</title>
+</path>
+<path d="m90.092 279.6 157.48 0.45448v0 0" stroke="#00f" stroke-linecap="round" stroke-dasharray="10.00000023, 20.00000045" stroke-width="10" fill="none">
+<desc>Dashed lines between AI and IO indicate that I is true while 
+the truth values of A and O are unknown.</desc>
+<title>Dashed Line IO</title>
+</path>
+<rect stroke-linejoin="round" fill-opacity="0" height="16.769" width="36.145" stroke="#00f" stroke-linecap="round" y="80.239" x="283.52" stroke-width="2">
+<desc>When E is given as false, then the solid line could go either 
+between AI or between IO. So it should be split into two 
+dashed lines, one each going in those locations. The result 
+is that I, at the end of two dashed lines, is true; A and O, 
+each at the end of one dashed line, are both of unknown 
+truth value; and E is false because it is at the end of no 
+line at all.</desc>
+<title>Rectangle Around False</title>
+</rect>
+<path d="m26.94 69.237h-14.905v0.74527" marker-start="url(#u)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of A is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+<path d="m20.94 261.14h-14.905v0.74527" marker-start="url(#p)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that I is true.</desc>
+<title>Arrow Pointing to True</title>
+</path>
+<path d="m312.33 279.03h14.905v0.74527" marker-start="url(#w)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of O is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+</g>
+<g opacity="0.001" tabindex="0" id="layer8">
+<path stroke-linejoin="round" d="m75.59 94.923-0.646 175" stroke="#00f" stroke-linecap="round" stroke-dasharray="10, 20" stroke-width="10" fill="none">
+<desc>Dashed lines between AI and IO indicate that I is true while 
+the truth values of A and O are unknown.</desc>
+<title>Dashed Line AI</title>
+</path>
+<path d="m90.092 279.6 157.48 0.45448v0 0" stroke="#00f" stroke-linecap="round" stroke-dasharray="10.00000023, 20.00000045" stroke-width="10" fill="none">
+<desc>Dashed lines between AI and IO indicate that I is true while 
+the truth values of A and O are unknown.</desc>
+<title>Dashed Line IO</title>
+</path>
+<rect opacity=".894" stroke-linejoin="round" fill-opacity="0" display="inline" height="16.769" width="32.792" stroke="#00f" stroke-linecap="round" y="252.4" x="22.544" stroke-width="2">
+<desc>When I is given as true, then the solid line could go either 
+between A and I or between I and O. So a dashed line is to 
+be placed in both those locations, indicating that I is true 
+while the truth values of A and O are unknown. E, not at 
+the end of any line at all, is false.</desc>
+<title>Rectangle Around True</title>
+</rect>
+<path d="m27.686 68.864h-14.905v0.74527" marker-start="url(#n)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of A is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+<path d="m320.29 88.986h14.905v0.74527" marker-start="url(#t)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that E is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+<path d="m312.29 278.28h14.905v0.74527" marker-start="url(#h)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of O is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+</g>
+<g opacity="0.001" tabindex="0" id="layer9">
+<path stroke-linejoin="round" d="m267.08 95.011-0.64 175" stroke="#0000fe" stroke-linecap="round" stroke-dasharray="10, 20" stroke-width="10" fill="none">
+<desc>Dashed Lines between EO and IO indicate that O is true 
+and that E and I have unknown truth value.</desc>
+<title>Dashed Line EO</title>
+</path>
+<path d="m88.954 279.69 157.48 0.45448v0 0" stroke="#0000fe" stroke-linecap="round" stroke-dasharray="10.00000023, 20.00000045" stroke-width="10" fill="none">
+<desc>Dashed Lines between EO and IO indicate that O is true 
+and that E and I have unknown truth value.</desc>
+<title>Dashed Line IO</title>
+</path>
+<rect opacity="0.907" stroke-linejoin="round" fill-opacity="0" display="inline" height="17.886" width="33.537" stroke="#00f" stroke-linecap="round" y="252.21" x="285.05" stroke-width="2">
+<desc>When O is given as true, then the solid line can go either 
+between EO or IO. So a dashed line goes in both those 
+locations. The result is that O is true because it is at the 
+ends of two dashed lines; E and I are unknown because 
+they are at the end of a single dashed line; and A is false 
+because it is not at the end of any kind of line.</desc>
+<title>Rectangle Around True</title>
+</rect>
+<path d="m19.214 88.477h-14.905v0.74527" marker-start="url(#q)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that A is false.</desc>
+<title>Arrow Pointing to False</title>
+</path>
+<path d="m25.412 278.28h-14.905v0.74527" marker-start="url(#d)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of I is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+<path d="m315.18 69.237h14.905v0.74527" marker-start="url(#o)" stroke="#0000fe" stroke-width="2" fill="none">
+<desc>The arrow indicates that the truth value of E is unknown.</desc>
+<title>Arrow Pointing to Question Mark</title>
+</path>
+</g>
+<style>text, tspan{white-space:pre;}
+#layer2{opacity:0.001;}
+#layer2:focus{opacity:1.0;}
+#layer3{opacity:0.001;}
+#layer3:focus{opacity:1.0;}
+#layer4{opacity:0.001;}
+#layer4:focus{opacity:1.0;}
+#layer5{opacity:0.001;}
+#layer5:focus{opacity:1.0;}
+#layer6{opacity:0.001;}
+#layer6:focus{opacity:1.0;}
+#layer7{opacity:0.001;}
+#layer7:focus{opacity:1.0;}
+#layer8{opacity:0.001;}
+#layer8:focus{opacity:1.0;}
+#layer9{opacity:0.001;}
+#layer9:focus{opacity:1.0;}
+g:focus{outline:none;}</style>
+</svg>
