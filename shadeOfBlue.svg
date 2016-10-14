@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" aria-describedby="desc" viewBox="0 0 1053.4323 803.45306" height="226.75mm" width="297.3mm" version="1.1" role="img" aria-labelledby="title" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Hume&apos;s Missing Shade of Blue</title>
+<desc>An interactive visualization of David Hume&apos;s missing shade of blue that serves as a counterexample to his claim that all simple ideas are produced from simple impressions</desc>
+<defs>
+<marker id="Arrow1Mstart" refY="0" refX="0" orient="auto" overflow="visible">
+<path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
+</marker>
+<linearGradient id="a">
+<stop stop-color="#00f" offset="0"/>
+<stop stop-color="#00f" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="e" y2="428.78" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="428.78" gradientTransform="translate(20 -.000010758)" x2="432.08" x1="95.532"/>
+<linearGradient id="d" y2="428.78" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="428.78" gradientTransform="translate(20 205.1)" x2="432.08" x1="95.532"/>
+<linearGradient id="c" y2="428.78" xlink:href="#a" gradientUnits="userSpaceOnUse" y1="428.78" gradientTransform="translate(-.000019065 434.59)" x2="432.08" x1="95.532"/>
+<linearGradient id="b" y2="699.79" gradientUnits="userSpaceOnUse" y1="699.79" gradientTransform="translate(20 146)" x2="432.58" x1="95.032">
+<stop stop-color="#00f" offset="0"/>
+<stop stop-color="#00f" stop-opacity="0" offset="1"/>
+</linearGradient>
+<marker id="f" refY="0" refX="0" orient="auto" overflow="visible">
+<path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
+</marker>
+<marker id="g" refY="0" refX="0" orient="auto" overflow="visible">
+<path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
+</marker>
+<marker id="h" refY="0" refX="0" orient="auto" overflow="visible">
+<path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
+</marker>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Hume&apos;s Missing Shade of Blue</dc:title>
+<dc:date>12 October 2016</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Philosophy Ink</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:publisher>
+<cc:Agent>
+<dc:title>https://github.com/philosophyInk/philosophy-visualized</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:source>Hume&apos;s A Treatise of Human Nature deadborn from the press in 1739</dc:source>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>Hume</rdf:li>
+<rdf:li>missing shade of blue</rdf:li>
+<rdf:li>impression</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<dc:rights>
+<cc:Agent>
+<dc:title>Creative Commons Attribution ShareAlike</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:description>An interactive visualization of David Hume&apos;s missing shade of blue that serves as a counterexample to his claim that all simple ideas are produced from simple impressions</dc:description>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g transform="translate(7.9629 -303.24)">
+<rect height="46.451" width="336.55" stroke="#000" stroke-linecap="square" y="405.55" x="115.53" fill="url(#e)">
+<desc>A rectangle filled with a gradient going left to right from dark blue to light blue. These represent shades of blue found coloring objects in the world.</desc>
+<title>Shades of Blue from Dark to Light</title>
+</rect>
+<path d="m115.53 610.65v46.451h119.2v-46.451h-119.2zm128.84 0v46.451h207.71v-46.451h-207.71z" stroke="#000" stroke-linecap="square" fill="url(#d)">
+<desc>This rectangle represents impressions of shades of blue. It has a blank, a missing shade, indicating that the perceiver has never been visually exposed to that shade of blue.</desc>
+<title>Shades of Blue with a Blank</title>
+</path>
+<path d="m115.53 822.56v46.451h119.2v-46.451h-119.2zm128.84 0v46.451h207.71v-46.451h-207.71z" stroke="#000" stroke-linecap="square" fill="url(#b)">
+<desc>For every simple impression there is a corresponding simple idea. The blank indicates that where there is no simple impression there can be no corresponding simple idea. So the perceiver does not (as of yet) have the simple idea of the missing shade of blue.</desc>
+<title>Ideas of Shades of Blue with a Blank</title>
+</path>
+<g transform="translate(20 198)">
+<desc>After the imagination produces the missing shade of blue from scratch and inserts it in its proper place &quot;betwixt the contiguous colours,&quot; the set of later simple ideas of shades of blue is complete and has no blank space.</desc>
+<title>Later Ideas of Shades of Blue without Blank</title>
+<rect height="46.451" width="336.55" stroke="#000" stroke-linecap="square" y="840.14" x="95.532" fill="url(#c)"/>
+<path d="m214.73 840.14v46.451h9.6406v-46.451h-9.6406z" fill-opacity="0" stroke="#000" stroke-linecap="square"/>
+</g>
+<path d="m234.73 900.11v46.451h9.6406v-46.451h-9.6406z" fill-opacity=".61569" stroke="#000" stroke-linecap="square" fill="#00f">
+<desc>Hume supposes that the imagination can produce from scratch, without a corresponding impression, a simple idea of a shade of blue.</desc>
+<title>Single Shade of Blue from the Imagination</title>
+</path>
+<path d="m239.89 1020.5v-52.77h0.47425" marker-start="url(#Arrow1Mstart)" stroke="#000" stroke-width="3" fill="none">
+<desc>The arrow from the imagined shade of blue to the later ideas of shades of blue indicates that the imagination supplies the simple idea of the shade of blue that was missing among the initial ideas.</desc>
+<title>Arrow Pointing from Imagined Shade of Blue to Later Ideas</title>
+</path>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="15px" line-height="125%" y="433.84485" x="37.169529" font-family="Times" fill="#000000"><desc>Shades of blue color in the world</desc><title>Shades of Blue</title><tspan y="433.84485" x="37.169529" font-size="20px">Blues</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="636.16376" x="9.3936729" font-family="Times" fill="#000000"><desc>The impressions of shades of blue are a kind of perception and exist in the perceiver.</desc><title>Impressions of Shades of Blue</title><tspan y="636.16376" x="9.3936729">Impressions</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="839.40503" x="34.270111" font-family="Times" fill="#000000"><desc>Like impressions, simple ideas are perceptions. But they differ from impressions in that they are less lively perceptions that are copies of the impressions.</desc><title>Initial Ideas Copied from Impressions</title><tspan y="839.40503" x="34.270111">Initial</tspan><tspan y="864.40503" x="34.270111">Ideas</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="1054.9193" x="37.034477" font-family="Times" fill="#000000"><tspan y="1054.9193" x="37.034477">Later</tspan><tspan y="1079.9193" x="37.034477">Ideas</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="928.17224" x="92.114906" font-family="Times" fill="#000000"><desc>A shade of blue produced by the imagination.</desc><title>An Imagined Shade of Blue</title><tspan y="928.17224" x="92.114906">Imagined Shade</tspan></text>
+<path d="m57.71 566.63v-67.77h0.47425" marker-start="url(#f)" stroke="#000" stroke-width="3" fill="none">
+<desc>The arrow from shades of blue to impressions of shades of blue indicates that the shades of blue play a causal role in producing the corresponding impressions.</desc>
+<title>Arrow Pointing from Blues to Impressions</title>
+</path>
+<path d="m57.215 763.46v-67.77h0.47425" marker-start="url(#g)" stroke="#000" stroke-width="3" fill="none">
+<desc>The arrow indicates that simple ideas are produced from, are copies of, simple impressions.</desc>
+<title>Arrow Pointing from Impressions to Initial Ideas</title>
+</path>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="338.09195" x="58.402039" font-family="Times" fill="#000000"><desc>Scottish philosopher David Hume (1711-1776) claimed that all simple ideas are produced from simple impressions. In this passage from the Treatise of Human Nature (1.1.1.10), Hume presents an apparent counterexample to this claim. The counterexample is that the simple idea of a single shade of blue color could be  produced not by an impression but instead by the imagination.</desc><title>Hume&apos;s Missing Shade of Blue</title><tspan y="338.09195" x="58.402039">David Hume&apos;s Missing Shade of Blue</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="367.14938" x="50.134773" font-family="Times" fill="#000000"><desc>The text is from Hume&apos;s A Treatise of Human Nature, 
+1.1.1.10. A similar passage is also in the Enquiry in Section II, Of the Origin of Ideas.</desc><title>Attribution</title><tspan y="367.14938" x="50.134773">(<tspan font-size="25px" font-style="italic" line-height="125%" font-family="Times">A Treatise of Human Nature</tspan>, 1.1.1.10) </tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="334.612" x="513.14343" font-family="Times" fill="#000000"><tspan y="334.612" x="513.14343">There is however one contradictory phaenomenon, which may </tspan><tspan y="359.612" x="513.14343">prove, that ’tis not absolutely impossible for ideas to go before </tspan><tspan y="384.612" x="513.14343">their correspondent impressions. I believe it will readily be </tspan><tspan y="409.612" x="513.14343">allow’d, that the several distinct ideas of colours, which enter </tspan><tspan y="434.612" x="513.14343">by the eyes, or those of sounds, which are convey’d by the </tspan><tspan y="459.612" x="513.14343">hearing, are really different from each other, tho’ at the same </tspan><tspan y="484.612" x="513.14343">time resembling. Now if this be true of different colours, it </tspan><tspan y="509.61203" x="513.14343">must be no less so of the different shades of the same colour, </tspan><tspan y="534.612" x="513.14343">that each of them produces a distinct idea, independent of the </tspan><tspan y="559.612" x="513.14343">rest. For if this shou’d be deny’d, ’tis possible, by the continual </tspan><tspan y="584.612" x="513.14343">gradation of shades, to run a colour insensibly into what is most </tspan><tspan y="609.612" x="513.14343">remote from it; and if you will not allow any of the means to be </tspan><tspan y="634.612" x="513.14343">different, you cannot without absurdity deny the extremes to be </tspan><tspan y="659.61206" x="513.14343">the same. Suppose therefore a person to have enjoyed his sight </tspan><tspan y="684.61206" x="513.14343">for thirty years, and to have become perfectly well acquainted </tspan><tspan y="709.61206" x="513.14343">with colours of all kinds, excepting one particular shade of blue, </tspan><tspan y="734.61206" x="513.14343">for instance, which it never has been his fortune to meet with. </tspan><tspan y="759.61206" x="513.14343">Let all the different shades of that colour, except that single one, </tspan><tspan y="784.61206" x="513.14343">be placed before him, descending gradually from the deepest to </tspan><tspan y="809.61206" x="513.14343">the lightest; ’tis plain, that he will perceive a blank, where that </tspan><tspan y="834.61206" x="513.14343">shade is wanting, and will be sensible, that there is a greater </tspan><tspan y="859.61206" x="513.14343">distance in that place betwixt the contiguous colours, than in </tspan><tspan y="884.61206" x="513.14343">any other. Now I ask, whether ’tis possible for him, from his </tspan><tspan y="909.61206" x="513.14343">own imagination, to supply this deficiency, and raise up to </tspan><tspan y="934.61206" x="513.14343">himself the idea of that particular shade, tho’ it had never been </tspan><tspan y="959.61206" x="513.14343">conveyed to him by his senses? I believe there are few but will </tspan><tspan y="984.61206" x="513.14343">be of opinion that he can; and this may serve as a proof, that the </tspan><tspan y="1009.6121" x="513.14343">simple ideas are not always derived from the correspondent </tspan><tspan y="1034.6121" x="513.14343">impressions; tho’ the instance is so particular and singular, that </tspan><tspan y="1059.6121" x="513.14343">’tis scarce worth our observing, and does not merit that for it </tspan><tspan y="1084.6121" x="513.14343">alone we should alter our general maxim.</tspan></text>
+<path d="m239.34 506.31v-52.77h0.47425" marker-start="url(#h)" stroke="#000" stroke-width="3" fill="none">
+<desc>The arrow points from a single shade of blue to a block. The block indicates that the shade of blue is prevented from causing a corresponding impression of the shade being produced in the perceiver. The block is thus causally responsible for the blank, the missing shade of blue, among all the successfully produced impressions of shades of blue in the perceiver.</desc>
+<title>Arrow from Blue Shade to Block</title>
+</path>
+<path d="m235.28 523.84h8.5" stroke="#000" stroke-width="5" fill="none">
+<desc>The block indicates that a shade of blue is prevented from causing a corresponding impression of the shade being produced in the perceiver. The block is thus causally responsible for the blank, the missing shade of blue, among all the successfully produced impressions of shades of blue in the perceiver.</desc>
+<title>Block Between Arrow and Blank</title>
+</path>
+</g>
+<g opacity="0.001" id="layer2" tabindex="0">
+<rect fill-opacity="0" height="61.513" width="439.11" stroke="#f7a240" stroke-linecap="square" y="94.635" x="30.283" stroke-width="10">
+<desc>The black rectangle filled with the blue gradient represents the shades of blue that color the objects which we perceive by sight.</desc>
+<title>Shades of Blue</title>
+</rect>
+<rect fill-opacity="0" height="29.337" width="181.7" stroke="#f7a240" stroke-linecap="square" y="85.064" x="841.09" stroke-width="5"/>
+<rect fill-opacity="0" height="30.283" width="110.72" stroke="#f7a240" stroke-linecap="square" y="110.72" x="511.98" stroke-width="5"/>
+<rect fill-opacity="0" height="138.17" width="426.8" stroke="#f7a240" stroke-linecap="square" y="367.18" x="83.906" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="210.09006" x="300.94003" font-family="Times" fill="#000000"><tspan y="210.09006" x="300.94003"/></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="397.46561" x="94.510857" font-family="Times" fill="#000000"><tspan y="397.46561" x="94.510857">The black rectangle filled with the blue </tspan><tspan y="428.71561" x="94.510857">gradient represents the shades of blue </tspan><tspan y="459.96561" x="94.510857">that color the objects which we perceive </tspan><tspan y="491.21561" x="94.510857">by sight.</tspan></text>
+<rect fill-opacity="0" height="29.337" width="293.37" stroke="#f7a240" stroke-linecap="square" y="185.38" x="717.23" stroke-width="5"/>
+<rect fill-opacity="0" height="25.552" width="88.011" stroke="#f7a240" stroke-linecap="square" y="237.43" x="947.08" stroke-width="5"/>
+<rect fill-opacity="0" height="29.337" width="173.18" stroke="#f7a240" stroke-linecap="square" y="261.09" x="512.08" stroke-width="5"/>
+<rect fill-opacity="0" height="35.015" width="346.36" stroke="#f7a240" stroke-linecap="square" y="458.87" x="692.52" stroke-width="5"/>
+<rect fill-opacity="0" height="33.122" width="99.367" stroke="#f7a240" stroke-linecap="square" y="484.42" x="516.6" stroke-width="5"/>
+</g>
+<g opacity="0.001" id="layer3" tabindex="0">
+<rect fill-opacity="0" height="92.743" width="37.854" stroke="#f7a240" stroke-linecap="square" y="182.97" x="45.961" stroke-width="10">
+<desc>The arrow pointing from blues to impressions indicates that the colors that enter by the eyes (by the sense of sight) play a causal role in producing impressions of the colors. These impressions are a kind of perception in the perceiver.</desc>
+<title>Arrow Pointing from Blues to Impressions</title>
+</rect>
+<rect fill-opacity="0" height="143.85" width="420.18" stroke="#f7a240" stroke-linecap="square" y="364.24" x="88.957" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="364.0043" x="102.42064" font-family="Times" fill="#000000"><tspan y="364.0043" x="102.42064"/><tspan y="395.2543" x="102.42064">producing impressions of the colors. </tspan><tspan y="426.5043" x="102.42064">The resulting impressions are a kind of </tspan><tspan y="457.7543" x="102.42064">perception in the perceiver; ideas are </tspan><tspan y="489.0043" x="102.42064">another (less lively) kind of perception.</tspan></text>
+<rect fill-opacity="0" height="70.03" width="415.45" stroke="#f7a240" stroke-linecap="square" y="228.29" x="95.562" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="252.7832" x="106.83052" font-family="Times" fill="#000000"><tspan y="252.7832" x="106.83052">The arrow indicates that the colors that </tspan><tspan y="284.0332" x="106.83052">enter by the eyes play a causal role in</tspan></text>
+<rect fill-opacity="0" height="30.283" width="107.88" stroke="#f7a240" stroke-linecap="square" y="60.459" x="674.53" stroke-width="5"/>
+<rect fill-opacity="0" height="31.23" width="111.67" stroke="#f7a240" stroke-linecap="square" y="710.6" x="512.92" stroke-width="5"/>
+</g>
+<g opacity="0.001" id="layer4" tabindex="0">
+<rect fill-opacity="0" height="78.547" width="32.176" stroke="#f7a240" stroke-linecap="square" y="151.2" x="230.91" stroke-width="10">
+<desc>The arrow pointing from a single shade of blue to a block indicates that the shade of blue is prevented (e.g., a person happens never to see an object with that particular shade of blue) from playing its causal role in producing a corresponding idea of the shade of blue.</desc>
+<title>Shade of Blue Blocked</title>
+</rect>
+<rect fill-opacity="0" height="134.38" width="233.75" stroke="#f7a240" stroke-linecap="square" y="158.04" x="275.5" stroke-width="5"/>
+<rect fill-opacity="0" height="146.68" width="431.54" stroke="#f7a240" stroke-linecap="square" y="363.18" x="82.333" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="184.96771" x="282.85205" font-family="Times" fill="#000000"><tspan y="184.96771" x="282.85205">The blocked arrow </tspan><tspan y="216.21771" x="282.85205">indicates that a single </tspan><tspan y="247.46771" x="282.85205">shade of blue is </tspan><tspan y="278.71771" x="282.85205">prevented (e.g., a </tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="363.6824" x="88.937813" font-family="Times" fill="#000000"><tspan y="363.6824" x="88.937813"/><tspan y="394.9324" x="88.937813">person just happens never to see an object </tspan><tspan y="426.1824" x="88.937813">with that particular shade of blue) from </tspan><tspan y="457.4324" x="88.937813">playing its causal role in producing a </tspan><tspan y="488.6824" x="88.937813">corresponding impression of the shade.</tspan></text>
+<path d="m720.19 386v25.98h-202.32v27.963h200.35 7.4544 311.24v-53.943z" fill-opacity="0" stroke="#f7a240" stroke-linecap="square" stroke-width="5"/>
+</g>
+<g opacity="0.001" id="layer6" tabindex="0">
+<rect fill-opacity="0" height="62.459" width="456.14" stroke="#f7a240" stroke-linecap="square" y="299.05" x="12.303" stroke-width="10">
+<desc>The set of impressions of shades of blue. There is a distinct impression for each shade of blue ever perceived by the perceiver. The blank indicates a shade of blue that the perceiver has never seen.</desc>
+<title>Impressions of Shades of Blue with Blank</title>
+</rect>
+<rect fill-opacity="0" height="137.22" width="427.75" stroke="#f7a240" stroke-linecap="square" y="372.86" x="84.225" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="400.52151" x="95.259682" font-family="Times" fill="#000000"><tspan y="400.52151" x="95.259682">There is a distinct impression for each </tspan><tspan y="431.77151" x="95.259682">shade ever perceived by the perceiver. </tspan><tspan y="463.02151" x="95.259682">The blank is a placeholder for a shade of </tspan><tspan y="494.27151" x="95.259682">blue that the perceiver has never seen.</tspan></text>
+<path d="m285.27 213.98v34.549h-136.69v39.267h320.24v-22.933-14.334-36.549z" fill-opacity="0" stroke="#f7a240" stroke-linecap="square" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="241.66095" x="292.42285" font-family="Times" fill="#000000"><tspan y="241.66095" x="292.42285">This is the set of </tspan><tspan y="272.91095" x="292.42285"/></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="272.97858" x="157.25969" font-family="Times" fill="#000000"><tspan y="272.97858" x="157.25969">impressions of shades of blue.</tspan></text>
+<rect fill-opacity="0" height="29.337" width="111.67" stroke="#f7a240" stroke-linecap="square" y="62.352" x="673.8" stroke-width="5"/>
+<rect fill-opacity="0" height="30.283" width="111.67" stroke="#f7a240" stroke-linecap="square" y="712.6" x="512.92" stroke-width="5"/>
+</g>
+<g opacity="0.001" id="layer5" tabindex="0">
+<rect fill-opacity="0" height="73.815" width="44.479" stroke="#f7a240" stroke-linecap="square" y="293.37" x="224.39" stroke-width="10">
+<desc>An impression of the blocked shade of blue fails to be produced and so a blank occupies the place of the missing shade in the perceiver&apos;s set of impressions.</desc>
+<title>Blank in Place of Missing Shade of Blue</title>
+</rect>
+<rect fill-opacity="0" height="138.17" width="432.48" stroke="#f7a240" stroke-linecap="square" y="371.92" x="82.333" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="401.78976" x="91.474274" font-family="Times" fill="#000000"><tspan y="401.78976" x="91.474274">An impression of the blocked shade of </tspan><tspan y="433.03976" x="91.474274">blue fails to be produced and so a blank </tspan><tspan y="464.28976" x="91.474274">occupies the place of the missing shade </tspan><tspan y="495.53976" x="91.474274">in the perceiver&apos;s set of blue impressions. </tspan></text>
+<rect fill-opacity="0" height="29.337" width="275.39" stroke="#f7a240" stroke-linecap="square" y="486.32" x="753.4" stroke-width="5"/>
+<rect fill-opacity="0" height="31.23" width="147.63" stroke="#f7a240" stroke-linecap="square" y="510.82" x="515.44" stroke-width="5"/>
+</g>
+<g opacity="0.001" id="layer7" tabindex="0">
+<rect fill-opacity="0" height="94.635" width="45.425" stroke="#f7a240" stroke-linecap="square" y="379.49" x="41.854" stroke-width="10">
+<desc>The arrow pointing from impressions of shades of blue to the initial simple ideas of shades of blue indicates that the ideas are produced from the impressions. For each idea of a shade there is a correspondent impression.</desc>
+<title>Arrow Pointing from Impressions to Initial Ideas</title>
+</rect>
+<rect fill-opacity="0" height="136.27" width="413.56" stroke="#f7a240" stroke-linecap="square" y="365.29" x="101.26" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="392.73611" x="107.65025" font-family="Times" fill="#000000"><tspan y="392.73611" x="107.65025">The arrow indicates that the initial ideas </tspan><tspan y="423.98611" x="107.65025">are produced from the impressions. For </tspan><tspan y="455.23611" x="107.65025">each simple idea of a shade there is a </tspan><tspan y="486.48611" x="107.65025">correspondent simple impression.</tspan></text>
+<rect fill-opacity="0" height="31.23" width="218.61" stroke="#f7a240" stroke-linecap="square" y="59.62" x="558.35" stroke-width="5"/>
+<path d="m714.29 186.32v24.195h-199.47v31.641h349.25v-24.605h150.42v-31.23z" fill-opacity="0" stroke="#f7a240" stroke-linecap="square" stroke-width="5"/>
+</g>
+<g opacity="0.001" id="layer8" tabindex="0">
+<rect fill-opacity="0" height="68.137" width="433.43" stroke="#f7a240" stroke-linecap="square" y="508.3" x="34.908" stroke-width="10">
+<desc>This is the set of initial simple ideas produced from the set of impressions of shades of blue. There is a one-to-one correspondence between these two sets. So for each idea there is one and only one impression of which the idea is a copy. There is thus no idea for the missing shade of blue because there is no impression of that shade from which the idea could be produced.</desc>
+<title>Initial Ideas of Shades of Blue with Blank</title>
+</rect>
+<rect fill-opacity="0" height="140.06" width="421.13" stroke="#f7a240" stroke-linecap="square" y="356.35" x="83.386" stroke-width="5"/>
+<rect height="164.67" width="496.83" stroke="#f7a240" stroke-linecap="square" y="587.58" x="12.41" stroke-width="5" fill="#fff"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="385.46786" x="90.849808" font-family="Times" fill="#000000"><tspan y="385.46786" x="90.849808">This is the set of initial simple ideas </tspan><tspan y="416.71786" x="90.849808">produced from the set of impressions of </tspan><tspan y="447.96786" x="90.849808">shades of blue. There is a one-to-one </tspan><tspan y="479.21786" x="90.849808">correspondence between these two sets. </tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="612.1825" x="22.605156" font-family="Times" fill="#000000"><tspan y="612.1825" x="22.605156">So for each idea there is one and only one </tspan><tspan y="643.4325" x="22.605156">impression of which the idea is a copy. There is </tspan><tspan y="674.6825" x="22.605156">thus no idea for the missing shade of blue </tspan><tspan y="705.9325" x="22.605156">because there is no impression of that shade </tspan><tspan y="737.1825" x="22.605156">from which the idea could be produced.</tspan></text>
+</g>
+<g opacity="0.001" id="layer9" tabindex="0">
+<path d="m89.797 584.11v67.836h135.22v140.96h47.424v-208.79z" fill-opacity="0" transform="translate(0 -.000030518)" stroke="#f7a240" stroke-linecap="square" stroke-width="10">
+<desc>This is the (ultimately insufficient) counterexample to the general maxim or claim that all simple ideas arise from simple impressions. Hume supposes it possible that the imagination can create from scratch (i.e., without a corresponding impression) the idea of a single shade of blue, thus supplying for the set of later ideas the previously missing simple idea corresponding to the missing impression of the shade of blue,</desc>
+<title>Imagination Creates a Shade of Blue</title>
+</path>
+<rect height="133.44" width="418.29" stroke="#f7a240" stroke-linecap="square" y="165.93" x="93.689" stroke-width="5" fill="#fff"/>
+<rect fill-opacity="0" height="141.01" width="439.11" stroke="#f7a240" stroke-linecap="square" y="367.18" x="75.708" stroke-width="5"/>
+<rect fill-opacity="0" height="155.2" width="224.29" stroke="#f7a240" stroke-linecap="square" y="572.54" x="285.8" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="190.86053" x="104.9378" font-family="Times" fill="#000000"><tspan y="190.86053" x="104.9378">This is the (ultimately insufficient) </tspan><tspan y="222.11053" x="104.9378">counterexample to the general maxim </tspan><tspan y="253.36053" x="104.9378">or claim that all simple ideas arise from </tspan><tspan y="284.61053" x="104.9378">simple impressions. Hume supposes it </tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="396.00436" x="82.742516" font-family="Times" fill="#000000"><tspan y="396.00436" x="82.742516">possible that the imagination can create </tspan><tspan y="427.25436" x="82.742516">from scratch (i.e., without a corresponding </tspan><tspan y="458.50436" x="82.742516">impression) the idea of a single shade of </tspan><tspan y="489.75436" x="82.742516">blue, thus supplying the set of later ideas</tspan><tspan y="521.00439" x="82.742516"/></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="595.04083" x="296.10092" font-family="Times" fill="#000000"><tspan y="595.04083" x="296.10092">with the previously </tspan><tspan y="626.29083" x="296.10092">missing simple idea </tspan><tspan y="657.54083" x="296.10092">to be matched to the </tspan><tspan y="688.79083" x="296.10092">missing impression </tspan><tspan y="720.04083" x="296.10092">of the shade of blue, </tspan></text>
+<path d="m762.76 562.13v22.713h-246.05c0.22689 20.033 0.57158 37.41 0.53516 55.619h328.79v-22.496l164.22-0.42499c-0.1691-24.594-0.153-31.721-0.153-55.411z" fill-opacity="0" transform="translate(0 -.000030518)" stroke="#f7a240" stroke-linecap="square" stroke-width="5"/>
+<path d="m806.4 733.1v27.033h-291.26v32.068h342.26v-25.766h155.83v-33.336z" fill-opacity="0" stroke="#f7a240" stroke-linecap="square" stroke-width="5"/>
+<rect fill-opacity="0" height="30.283" width="269.71" stroke="#f7a240" stroke-linecap="square" y="11.356" x="659.5" stroke-width="5"/>
+</g>
+<g opacity="0.001" id="layer10" tabindex="0">
+<rect fill-opacity="0" height="67.191" width="431.54" stroke="#f7a240" stroke-linecap="square" y="725.01" x="37.854" stroke-width="10">
+<desc>The set of later simple ideas of shades of blue is complete. The set consists of all the ideas that are copies of impressions of blue as well as of any ideas of shades of blue contributed by the imagination in its efforts to fill any blanks left by the deficiencies of experience.</desc>
+<title>Later Simple Ideas of Shades of Blue</title>
+</rect>
+<rect fill-opacity="0" height="144.79" width="424.91" stroke="#f7a240" stroke-linecap="square" y="363.08" x="85.279" stroke-width="5"/>
+<rect fill-opacity="0" height="138.17" width="245.11" stroke="#f7a240" stroke-linecap="square" y="575.06" x="262.98" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="394.41425" x="93.171692" font-family="Times" fill="#000000"><tspan y="394.41425" x="93.171692">blue is complete. The set consists of all </tspan><tspan y="425.66425" x="93.171692">the ideas that are copies of impressions </tspan><tspan y="456.91425" x="93.171692">of shades of blue as well as of any ideas </tspan><tspan y="488.16425" x="93.171692">of shades added by the imagination in its</tspan></text>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="603.04089" x="273.60306" font-family="Times" fill="#000000"><tspan y="603.04089" x="273.60306">efforts to fill in any </tspan><tspan y="634.29089" x="273.60306">blanks left by any </tspan><tspan y="665.54089" x="273.60306">deficiencies in the  </tspan><tspan y="696.79089" x="273.60306">perceiver&apos;s experience.</tspan></text>
+<rect fill-opacity="0" height="41.639" width="427.75" stroke="#f7a240" stroke-linecap="square" y="240.59" x="82.011" stroke-width="5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="25px" line-height="125%" y="269.71036" x="88.01075" font-family="Times" fill="#000000"><tspan y="269.71036" x="88.01075">The set of later simple ideas of shades of </tspan></text>
+<rect fill-opacity="0" height="28.391" width="194.95" stroke="#f7a240" stroke-linecap="square" y="612.08" x="840.25" stroke-width="5"/>
+<rect fill-opacity="0" height="31.23" width="255.52" stroke="#f7a240" stroke-linecap="square" y="635" x="515.76" stroke-width="5"/>
+<path d="m926.59 6.5175v30.713h-411.23c-0.31997 20.461 0.72175 33.817 0.625 53.512h269.39v-26.498h244.78c0.3487-19.17-0.6039-39.259-0.5175-57.727z" fill-opacity="0" stroke="#f7a240" stroke-linecap="square" stroke-width="5"/>
+<path d="m899.77 661.39v23.658h-383.9c0.1801 18.529-0.1161 36.587 0.10742 55.836h112.29v-24.605l411.44-0.62752c0.7474-20.878 0.3297-31.494 0.3297-54.261z" fill-opacity="0" stroke="#f7a240" stroke-linecap="square" stroke-width="5"/>
+</g>
+<style>text, tspan{white-space:pre;}
+#layer2{opacity:0.001;}
+#layer2:focus{opacity:1.0;}
+#layer3{opacity:0.001;}
+#layer3:focus{opacity:1.0;}
+#layer4{opacity:0.001;}
+#layer4:focus{opacity:1.0;}
+#layer5{opacity:0.001;}
+#layer5:focus{opacity:1.0;}
+#layer6{opacity:0.001;}
+#layer6:focus{opacity:1.0;}
+#layer7{opacity:0.001;}
+#layer7:focus{opacity:1.0;}
+#layer8{opacity:0.001;}
+#layer8:focus{opacity:1.0;}
+#layer9{opacity:0.001;}
+#layer9:focus{opacity:1.0;}
+#layer10{opacity:0.001;}
+#layer10:focus{opacity:1.0;}
+g:focus{outline:none;}</style>
+</svg>
