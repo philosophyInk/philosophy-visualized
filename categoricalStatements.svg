@@ -178,5 +178,7 @@ the P circle; thus, an S that is not a P.</desc>
 #layer4{opacity:0.001;}
 #layer4:focus{opacity:1.0;}
 #layer5{opacity:0.001;}
-#layer5:focus{opacity:1.0;}</style>
+#layer5:focus{opacity:1.0;}
+g:focus{outline:none;}
+</style>
 </svg>
