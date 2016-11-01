@@ -384,5 +384,7 @@
 #layer14{opacity:0.0001;}
 #layer14:focus{opacity:1;}
 #layer15{opacity:0.0001;}
-#layer15:focus{opacity:1;}</style>
+#layer15:focus{opacity:1;}
+g:focus{outline:none;}
+</style>
 </svg>

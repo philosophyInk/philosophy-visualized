@@ -172,5 +172,6 @@
 #layer5{opacity:0.0001;}
 #layer5:focus{opacity:1;}
 #layer6{opacity:0.0001;}
-#layer6:focus{opacity:1;}</style>
+#layer6:focus{opacity:1;}
+g:focus{outline:none;}</style>
 </svg>
