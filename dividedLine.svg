@@ -370,5 +370,7 @@ with EC; belief with CD; and imaging with DB.</desc>
 #layer18{opacity:0.0001;}
 #layer18:focus{opacity:1;}
 #layer19{opacity:0.0001;}
-#layer19:focus{opacity:1;}</style>
+#layer19:focus{opacity:1;}
+g:focus{outline:none;}
+</style>
 </svg>
